@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="editorial" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Neuroanatomy and Behaviour</journal-id>
+      <journal-id journal-id-type="doi">10.35430/nab</journal-id>
+      <journal-title-group>
+        <journal-title>Neuroanatomy and Behaviour</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">NAB</abbrev-journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">2652-1768</issn>
+      <publisher>
+        <publisher-name>Episteme Health Inc.</publisher-name>
+        <publisher-loc>
+          <city>Melbourne</city>
+          <state>Victoria</state>
+          <country>Australia</country>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.35430/nab.2019.e5</article-id>
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>
+          <subject>Biological Sciences</subject>
+          <subject>Neurosciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Why would someone want to present their thesis in three minutes?</article-title>
+      </title-group>
+      <contrib-group content-type="author">
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-7745-5252</contrib-id>
+          <name>
+            <surname>Evangelista</surname>
+            <given-names>Czarina</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation-a38cc1472c29299beefe3857739a44db" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="affiliation-a38cc1472c29299beefe3857739a44db">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000 0004 1936 8630</institution-id>
+          <institution>Center for Studies in Behavioral Neurobiology, Department of Psychology, Concordia University, Montreal, Quebec, Canada</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* <email>czarina.evangelista@concordia.ca</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="2019-06-20">
+        <day>20</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e5</elocation-id>
+      <permissions>
+        <copyright-statement>Copyright © 2019 Czarina Evangelista</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <copyright-holder>Czarina Evangelista</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+	  <license-p>Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>When family members would ask ”What do you study in your research?”, I would always struggle to answer. While graduate school trains us to communicate with experts in our field, it is often harder to communicate our research with members of our family and the general public. Participating in the three minute thesis competition at Concordia University forced me to simplify complex concepts so that they would fit within the short time limit. As scientists, we aim to better the lives of humans and the environment and we have a responsibility to share this with the public. Learning to communicate our ideas simply, without jargon, and while staying patient and positive, we can become better communicators.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Science communication</kwd>
+        <kwd>Graduate school</kwd>
+        <kwd>Three minute thesis</kwd>
+        <kwd>Public speaking</kwd>
+        <kwd>Professional development</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+<body>
+    <sec>
+      <title>Your time starts now</title>
+      <p>The last time I went home to the Philippines I noticed that members of my family always asked me the same three questions. When are you getting married? Why are you still in school? What do you study in your research? The answers to the first two questions are easy, but I always struggled with the third question. I am a PhD student at Concordia University’s Center for Studies in Behavioral Neurobiology (CSBN). To my peers, I would say that I am studying a motivational phenomenon called the priming effect of rewards and the role of dopamine transmission. To people that do not have a behavioral neuroscience background, like my family, that description is gibberish.</p>
+      <p>During graduate school, we are rigorously trained to present our scientific work. From classrooms to conferences, we get plenty of practice talking about our research. However, this is often shared with members of the behavioral neuroscience community. Some of these people may be experts in my field of research and some of them may not. Despite not being an expert, having a behavioral neuroscience background can help them piece together information to make sense of it. But for people like my family, it doesn’t come as easy. Unfortunately, graduate school doesn’t provide enough training on communicating our research to the lay population.</p>
+      <p>I participated in the three-minute thesis (3MT) competition at Concordia University in Montreal, Canada to improve my ability to communicate science to the public. I first learned about the 3MT competition when my friend and colleague at the CSBN competed the previous year. I was in the audience witnessing Master’s and PhD students tackle this seemingly impossible task. The goal of the event was for graduate students to present their research in an easy-to-understand manner to a non-specialist audience. They were not allowed to have props and could only use one non-animated static PowerPoint slide.</p>
+      <p>If this doesn’t sound daunting enough, to top it all off, they had to do this in under three minutes! I was so impressed at how each student conquered this challenge that I decided to take a shot at it the following year. Over the course of two months, I invested a substantial amount of time preparing for the 3MT competition. Prior to the day of the competition, each participant was required to attended a series of workshops led by skilled coaches to facilitate us with the content and delivery of our three-minute presentation. There were many instances during the workshops that I wanted to quit. It was difficult figuring out how to make my research relatable and interesting to understand. It was extremely challenging to simplify complex concepts and stay within the three-minute time limit. I felt that it was a lot of work for a very short presentation, especially considering that I’ve worked less for a one-hour presentation given to my peers.</p>
+      <p>Nevertheless, I learned that the work I put toward that very short presentation was worth it in the end. I know it probablysounds cliché, but it’s actually true. It helped me share my research to a general audience. I can finally explain my work to my family, friends, or the person sitting beside me on the plane. But besides that point, I realized that it is important to communicate our research to the public because they are the reason that we are doing this work. From mechanical engineers developing material to reduce energy loss in pipes, biologists addressing climate change, chemists improving drug delivery to cancerous tissue, or behavioral neuroscientists elucidating the mechanisms that underlying motivation to work for rewards, they all share a common goal: They all aim to better the lives of humans and the environment. It is our responsibility to share this information with the public.</p>
+      <p>I am glad that I decided to not give up during the preparations for the 3MT competition because I gained a lot from the experience. During the workshops, the coaches helped me improve how I communicate my work. I learned to phrase my research in a simplified manner. I stepped out of my comfort zone by explaining concepts without using jargon. I learned patience while revising the content of my presentation. I became more confident with my ability to speak publicly. While I am in the middle of writing my PhD thesis, I have been applying the things I learned from the 3MT workshops and competition into my writing. I try to simplify complex ideas, I avoid using jargon as crutches when articulating complex concepts, and I’ve tried to stay patient and positive during the entire process. In the end, I was fortunate enough to be awarded the title of  the PhD winner for Concordia University’s 3MT competition. I shared the YouTube video of my three-minute talk to my family, so now I’ve answered that question!</p>
+    </sec>
+    <sec>
+      <title>Declarations</title>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>3MT coaching was provided by GradProSkills at Concorida University.</p>
+      </sec>
+      <sec>
+        <title>Conflict of Interest Declaration</title>
+        <p>The author declares no conflicts of interest.</p>
+      </sec>
+    </sec>
+  </body>
+</article>

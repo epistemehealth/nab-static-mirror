@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="editorial" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Neuroanatomy and Behaviour</journal-id>
+      <journal-id journal-id-type="doi">10.35430/nab</journal-id>
+      <journal-title-group>
+        <journal-title>Neuroanatomy and Behaviour</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">NAB</abbrev-journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">2652-1768</issn>
+      <publisher>
+        <publisher-name>Episteme Health Inc.</publisher-name>
+        <publisher-loc>
+          <city>Melbourne</city>
+          <state>Victoria</state>
+          <country>Australia</country>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.35430/nab.2019.e7</article-id>
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>
+          <subject>Biological Sciences</subject>
+          <subject>Neurosciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Neuroscience publishing is too important to leave to publishers</article-title>
+      </title-group>
+      <contrib-group content-type="author">
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0972-3788</contrib-id>
+          <name>
+            <surname>Khoo</surname>
+            <given-names>Shaun Yon-Seng</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation-d4933c1cb2bbc3fac7908b0f759cd7ea" />
+          <xref ref-type="aff" rid="affiliation-2adf3c81747a2960374f9902950c308d" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
+          <xref ref-type="award" rid="funder-04dd16933ad56993787b8b60922633e2" />
+        </contrib>
+      </contrib-group>
+      <aff id="affiliation-d4933c1cb2bbc3fac7908b0f759cd7ea">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000 0001 2104 2136</institution-id>
+          <institution>Department of Pharmacology and Physiology, Faculty of Medicine, Université de Montréal, Montreal, Quebec, Canada</institution>
+        </institution-wrap>
+      </aff>
+      <aff id="affiliation-2adf3c81747a2960374f9902950c308d">
+        <institution-wrap>
+          <institution>Episteme Health Inc., Melbourne, Victoria, Australia</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* <email>shaun.khoo@umontreal.ca</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="2019-06-20">
+        <day>20</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>2019</volume>
+      <elocation-id>ed1</elocation-id>
+      <permissions>
+        <copyright-statement>Copyright © 2019 Shaun Khoo</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <copyright-holder>Shaun Khoo</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+	  <license-p>Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Almost every open access neuroscience journal is pay-to-publish. This leaves neuroscientists with a choice of submitting to journals that not all of our colleagues can legitimately access and choosing to pay large sums of money to publish open access. <italic id="italic-1">Neuroanatomy and Behaviour </italic>is a new platinum open access journal published by a non-profit association of scientists. Since we do not charge fees, we will focus entirely on the quality of submitted articles and encourage the adoption of reproducibility-enhancing practices, like open data, preregistration, and data quality checks. We hope that our colleagues will join us in this endeavour so that we can support good neuroscience no matter where it comes from.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Open access</kwd>
+        <kwd>Scholarly publishing</kwd>
+        <kwd>Neuroscience</kwd>
+        <kwd>Reproducibility</kwd>
+        <kwd>Open data</kwd>
+        <kwd>Preregistration</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funder-04dd16933ad56993787b8b60922633e2">
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">10.13039/501100000156</institution-id>
+              <institution>Fonds de Recherche du Québec - Santé</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>
+        <bold>From the editor</bold>
+      </title>
+      <p>Behavioural neuroscience needs another journal. When choosing a journal, we have previously had the choice of submitting to a subscription journal that not all of our colleagues can legitimately access and choosing to hand over a large sum of money to publish in a journal that is open access. But subscription limits our audience and the vanity press of pay-to-publish open access creates perverse incentives that undermine research quality <xref ref-type="bibr" rid="ref1">[1-3]</xref>.</p>
+      <p >The amount that libraries and authors are paying is rising much faster than inflation. While open access was proposed, in part, as a solution to the hyperinflation of journal subscription fees, also known as the serials crisis <xref ref-type="bibr" rid="ref4">[4-6]</xref>, article processing charges at open access journals are also rising much faster than inflation, underwritten by the price insensitivity of academics <xref ref-type="bibr" rid="ref7">[7]</xref>.</p>
+      <p>Changes to this system have not been forthcoming despite decades of advocacy <xref ref-type="bibr" rid="ref8">[8]</xref>. It has become clear that we cannot and should not wait for academic, institutional, or funder leadership to implement a system of scholarly communication that is relatively free of perverse incentives and business models. Behavioural neuroscientists work on problems relevant to adolescence and childhood, addiction, trauma, ageing, and dementia. We cannot allow the communication of our findings to be hampered by archaic systems or high fees.</p>
+      <p>This is where <italic>Neuroanatomy and Behaviour</italic> steps in. Published by Episteme Health Inc., a non-profit association of scientists, we are building a journal around a community of scientists for the benefit of our field and mental health. Our editorial board is composed primarily of emerging leaders, who studies have repeatedly shown are among the most capable and competent reviewers <xref ref-type="bibr" rid="ref9">[9-12]</xref>. We believe a journal edited by scientists, free of the conflicts of interest inherent in commercial publishing, will enable the open sharing of quality research while keeping research funds doing research.</p>
+      <p><italic>Neuroanatomy and Behaviour</italic> will encourage the use reproducibility-enhancing practices, like open data, preregistration, and strong internal quality control or audit processes <xref ref-type="bibr" rid="ref13">[13,14]</xref>. We will ask reviewers to only give their highest methodology ratings to papers that use one or more of these practices, giving scientists that employ them an advantage in editorial selection.</p>
+      <p>Modern technology and software allow us to publish academic work at negligible cost. Web hosting, metadata registration, and digital preservation are quite affordable for a small journal. Free open source software, such as Open Journal Systems and LaTeX allow us to operate without needing to hire staff for journal management or typesetting. We can therefore focus on the substance of what we are offering – rigorous peer review and editorial selection in support of medical advances.</p>
+      <p>We hope that our colleagues will join us in supporting good science by participating in the journal as authors, reviewers, readers, and editors.</p>
+    </sec>
+    <sec>
+      <title>Declarations</title>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>SYK is supported by a postdoctoral fellowship from the Fonds de Recherche du Québec - Santé (Funder ID: <ext-link xlink:href="https://doi.org/10.13039/501100000156">10.13039/501100000156</ext-link>).</p>
+      </sec>
+      <sec>
+        <title>Conflict of Interest Declaration</title>
+        <p>SYK is President of Episteme Health Inc. and a review editor at Frontiers for Behavioral Neuroscience. He is not remunerated for these roles.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <issue>7415</issue>
+          <page-range>179-179</page-range>
+          <volume>489</volume>
+          <year>2012</year>
+          <pub-id pub-id-type="doi">10.1038/489179a</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beall</surname>
+              <given-names>Jeffrey</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <article-title>Predatory publishers are corrupting open access</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <issue>2</issue>
+          <page-range>79-83</page-range>
+          <volume>26</volume>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.1087/20130203</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beall</surname>
+              <given-names>Jeffrey</given-names>
+            </name>
+          </person-group>
+          <source>Learned Publishing</source>
+          <article-title>Predatory publishing is just one of the consequences of gold open access</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <volume>7</volume>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.3389/fnbeh.2013.00057</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haspelmath</surname>
+              <given-names>Martin</given-names>
+            </name>
+          </person-group>
+          <source>Frontiers in Behavioral Neuroscience</source>
+          <article-title>Why open-access publication should be nonprofit—a view from the field of theoretical language science</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>167-176</page-range>
+          <volume>14</volume>
+          <year>2001</year>
+          <pub-id pub-id-type="doi">10.1087/095315101750240412</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Houghton</surname>
+              <given-names>John W.</given-names>
+            </name>
+          </person-group>
+          <source>Learned Publishing</source>
+          <article-title>Crisis and transition: the economics of scholarly communication</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>285-289</page-range>
+          <volume>16</volume>
+          <year>2003</year>
+          <pub-id pub-id-type="doi">10.1087/095315103322422035</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tananbaum</surname>
+              <given-names>Greg</given-names>
+            </name>
+          </person-group>
+          <source>Learned Publishing</source>
+          <article-title>Of wolves and and boys: the scholarly communication crisis</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <issue>1</issue>
+          <volume>14</volume>
+          <year>2003</year>
+          <pub-id pub-id-type="doi">10.18352/lq.7755</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prosser</surname>
+              <given-names>David</given-names>
+            </name>
+          </person-group>
+          <source>LIBER Quarterly</source>
+          <article-title>The Next Information Revolution - How Open Access repositories and Journals will Transform Scholarly Communications</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <issue>1</issue>
+          <page-range>1</page-range>
+          <volume>29</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.18352/lq.10280</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khoo</surname>
+              <given-names>Shaun Yon-Seng</given-names>
+            </name>
+          </person-group>
+          <source>LIBER Quarterly</source>
+          <article-title>Article Processing Charge Hyperinflation and Price Insensitivity: An Open Access Sequel to the Serials Crisis</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>325-329</page-range>
+          <volume>30</volume>
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.1002/leap.1116</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Green</surname>
+              <given-names>Toby</given-names>
+            </name>
+          </person-group>
+          <source>Learned Publishing</source>
+          <article-title>We've failed: Pirate black open access is trumping green and gold and we must change our approach</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>231</page-range>
+          <volume>280</volume>
+          <year>1998</year>
+          <pub-id pub-id-type="doi">10.1001/jama.280.3.231</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Black</surname>
+              <given-names>Nick</given-names>
+            </name>
+          </person-group>
+          <source>JAMA</source>
+          <article-title>What Makes a Good Reviewer and a Good Review for a General Medical Journal?</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <issue>1</issue>
+          <page-range>e40</page-range>
+          <volume>4</volume>
+          <year>2007</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.0040040</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Callaham</surname>
+              <given-names>Michael L</given-names>
+            </name>
+            <name>
+              <surname>Tercier</surname>
+              <given-names>John</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Hornung</surname>
+              <given-names>Richard</given-names>
+            </name>
+          </person-group>
+          <source>PLoS Medicine</source>
+          <article-title>The Relationship of Previous Training and Experience of Journal Peer Reviewers to Subsequent Review Quality</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <issue>10</issue>
+          <page-range>658-659</page-range>
+          <volume>312</volume>
+          <year>1985</year>
+          <pub-id pub-id-type="doi">10.1056/nejm198503073121024</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stossel</surname>
+              <given-names>Thomas P.</given-names>
+            </name>
+          </person-group>
+          <source>New England Journal of Medicine</source>
+          <article-title>Reviewer Status and Review Quality</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <issue>8</issue>
+          <page-range>422-428</page-range>
+          <volume>8</volume>
+          <year>1993</year>
+          <pub-id pub-id-type="doi">10.1007/bf02599618</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Evans</surname>
+              <given-names>Arthur T.</given-names>
+            </name>
+            <name>
+              <surname>Mcnutt</surname>
+              <given-names>Robert A.</given-names>
+            </name>
+            <name>
+              <surname>Fletcher</surname>
+              <given-names>Suzanne W.</given-names>
+            </name>
+            <name>
+              <surname>Fletcher</surname>
+              <given-names>Robert H.</given-names>
+            </name>
+          </person-group>
+          <source>Journal of General Internal Medicine</source>
+          <article-title>The characteristics of peer reviewers who produce good-quality reviews</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <issue>7705</issue>
+          <page-range>281-281</page-range>
+          <volume>557</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1038/d41586-018-05140-x</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Winchester</surname>
+              <given-names>Catherine</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <article-title>Give every paper a read for reproducibility</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>e0195613</page-range>
+          <volume>13</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0195613</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barnett</surname>
+              <given-names>Adrian G.</given-names>
+            </name>
+            <name>
+              <surname>Zardo</surname>
+              <given-names>Pauline</given-names>
+            </name>
+            <name>
+              <surname>Graves</surname>
+              <given-names>Nicholas</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Wicherts</surname>
+              <given-names>Jelte M.</given-names>
+            </name>
+          </person-group>
+          <source>PLOS ONE</source>
+          <article-title>Randomly auditing research labs could be an affordable way to improve research quality: A simulation study</article-title>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

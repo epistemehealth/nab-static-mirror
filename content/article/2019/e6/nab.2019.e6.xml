@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="editorial" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Neuroanatomy and Behaviour</journal-id>
+      <journal-id journal-id-type="doi">10.35430/nab</journal-id>
+      <journal-title-group>
+        <journal-title>Neuroanatomy and Behaviour</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">NAB</abbrev-journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">2652-1768</issn>
+      <publisher>
+        <publisher-name>Episteme Health Inc.</publisher-name>
+        <publisher-loc>
+          <city>Melbourne</city>
+          <state>Victoria</state>
+          <country>Australia</country>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.35430/nab.2019.e6</article-id>
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>
+          <subject>Biological Sciences</subject>
+          <subject>Neurosciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>How to find the right postdoctoral position for you</article-title>
+      </title-group>
+      <contrib-group content-type="author">
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5358-2532</contrib-id>
+          <name>
+            <surname>Tran</surname>
+            <given-names>Dominic M. D.</given-names>
+          </name>
+          <email>minh.d.tran@sydney.edu.au</email>
+          <xref ref-type="aff" rid="affiliation-2d1bb93bf775cfea44d1ac702416a476" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
+          <xref ref-type="award" rid="funder-ce1437f2967b7983f67d3f709c398a13" />
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="no" corresp="no" deceased="no">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0364-8502</contrib-id>
+          <name>
+            <surname>Veldre</surname>
+            <given-names>Aaron</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation-2d1bb93bf775cfea44d1ac702416a476" />
+          <xref ref-type="award" rid="funder-57ba2587d1824910a4131653c308a2fd" />
+          <xref ref-type="award" rid="funder-249f112305822131ca7189db17d3bf11" />
+        </contrib>
+      </contrib-group>
+      <aff id="affiliation-2d1bb93bf775cfea44d1ac702416a476">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000 0004 1936 834X</institution-id>
+          <institution>School of Psychology, The University of Sydney, Sydney, New South Wales, Australia</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* <email>minh.d.tran@sydney.edu.au</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="2019-06-20">
+        <day>20</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e6</elocation-id>
+      <permissions>
+        <copyright-statement>Copyright © 2019 Dominic M. D. Tran, Aaron Veldre</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <copyright-holder>Dominic M. D. Tran, Aaron Veldre</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+	  <license-p>Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The increasingly competitive academic job market has forced PhD graduates in psychology, neuroscience, and related fields to maximize their research output and secure grant funding during the early postdoctoral period of their careers. In the present article, based on a Q&amp;amp;A session presented at a research retreat (Brain and Behaviour Lab, University of Sydney) in February 2018, we draw on our firsthand experiences of navigating the transition from graduate student to postdoc. We offer practical advice to students who may be nearing the end of their PhDs and planning their first steps toward an academic career. Although the postdoc experience is varied, it is important for early-career researchers to make optimal choices to increase their chances of securing a continuing academic position. Ultimately, the goal of a postdoctoral position should be to develop all the facets of an academic career, but with a strong focus on the quantity and quality of research outputs.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Careers</kwd>
+        <kwd>Postdoc</kwd>
+        <kwd>Graduate school</kwd>
+        <kwd>Interviews</kwd>
+        <kwd>Jobs</kwd>
+        <kwd>Academia</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funder-ce1437f2967b7983f67d3f709c398a13">
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">10.13039/501100000923</institution-id>
+              <institution>Australian Research Council</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>DP19010041</award-id>
+        </award-group>
+        <award-group id="funder-57ba2587d1824910a4131653c308a2fd">
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">10.13039/501100000923</institution-id>
+              <institution>Australian Research Council</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>DP180102705</award-id>
+        </award-group>
+        <award-group id="funder-249f112305822131ca7189db17d3bf11">
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">10.13039/501100000923</institution-id>
+              <institution>Australian Research Council</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>DP190100719</award-id>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Postdoc Q&amp;A</title>
+      <p>The lead-up to the end of your PhD is hard enough. For most of you, the bulk of the thesis/dissertation will be written in the last several months of your candidature. Worrying about finding a job only adds to this stress. We’re often asked by students in our labs and networks about how we got jobs as postdoctoral researchers. This article is based on a Q&amp;A session at a research retreat organised by the University of Sydney Brain and Behaviour Lab in February 2018, where we answered questions from Sydney-based PhD students about the transition to a postdoc career. Our experience will likely be different to yours, but we hope you find our answers helpful.</p>
+    </sec>
+    <sec>
+      <title>1. Should I stay in research or academia?</title>
+      <p><bold>DT</bold>: Sorry, but I don’t have a good answer to this question for you. I don’t even have a good answer for myself, or my friends and postdoctoral colleagues who regularly ask themselves this question. A lot of us are passionate about science, the pursuit of knowledge, and the possibility of our research findings having real-world impact, but I know a lot of us also struggle to reconcile this with the sacrifices that come with the job. What I can tell you, though, is that I did find the first few months of my postdoc easier to manage than my PhD. This may have been due to a number of reasons (some of which will come to light in the subsequent sections), but this ease didn’t last long. To be a successful postdoc and have a shot at getting a permanent faculty position, you need to publish and secure grants. Unfortunately, it’s true what they say – publish or perish.</p>
+      <p>You probably think you already know how important it is to publish your work, but I only truly realised and properly comprehended the significance of this when I applied for my first grant and filled out the publication list section. Publishing was even more important than I realised. You can still get postdoc jobs with people who know your good work from papers or conferences having few publications. You’re far less likely to get grants from a mixed bag of reviewers having few publications though. I am noticing a slow push for quality over quantity, but of course, when assessing grant applications, the quality of a list of publications is harder to communicate off the page than a long list of publications.</p>
+      <p><bold>AV</bold>: For a lot of people I think the decision of whether to stay in research ultimately comes down to timing and opportunity. If you have been lucky enough to have a positive PhD experience—your experiments worked, you managed to get some publications, you found the experience mostly enjoyable—you will be in a good position to judge whether the postdoc path is right for you. It certainly isn’t right for everybody. As competition for <xref ref-type="fig" rid="figure1">faculty jobs</xref> has intensified, the new reality is for PhD graduates to do 2 or 3 postdocs, which means a longer period of unstable, insecure employment. The financial and personal consequences of this are definitely something to keep in mind, particularly if you’re planning to buy a house or start a family.</p>
+      <fig id="figure1">
+	<object-id>figure1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Figure 1.</title>
+          <p>“It’s an odd job” from “Piled Higher and Deeper” by Jorge Cham. www.phdomics.com © 2013 Jorge Cham. Reproduced with permission.</p>
+        </caption>
+        <graphic mime-subtype="png+xml" mimetype="image" xlink:href="figure1.png" />
+      </fig>
+    </sec>
+    <sec>
+      <title>2. When should I start looking for a postdoc?</title>
+      <p><bold>DT</bold>: I started looking for jobs about 6 months before I submitted my thesis (there is no PhD viva at UNSW Sydney, only a thesis examination process). Of course, you might want to hold off looking until you’ve submitted or defended your thesis but a lot of jobs will accept applications from PhD students nearing completion. Some jobs are more flexible than others with negotiating a start date so the timing can be tricky. I was offered a job that required me to have my thesis submitted (but not necessarily approved) before starting. I was lucky enough to have a start date that was somewhat negotiable, but there’s nothing like a hard deadline to get you to complete your thesis! I submitted on a Friday, and started working the following Monday. I didn’t necessarily mind the quick turnaround. For me, having the certainty of a paying job lined up was more important than having a long break after I submitted.</p>
+      <p><bold>AV</bold>: I was lucky enough to be offered a short-term research contract by my PhD supervisor after finishing my PhD, which relieved the pressure of having to look for a job while I was writing up my thesis. In hindsight, I would have started looking for a postdoc job earlier, but at the time I wasn’t sure I necessarily wanted to stay in research. The opportunity to consolidate my research output from my PhD and develop new lines of enquiry ultimately outweighed the negatives of the postdoc lifestyle.</p>
+    </sec>
+    <sec>
+      <title>3. How do I go about looking for a job?</title>
+      <p><bold>DT</bold>: There are a lot of good websites for finding postdoc jobs – I found them by asking around (for example <ext-link ext-link-type="uri" xlink:href="https://www.jobs.ac.uk/">jobs.ac.uk</ext-link> or <ext-link ext-link-type="uri" xlink:href="https://www.timeshighereducation.com/unijobs/">Times Higher Education’s unijobs</ext-link>). Societies will also post jobs in their newsletters so make sure you subscribe. You can even find jobs advertised on Twitter. Contacting academics and organising lab visits during your candidature is a great way of letting people know who you are and the good work that you do. I was informed about new postdoc positions from two lab heads that I visited during my candidature. I am also aware of several students who visited labs and were told “I would like to hire you if I get a grant”. Of course, you can’t rely on those academics getting grants, that’s the nature of the game. If these lab heads don’t get a grant this round, you don’t want to be looking for another year.</p>
+      <p>Networking at conferences is another way of letting people know who you are and finding out about available jobs. However, I personally don’t like networking at conferences and rarely do it. I will even avoid people that I really should be talking to, which is why I prefer lab visits. When organising a lab visit, the first interaction is via email. Then if they agree for you to visit their lab, you will have time to prepare a talk or something for the meeting. Lab visits do require travel funding but costs can be reduced if you combine them with a conference. Don’t be afraid to email academics. Whether this be to organise a lab visit, or to let them know that you are nearing completion and are looking for a job. Attach a CV and your best paper. Worst case scenario, you don’t get a reply. Best case scenario, you get to visit an interesting lab and find out about an open position that wasn’t widely advertised.</p>
+      <p><bold>AV</bold>: Be aware of the timing of grant announcements and check the websites of funding bodies (e.g., ARC and NHMRC in Australia) to determine who in your network was successful in securing a new grant and may therefore be looking to hire a postdoc. There’s also nothing wrong with contacting researchers who have recently got a grant to do research in an area that you want to work, even if you don’t know them personally.</p>
+    </sec>
+    <sec>
+      <title>4. Do you have any interview tips?</title>
+      <p><bold>DT</bold>: Most of you will know to prepare answers to some questions before the interview. If the job is connected to a specific grant, your answers should demonstrate that you understand the project both theoretically and practically. What experiments would you conduct? What problems might you encounter when running these experiments? Having done a few interviews now, it has consistently been the case that I have thought of better answers to questions after the interview than during the interview. Take your time answering questions, ask for a bit of time to think about your answer if you need it. This can help minimise the regret and rumination post-interview. One thing I have recently started doing after interviews is to go back to my prepared answers and add notes: “Emphasise this point more next time” or “Elaborate on this point more next time”. The hope is that if you are asked a similar question again, you will be able to answer it better.</p>
+      <p><bold>AV</bold>: It’s really important to try to convey to the interviewer(s) that you are somebody who will make a valuable contribution to the research team. They will obviously be looking for you to have a good knowledge of the topic area, but maybe more importantly, they want to know that you will have the right attitude and the capacity to work semi-independently within the scope of the project. Use the answers to behavioural-style interview questions to demonstrate your ability to work effectively in a research team, and to overcome challenges and inevitable problems. You should also use the interview to gauge whether the job is the best fit for you. How much autonomy will you be given to lead the trajectory of the project? Will you be able to develop new skills that will help you to secure grant funding or future job opportunities?</p>
+    </sec>
+    <sec>
+      <title>5. How do I know that the job is the right postdoc for me?</title>
+      <p><bold>DT</bold>: The decision to accept a postdoc position can also be very hard. This is normal because it closes the opportunities elsewhere, postdoc or otherwise. I think there are three main aspects to consider here. The project, the lab/people, and the location. The trifecta is of course ideal (and rare), but I think that ticking two of the three check boxes is a good arrangement. It is possible to get a job outside of your PhD area – I did. I went from working in behavioural neuroscience to cognitive neuroscience. Of course, doing this can slow your research output compared to staying in your PhD area since you have to familiarise yourself with a new literature. You have to learn new skills as well, but this isn’t necessarily a negative. In the short- to medium-term, you might even be asked to review less papers as you are no longer building a track record in one area. On the plus side, you can apply your skills and expertise from your previous research area to ask novel questions in your new research area. I also recommend reading Kara Mosovsky’s Science Careers article on this topic <xref ref-type="bibr" rid="ref1">[1]</xref>.</p>
+      <p><bold>AV</bold>: Unfortunately, you can never really know this for sure. Some of the risk of accepting the wrong position can be mitigated, however, by doing some research before applying for a job. Try and find out as much as you can about the lab from people in your network. Does your PhD supervisor know the lab head? Do you know anybody that has worked in the lab? It’s also very important to consider the impact of taking a particular job on your quality of life. For instance, will the job involve moving away from friends and family? How will this impact on your relationship and lifestyle?</p>
+    </sec>
+    <sec>
+      <title>6. Is it bad to stay with your PhD supervisor or lab?</title>
+      <p><bold>DT</bold>: Some would say yes, but I think not necessarily. Working as a postdoc in your PhD lab for a year or so while you’re finding another position can be a good thing. You can finish off projects and write up papers without the productivity cost that comes with starting in a new lab. When moving from one postdoc to another postdoc, I think it’s good to wrap up as many projects as possibly so you’re not juggling too much of your old job when you’re starting the new one. Staying in your PhD lab as a postdoc can leave you in a more manageable and less stressful position for when you start your second. If you do stay in the same lab it is critical when applying for jobs or grants to emphasise your ability to work independently and lead research.</p>
+      <p><bold>AV</bold>: As someone who did stay in the same lab for my postdoc after finishing my PhD, I agree that there are both positives and negatives to not moving. Personally, staying in the same lab enabled me to increase my rate of publication because I did not have to start from scratch in a different research area and read a whole new literature. I know that this boost to my productivity has increased my competitiveness for jobs and grants. I had also developed a highly effective working relationship with my PhD supervisor which I was able to maintain. However, transitioning this relationship to colleagues was a bit tricky, and, in some ways, the mentor-student dynamic has remained. I also think grant assessors and selection committees will probably look less favourably at my applications given that I did not move labs after my PhD. So, I think there is definitely a trade-off.</p>
+    </sec>
+    <sec>
+      <title>7. How much "non-contract" research work is acceptable?</title>
+      <p><bold>DT</bold>: I used to only do “non-contract” work (i.e., research work not relating to your current job position; e.g., analysing data from old projects, finish off manuscripts from previous labs) on the weekends during the first one or two years of being a postdoc. I felt guilty doing this “other” work during the working week for which the person who was paying me wouldn’t be an author on the output. However, I have become more comfortable doing external research during the working week. I figure it’s part of the job to build my research profile, and most lab heads will usually be very understanding as long as you’re still finishing the work the needs to be done first. Besides, you’re probably doing some work on the weekends anyway, so it doesn’t really matter what work get done when. Although, I have also become much more reluctant about working on weekends; this is in part due to my move from behavioural neuroscience to cognitive neuroscience research, but also my changing perspectives about life and work.</p>
+      <p><bold>AV</bold>: It’s usually expected that postdocs will devote some of their time to independent research work that may or may not involve their research supervisor. Developing and maintaining these additional collaborations is vital to building a research network and growing your research output and future job opportunities. You may also need to engage in other work like teaching, supervision, and service (e.g., peer review) in order to build your CV. It is worth having a conversation about this early on during your postdoc so that everybody’s expectations are clear.</p>
+    </sec>
+    <sec>
+      <title>Declarations</title>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>DMDT’s postdoctoral position is funded by an Australian Research Council Discovery Project (Funder ID: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.13039/501100000923">10.13039/501100000923</ext-link>, Grant ID: DP19010041). AV’s postdoctoral position is funded by Australian Research Council Discovery Projects (Funder ID: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.13039/501100000923">10.13039/501100000923</ext-link>, Grant IDs: DP180102705 and DP190100719).</p>
+      </sec>
+      <sec>
+        <title>Conflict of Interest Declaration</title>
+        <p>DMDT is a member of the committee of management of Episteme Health Inc. The authors declare no other conflicts of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1"><label>1</label>
+        <element-citation publication-type="journal">
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1126/science.caredit.aay2761</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mosovsky</surname>
+              <given-names>Kara</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <article-title>Branching out from my area of expertise felt risky—but I did it anyway</article-title>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

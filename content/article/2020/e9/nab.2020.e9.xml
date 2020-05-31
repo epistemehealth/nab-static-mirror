@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="{{ if ( in .Page.Params.articleType "editorial" }}editorial{{ end }}" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Neuroanatomy and Behaviour</journal-id>
+      <journal-id journal-id-type="doi">10.35430/nab</journal-id>
+      <journal-title-group>
+        <journal-title>Neuroanatomy and Behaviour</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">NAB</abbrev-journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">2652-1768</issn>
+      <publisher>
+        <publisher-name>Episteme Health Inc.</publisher-name>
+        <publisher-loc>
+          <city>Melbourne</city>
+          <state>Victoria</state>
+          <country>Australia</country>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.35430/nab.2020.e9</article-id>
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>
+          <subject>Biological Sciences</subject>
+          <subject>Neurosciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Enhancing scientific dissemination in neuroscience via preprint peer-review: “Peer Community In Circuit Neuroscience”</article-title>
+      </title-group>
+      <contrib-group content-type="author">
+        <contrib contrib-type="author" equal-contrib="no" corresp="no" deceased="no">
+          <name>
+            <surname>Mercier</surname>
+            <given-names>Marion S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation-36e03461c8d1656df0d311dccc0f2dd0" />
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="no" corresp="no" deceased="no">
+          <name>
+            <surname>Magloire</surname>
+            <given-names>Vincent</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation-36e03461c8d1656df0d311dccc0f2dd0" />
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <name>
+            <surname>Karnani</surname>
+            <given-names>Mahesh</given-names>
+          </name>
+          <email>contact@cneuro.peercommunityin.org</email>
+          <xref ref-type="aff" rid="affiliation-37a582323c7b5d7b6493f9664aafb7b9" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="affiliation-36e03461c8d1656df0d311dccc0f2dd0">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000 0001 2190 1201</institution-id>
+          <institution>Institute of Neurology, UCL, London, United Kingdom</institution>
+        </institution-wrap>
+      </aff>
+      <aff id="affiliation-37a582323c7b5d7b6493f9664aafb7b9">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000 0001 2156 2780</institution-id>
+          <institution>Institute for Neuroscience, ETH Zürich, Switzerland</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* <email>contact@cneuro.peercommunityin.org</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="2020-01-01">
+        <day>01</day>
+        <month>01</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>2</volume>
+      <elocation-id>e9</elocation-id>
+      <permissions>
+        <copyright-statement>Copyright © 2020 Marion Mercier, Vincent Magloire, Mahesh Karnani</copyright-statement>
+        <copyright-year>2020</copyright-year>
+        <copyright-holder>Marion Mercier, Vincent Magloire, Mahesh Karnani</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+	  <license-p>Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The dissemination of scientific results and new technologies in biomedical science is rapidly evolving from an exclusive and fee-oriented publishing system towards more open, free and independent strategies for sharing knowledge. In this context, preprint servers such as bioRxiv answer a very real scientific need by enabling the rapid, free and easy dissemination of findings, regardless of whether these are novel, replicated, or even showcasing negative results. Currently, thousands of manuscripts are being shared via bioRxiv each month, and neuroscience is the largest and fastest growing subject category. However, commenting on bioRxiv is declining and no structured scientific validation such as peer-review is currently available. The Peer Community In (PCI) platform addresses this unmet need by facilitating the rigorous evaluation and validation of preprints, and <ext-link xlink:href="https://cneuro.peercommunityin.org/">PCI Circuit Neuroscience</ext-link> (PCI C Neuro) aims to develop and extend this tool for the neuroscience community. Here we discuss PCI C Neuro’s mission, how it works, and why it is an essential initiative in this new era of open science.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Circuit Neuroscience</kwd>
+        <kwd>Publishing</kwd>
+        <kwd>Preprints</kwd>
+        <kwd>Peer Review</kwd>
+        <kwd>Open Access</kwd>
+        <kwd>Open Science</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>The importance of preprints for the dissemination of scientific findings</title>
+      <p>Preprints are early versions of scientific manuscripts, preceding peer-review and final publication in journals. They are posted on online servers that are freely accessible both to the scientific community and to the general public. Many such servers exist, supported by various research organisations, that archive preprints for different scientific fields - arXiv for maths and physics, chemRxiv for chemistry, paleorXiv for paleontology, bioRxiv for biology and very recently medRxiv for health sciences, to name just a few. Hence, in most if not all scientific fields, researchers now have the possibility to share their findings before publication thanks to preprints; but what are the advantages of doing this? </p>
+      <p>The publishing system as it currently stands does not disseminate scientific findings in an open or efficient manner. Indeed, publisher-imposed paywalls prevent not only the public from accessing the latest research, the vast majority of which is in fact funded by public money, but also the scientists themselves, who must pay both to publish and to read their own articles. While the recent launch of the ‘open access’ publishing initiative, Plan S, is beginning to challenge this system, the cost of the resultingly mandatory open access is born not by the publishers, but by the scientists and academic institutions who must often pay increasingly larger sums in order to publish their work free of paywalls <xref ref-type="bibr" rid="ref1">[1,2]</xref>. Hence, one of the main advantages of preprints is in enabling the free dissemination of scientific findings. A second important benefit is the speed at which these findings can be shared. Indeed, a preprint becomes accessible to all within just a few hours of its initial submission, while it will take an average of five months to a year to publish an article in a journal <xref ref-type="bibr" rid="ref3">[3,4]</xref>. Unsurprisingly then, it has been estimated that preprints could accelerate scientific innovation in the next 10 years five-fold <xref ref-type="bibr" rid="ref5">[5]</xref>. A third factor is the visibility of research, which appears to be enhanced by preprinting, with articles deposited on bioRxiv prior to publication receiving more citations and attention on social media than those going directly to journals <xref ref-type="bibr" rid="ref6">[6]</xref>. Finally, preprints are providing an alternative way to evaluate scientists’ productivity, with most large funding bodies, such as the National Institutes of Health <xref ref-type="bibr" rid="ref7">[7]</xref>, <ext-link ext-link-type="uri" xlink:href="https://wellcome.ac.uk/news/we-now-accept-preprints-grant-applications">Wellcome Trust</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://erc.europa.eu/content/erc-work-programme-2019">European Research Council</ext-link>, to name a few, now accepting them on CVs for grant applications. This is a crucial development, as publishing in journals currently constitutes the most important metric of academic achievement, and early career researchers in particular are thus highly dependent on this painfully slow process to obtain career advancement.</p>
+      <p>Almost 40,000 preprints were deposited on bioRxiv alone by the end of 2018, and this trend shows no sign of slowing down (<xref ref-type="fig" rid="figure1">Figure 1A</xref>). It is becoming clear, then, that preprints are changing the way that scientists communicate their research, both within the academic community and with the general public, from a fee-oriented publishing system towards a free, rapid and open dissemination model. However, despite the many benefits of preprints outlined here, it is apparent that one important factor could further enhance their utility: scientific discussion and systematic validation of the presented data.</p>
+      <fig id="figure1">
+        <label>Figure 1</label>
+        <caption>
+          <title>Figure 1</title>
+          <p>The need to have an evaluation system for preprints. (A) Number of preprints and comments posted on bioRxiv since 2014 (extracted from bioRxiv in January 2018). (B) Demand for commenting and evaluation of preprints (survey results from ASAPbio 2016 <xref ref-type="bibr" rid="ref8">[8]</xref> under CC-BY 4.0.). The question asked was, <italic>“Would a system of commentary, evaluation, or ratings make preprints potentially more valuable for the community (note: this is not a current feature of arXiv)?”</italic></p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="figure1.png" />
+      </fig>
+    </sec>
+    <sec>
+      <title>Lack of scientific discussion of preprints</title>
+      <p>Einstein is quoted to have said that imagination is more important than knowledge, and - in a chapter on imagination - Beveridge recommended stimulating the mind with discussion <xref ref-type="bibr" rid="ref9">[9]</xref>. There can indeed be no doubting that discussion is beneficial to scientific advancement, and the more open, the better. While bioRxiv does provide a platform for such discussion to take place, it seems that few preprints are in fact discussed in any kind of detail. Indeed, although thousands of manuscripts are shared on bioRxiv each month, the commenting on the site appears to have reached a plateau (<xref ref-type="fig" rid="figure1">Figure 1A</xref>). This is unlikely to be due to saturation of users available to comment, since preprint downloads have grown commensurately with their uploads <xref ref-type="bibr" rid="ref10">[10]</xref>. Critically, this lack of commenting means that authors are still having to rely on expensive journals for feedback and input on ways to improve their manuscripts, and that while some journals are now adopting open peer-reviewing, much of this valuable discussion still occurs behind closed doors. A survey conducted by ASAPbio in 2016 found that 68% of 392 participants agreed that commentary, or some form of evaluation or rating system for biology preprints would be valuable for the community (<xref ref-type="fig" rid="figure1">Figure 1B</xref>) <xref ref-type="bibr" rid="ref8">[8]</xref>. It should be noted that the respondents may have a potential bias toward open science, and a larger survey would be very useful. However, based on this, it seems that the preprinting system as it currently stands is proving essential for the free and rapid dissemination of scientific findings, but is not providing authors with the feedback and discussion they need to improve and advance their research.</p>
+    </sec>
+    <sec>
+      <title>Scientific validation of preprints: the “PCI Circuit Neuroscience” initiative</title>
+      <p>In a traditional publishing model, commentary and feedback from the scientific community exist in the form of formal peer-review, which importantly serves not only to improve the quality of the scientific research, but also to validate the findings. Preprints typically undergo no such assessment, making it difficult for readers to distinguish those manuscripts which are scientifically sound from those that are not, and also for authors to demonstrate the quality of their work (i.e. for job interviews and grant applications). While it is unclear what is inhibiting commenting on bioRxiv’s native comment field, the need for systematic scientific commentary and validation is becoming more recognised and new platforms for preprint peer-review and feedback are beginning to appear and gain traction. Many of these initiatives are listed on ASAPbio’s new <ext-link ext-link-type="uri" xlink:href="https://reimaginereview.asapbio.org/">Reimagine Review</ext-link> site, where their principal functions are neatly categorized into three domains: (1) curation of interesting work, (2) validation of soundness, and (3) feedback to authors. One such initiative is <ext-link ext-link-type="uri" xlink:href="https://peercommunityin.org/">Peer Community In (PCI)</ext-link>, a non-profit organisation that focuses on the latter two categories by providing an open peer-review process for preprints. PCI works by bringing together communities of researchers to review and recommend preprints in their field on a voluntary basis, thus keeping costs to a minimum and enabling <italic>free</italic> preprint peer-review. This, together with the fact that authors can actively submit their work for review, and that PCI does not publish the articles and thus claims no exclusivity over them, makes PCI a truly <ext-link ext-link-type="uri" xlink:href="https://peercommunityin.org/2019/05/21/differences-with-other-projects/">unique</ext-link>, community-driven reviewing platform, fully decoupled from the current for-profit publishing system. It is already well established in a number of fields, notably <ext-link ext-link-type="uri" xlink:href="https://evolbiol.peercommunityin.org/">evolutionary biology</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://ecology.peercommunityin.org/">ecology</ext-link>, but no such platform currently exists for the neuroscience community, despite its huge potential benefit.</p>
+      <sec>
+        <title>What is PCI Circuit Neuroscience?</title>
+        <p>Neuroscience constitutes the most important category on bioRxiv, featuring the greatest number of preprints both submitted and downloaded since the site’s launch in 2013 <xref ref-type="bibr" rid="ref10">[10]</xref> (<xref ref-type="fig" rid="figure2">Figure 2</xref>). As part of the larger PCI initiative, PCI Circuit Neuroscience (PCI C Neuro) will bring together circuit neuroscientists to review preprints, with a particular focus on the following subject areas: neuronal circuits, assemblies, oscillations, neurophysiology, synaptic physiology and plasticity, neuronal biophysics, neuroanatomy, neuropharmacology, behavioural neuroscience and systems neuroscience. Of course, this list is not exhaustive, and PCI also welcomes the creation of additional PCI platforms specialising in other subfields of neuroscience should these fall outside the scope of PCI C Neuro.</p>
+        <fig id="figure2">
+        <label>Figure 2</label>
+          <caption>
+          <title>Figure 2</title>
+          <p>Neuroscience (thick green line) is the largest and fastest growing subject category on bioRxiv as measured in preprints posted/month. Other subject categories in grey. Figure from <ext-link ext-link-type="uri" xlink:href="https://www.rxivist.org/stats">Rxivist</ext-link> website under CC-BY 4.0 <xref ref-type="bibr" rid="ref10">[10]</xref>.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="figure2.png" />
+        </fig>
+        <p>Our mission is to consider all submitted preprints that demonstrate good scientific method and sufficient data to support their conclusions, including studies replicating previously published work and/or showcasing negative results. For each recommended preprint, PCI C Neuro will publish a recommendation text and the full reviewing process. In addition, a progress page logging all submissions and processing timelines will feature on the website for added transparency. Finally, PCI C Neuro will deviate slightly from the original PCI template by accepting parallel submissions of preprints also submitted elsewhere, rather than requesting that authors postpone submission to journals until the PCI review process is complete. Importantly, however, we aim to collaborate with journals, such that preprints that are reviewed and recommended by PCI C Neuro may subsequently be fast-tracked for publication should the journal editors be satisfied by our reviewing standards. This symbiotic relationship is already in place for other PCI platforms and a number of <ext-link ext-link-type="uri" xlink:href="https://peercommunityin.org/pci-friendly-journals/">journals</ext-link>, and we look forward to building our own collaborations within the field of neuroscience, starting with <italic>Neuroanatomy and Behaviour</italic>.</p>
+      </sec>
+      <sec>
+        <title>How does PCI C Neuro work?</title>
+        <fig id="figure3">
+          <label>Figure 3</label>
+          <caption>
+            <title>Figure 3</title>
+            <p>Diagram of the PCI peer-review and recommendation process. </p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="figure3.png" />
+        </fig>
+        <p>As described previously, PCI brings together communities of researchers to peer-review and recommend preprints in their field. But how does it work on a practical level? The process is in fact very similar to that of peer-review for a tradional journal, with the exception that PCI does not publish the manuscript at the end, but only the reviews and a short recommendation piece explaining the importance of the work (<xref ref-type="fig" rid="figure3">Figure 3</xref>). In brief, after having uploaded their manuscript on a preprint server such as bioRxiv, authors can submit it to PCI C Neuro for review. If the work is considered interesting by one of the many PCI C Neuro recommenders (that act like journal editors), they agree to manage the preprint and send it out for review. As with a journal, there may be several rounds of review, which could end in a negative or positive outcome. After each revision, the authors will upload the updated version of their mansucript to the preprint server, until the recommender reaches a final decision. If the preprint is accepted for recommendation, the recommender writes a short citable commentary (the recommendation), which is published along with the reviews and author responses. Reviewers, but not recommenders, may choose to remain anonymous if they wish. </p>
+        <p>While the overall concept is similar to journal peer review, the key difference lies in building a large community of recommenders, such that no one individual must bear the workload of a traditional journal editor; PCI recommenders typically handle up to two review processes per year. By dividing the workload across a large taskforce, PCI not only benefits from a broad and varied pool of expertise, but also allows its reviewing services to remain free and community-driven.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Future perspectives</title>
+      <p>Physical and mathematical sciences are the forerunners in preprinting and scientific validation outside of the traditional publishing system, and their many platforms have waxed and waned over the years [10]. Perhaps we can learn from them, as the evolution of preprints in biology has so far echoed that in physics. Physics platforms were typically driven by single individuals, and often peaked within two years from launch before disappearing in the following years <xref ref-type="bibr" rid="ref11">[11]</xref>. While having multiple experimental preprint review platforms will no doubt also benefit the field of biology – because many substitutable options leads to a healthier publishing ecosystem <xref ref-type="bibr" rid="ref2">[2]</xref> – we should still aim for sustainability: to establish self-sustaining systems of self-organizing peer-review, dependent on and run by the wider community rather than a few individuals <xref ref-type="bibr" rid="ref12">[12]</xref>. The key in our view consists of approval by the field, an operating system that is intuitive and easy to use, low workload, adequate mitigation of perceived risks to reputation and journal submission and reliable stewardship far into the future under a managing board that is refreshed periodically. We hope that PCI in general, and PCI C Neuro in particular, will help to drive this new era of open science, facilitating the free and efficient dissemination of validated scientific findings, not only for the scientific community but also for the general public. </p>
+    </sec>
+    <sec>
+      <title>Declarations</title>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>We thank Denis Bourguet, Thomas Guillemaud, Benoit Facon and Sylvain Piry for enabling us to set up PCI C Neuro, and Jessica Polka, Naomi Penfold, Samantha Hindle, Richard Abdill and Ran Blekhman for reporting preprint use statistics to the community.</p>
+      </sec>
+      <sec>
+        <title>Conflict of Interest Declaration
+</title>
+        <p>Authors are founding members of PCI Circuit Neuroscience which is a part of the ‘Peer Community in’ non-profit scientific organization. The authors receive no remuneration for this role.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Editorial Notes</title>
+      <p>This article was commissioned by the editor-in-chief as part of a partnership between Episteme Health Inc. and Peer Community In. <italic>Neuroanatomy and Behaviour</italic> will accept articles that have been recommended through the PCI process with only one additional review (subject to editorial discretion). Authors who wish to take advantage of this process should inform the editor during submission, the editor will then contact PCI to obtain the PCI reviewer identities (to ensure no overlap between reviewers) and will then invite one additional reviewer. The article may then be accepted without further peer review.</p>
+      <sec>
+        <title>Review</title>
+        <p>Not peer reviewed. Plagiarism detection software found no evidence of plagiarism.</p>
+        </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+      <label>1</label>
+        <element-citation publication-type="journal">
+          <issue>1</issue>
+          <page-range>1</page-range>
+          <volume>29</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.18352/lq.10280</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khoo</surname>
+              <given-names>Shaun Yon-Seng</given-names>
+            </name>
+          </person-group>
+          <source>LIBER Quarterly</source>
+          <article-title>Article processing charge hyperinflation and price insensitivity: An open access sequel to the serials crisis</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+      <label>2</label>
+        <element-citation publication-type="journal">
+          <pub-id pub-id-type="doi">10.7287/peerj.preprints.27809v1</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grossman</surname>
+              <given-names>Alexander</given-names>
+            </name>
+            <name>
+              <surname>Brembs</surname>
+              <given-names>Björn</given-names>
+            </name>
+          </person-group>
+          <source>Peerj Preprints</source>
+          <article-title>Assessing the size of the affordability problem in scholarly publishing</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+      <label>3</label>
+        <element-citation publication-type="webpage">
+          <uri>https://quantixed.org/2015/03/09/waiting-to-happen-publication-lag-times-in-cell-biology-journals/</uri>
+          <date-in-citation iso-8601-date="23 July 2019">23 July 2019</date-in-citation>
+          <year>2015</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Royles</surname>
+              <given-names>S. J.</given-names>
+            </name>
+          </person-group>
+          <source>quantixed</source>
+          <article-title>Waiting to happen: Publication lag times in cell biology journals</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+      <label>4</label>
+        <element-citation publication-type="journal">
+          <issue>1</issue>
+          <page-range>633-650</page-range>
+          <volume>113</volume>
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.1007/s11192-017-2310-5</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huisman</surname>
+              <given-names>Janine</given-names>
+            </name>
+            <name>
+              <surname>Smits</surname>
+              <given-names>Jeroen</given-names>
+            </name>
+          </person-group>
+          <source>Scientometrics</source>
+          <article-title>Duration and quality of the peer review process: the author’s perspective</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+      <label>5</label>
+        <element-citation publication-type="webpage">
+          <uri>https://www.youtube.com/watch?v=zt9hlbet2Lk</uri>
+          <date-in-citation iso-8601-date="23 July 2019">23 July 2019</date-in-citation>
+          <year>2017</year>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quake</surname>
+              <given-names>Stephen</given-names>
+            </name>
+          </person-group>
+          <source>YouTube</source>
+          <article-title>Stanford Medicine Big Data: Precision Health 2017</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+      <label>6</label>
+        <element-citation publication-type="journal">
+          <pub-id pub-id-type="doi">10.1101/673665</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fraser</surname>
+              <given-names>Nicholas</given-names>
+            </name>
+            <name>
+              <surname>Momeni</surname>
+              <given-names>Fakhri</given-names>
+            </name>
+            <name>
+              <surname>Mayr</surname>
+              <given-names>Philip</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>Isabella</given-names>
+            </name>
+          </person-group>
+          <source>bioRxiv</source>
+          <article-title>The effect of bioRxiv preprints on citations and altmetrics</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+      <label>7</label>
+        <element-citation publication-type="journal">
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.1126/science.aal0961</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>Jocelyn</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <article-title>NIH enables investigators to include draft preprints in grant proposals</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+      <label>8</label>
+        <element-citation publication-type="data">
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.6084/m9.figshare.2247616.v1</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Polka</surname>
+              <given-names>Jessica</given-names>
+            </name>
+          </person-group>
+          <source>Figshare</source>
+          <data-title>ASAPbio preprint survey results</data-title>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+      <label>9</label>
+        <element-citation publication-type="book">
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>W. W. Norton &amp; Company</publisher-name>
+          <year>1957</year>
+          <pub-id pub-id-type="isbn">9780393062878</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beveridge</surname>
+              <given-names>William Ian Beardmore</given-names>
+            </name>
+          </person-group>
+          <source>The art of scientific investigation</source>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+      <label>10</label>
+        <element-citation publication-type="journal">
+          <volume>8</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.7554/elife.45133</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdill</surname>
+              <given-names>Richard J</given-names>
+            </name>
+            <name>
+              <surname>Blekhman</surname>
+              <given-names>Ran</given-names>
+            </name>
+          </person-group>
+          <source>eLife</source>
+          <article-title>Tracking the popularity and outcomes of all bioRxiv preprints</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+      <label>11</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>371-387</page-range>
+          <volume>37</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.3233/ISU-170856</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marra</surname>
+              <given-names>Monica</given-names>
+            </name>
+          </person-group>
+          <source>Information Services &amp; Use</source>
+          <article-title>Astrophysicists and physicists as creators of ArXiv-based commenting resources for their research communities. An initial survey</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+      <label>12</label>
+        <element-citation publication-type="journal">
+          <year>2019</year>
+          <volume>32</volume>
+          <issue>3</issue>
+          <page-range>213-219</page-range>
+          <pub-id pub-id-type="doi">10.1002/leap.1229</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>LingFeng</given-names>
+            </name>
+            <name>
+              <surname>Zhan</surname>
+              <given-names>YaQing</given-names>
+            </name>
+          </person-group>
+          <source>Learned Publishing</source>
+          <article-title>A conceptual peer review model for arXiv and other preprint databases</article-title>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

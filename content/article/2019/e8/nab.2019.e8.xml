@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="editorial" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Neuroanatomy and Behaviour</journal-id>
+      <journal-id journal-id-type="doi">10.35430/nab</journal-id>
+      <journal-title-group>
+        <journal-title>Neuroanatomy and Behaviour</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">NAB</abbrev-journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">2652-1768</issn>
+      <publisher>
+        <publisher-name>Episteme Health Inc.</publisher-name>
+        <publisher-loc>
+          <city>Melbourne</city>
+          <state>Victoria</state>
+          <country>Australia</country>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.35430/nab.2019.e8</article-id>
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>
+          <subject>Biological Sciences</subject>
+          <subject>Neurosciences</subject>
+          <subject>Mentoring</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Peer mentoring: A move towards addressing inequality between PhD students</article-title>
+      </title-group>
+      <contrib-group content-type="author">
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9485-6966</contrib-id>
+          <name>
+            <surname>Fam</surname>
+            <given-names>Justine</given-names>
+          </name>
+          <email>j.fam@unsw.edu.au</email>
+          <xref ref-type="aff" rid="affiliation-024c7919a7ca025e4182eac323e627ac" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="no" corresp="no" deceased="no">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4253-2008</contrib-id>
+          <name>
+            <surname>Lee</surname>
+            <given-names>Jessica C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation-024c7919a7ca025e4182eac323e627ac" />
+        </contrib>
+      </contrib-group>
+      <aff id="affiliation-024c7919a7ca025e4182eac323e627ac">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000 0004 4902 0432</institution-id>
+          <institution>School of Psychology, UNSW Sydney, Sydney, New South Wales, Australia</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* <email>j.fam@unsw.edu.au</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="2019-07-02">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e8</elocation-id>
+      <permissions>
+        <copyright-statement>Copyright © 2019 Justine Fam, Jessica C. Lee</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <copyright-holder>The Author(s)</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+	  <license-p>Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The number of students enrolling in postgraduate by research degrees has seen a large increase in recent years, a trend which is evident globally as well as within Australia. However, the rate at which PhD students are dropping out has also increased, indicating that students are not receiving adequate resources to support them throughout their candidature. We highlight that mentoring programs are effective in addressing inequality between PhD students, and describe a program that we have recently launched at UNSW Sydney.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Careers</kwd>
+        <kwd>Mental Health</kwd>
+        <kwd>PhD students</kwd>
+        <kwd>Mentoring</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funder-fabbcbdafa694df36d8f02079cd93f89">
+          <funding-source>
+            <institution-wrap>
+              <institution>School of Psychology, UNSW Sydney</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>PhD students play a vital role in shaping the direction the future of academic research. The PhD candidature involves years of intense work dedicated to a single topic, providing a strong research foundation that enables later significant breakthroughs to be made. In Australia, there has been a large increase in the number of students who commence postgraduate by research degrees, reflecting a broader global trend of increased PhD enrolments <xref ref-type="bibr" rid="ref1">[1]</xref>. In this article, we focus on students in Psychology and Neuroscience. In the five-year period between 2003 and 2007, the number of student enrolments was 75,789 according to the <ext-link ext-link-type="uri" xlink:href="http://highereducationstatistics.education.gov.au/">Australian Government Department of Education and Training.</ext-link> Between 2013 and 2017, this number increased by 56.5% to 118,646 enrolments. However, there is a discrepancy between the increase in enrolments and the increase in completions, indicating that the rate at which students are dropping out of their postgraduate research degrees has exceeded the growth in enrolments. This attrition is particularly high for the rapidly growing population of international students, whose PhD enrolments have more than doubled from 2003-2007 to 2013-2017. Thus, the overall picture indicates a worrying trend of increased student attrition in Australia, for which international students are a particularly vulnerable cohort.</p>
+    <p>Current understanding of the discrepancy between the increase in enrolments and completions within Australia is poor, as most research on student success in higher education has focused on domestic students at the undergraduate level <xref ref-type="bibr" rid="ref2">[2]</xref>. However, research from North America, Canada and the UK identify several factors that may lead to study drop-out, such as high workload, funding pressures and supervisory relationships <xref ref-type="bibr" rid="ref3">[3-6]</xref>. Such research has also highlighted that two critical factors are isolation and poor social support, which might have particularly strong effects for students who are re-locating either internationally or across state lines and have added pressures of having to cope with new physical and cultural environments <xref ref-type="bibr" rid="ref7">[7]</xref>. Indeed, several studies have identified that support, both in terms of social support networks and mentorship, is a key determinant of academic success. For example, in a review of higher education research, Sverdlik, Hall, McAlpine, and Hubbard (2018) concluded that alongside supervision, institutional support and socialization were among the most important external factors predicting student success <xref ref-type="bibr" rid="ref8">[8]</xref>. Although universities have the potential to provide opportunities for meaningful social interactions, it would be beneficial for students, particularly those that are most vulnerable to high attrition rates, to have access to structured programs that are dedicated to creating opportunities for social support and mentoring. Such mentoring programs for undergraduate and honours students and have been shown to be successful <xref ref-type="bibr" rid="ref9">[9]</xref>, but they are rarely organised for PhD students.</p>
+    <p>One reason for the pivotal role mentorship plays is that it provides much-needed guidelines for a largely unstructured academic program within a heterogeneous discipline. There is great variability in the experience of Australian Psychology PhD students; depending on the sub-discipline, a student may undertake research as part of a large research team and benefit from high levels of support and guidance, or work on a project that is a relatively individual pursuit. Students who are part of a conducive research team have greater opportunity and access to mentorship, which facilitates the development of skills necessary for success in academia. These skills include the ‘hard skills’ such as experimental design, statistics, computer programming and other field-specific skills such as stereotaxic rodent surgery or computational modelling, as well as ‘soft skills’ such as confidence in public speaking, the ability to make sense of complex information and effective networking. Mentors also provide critical social and psychological support throughout the PhD candidature, which has been recognised as an emotionally challenging period during which students are at risk of developing clinically significant mental health issues <xref ref-type="bibr" rid="ref10">[10-12]</xref>. Thus, some students have an advantage conferred to them by virtue of lab membership as distinct from intrinsic ability <italic>per se</italic>. This can lead to a sense of inequality and disengagement of equally talented students who do not have access to such support and view academia as an uneven playing field.</p>
+    <p>At UNSW Sydney, we recently started an opt-in mentoring program which aims to alleviate the inequality in access to social support and mentorship faced by PhD students via three key components. The first key feature is that it is designed to meet the needs of students. Before our mentoring program was launched, we asked PhD students to provide us with issues that they wanted the program to address, and designed the program according to the responses we received. The success of the program is also monitored regularly, to ensure that we continue to address the changing needs of students. We believe that our policy of being responsive to the needs of the students is vital for providing effective support and is one reason our program has been successful in attracting a large number of students.</p>
+    <p>The second key component of our program is that each PhD student is paired with a mentor who is an early career researcher within the School of Psychology. Student-mentor pairs are provided with guidelines for how to maximise their student-mentor relationship: we encourage monthly meetings and provide a handbook with suggested discussion topics (e.g., how to network, how to have difficult conversations). We also provide mentors with a range of training resources to develop their approach to mentoring (e.g. the GROW model). It is important for our mentoring program to consider the heterogeneous nature of a psychology PhD and students' experiences. Thus, we emphasise that the structure of the program is flexible and should be tailored to the individual needs of students. Students who are seeking to establish more social connections may prefer group meetings, while students who require emotional support on sensitive issues may desire the privacy of one-to-one meetings. Currently, many early career researchers have volunteered as mentors, giving our program a ratio of approximately two students to each mentor.</p>
+    <p>The third key feature of our program is targeted events, such as societal networking and question-and-answer format information sessions that all students and mentors are encouraged to attend. The specific aim of each event is determined according to issues that students have indicated interest in. For example, the majority of our students expressed an interest in learning about careers outside of academia. Accordingly, we organised a session to provide students with more information. At this event, we invited a panel of speakers consisting of STEM PhD graduates who recently made the transition from academia to industry or government jobs. The event started with panel speakers responding to questions that students had about their work outside of academia, prompting a lively discussion between the panel and students. Students then had the opportunity to network with the panel members afterwards. Such events offer many benefits, two of which we wish to highlight: firstly, they foster a sense of community and belonging, which has been identified as a key factor in determining academic success <xref ref-type="bibr" rid="ref4">[4]</xref>. Secondly, they provide students with valuable but elusive information; nearly 80% of PhD graduates end up in careers outside of academia, yet there is a dearth of knowledge about what alternative career options are available for STEM PhD graduates, and how to pursue them. It is worth noting that O’Meara et al. (2014) found that institutions that approved of academic and non-academic career paths, and facilitated networking within the department, empowered students’ sense of agency in their careers <xref ref-type="bibr" rid="ref13">[13]</xref>. Indeed, the feedback we received (from both students and mentors) about the event was overwhelmingly positive.</p>
+    <p>We feel that mentoring programs are a critical step towards addressing the high attrition rate of PhD students. Since PhD students will become future tenured academics, and therefore, shape the direction that Psychology research will take, it is important that we provide support to enable the best opportunity for talented students to remain in academia. Without active programs, universities risk suffering a talent drain. It would be a shame if students with academic potential were driven out due to poor social support, lack of guidance, or other factors unrelated to intellectual aptitude.</p>
+    <sec>
+      <title>Declarations</title>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>The peer mentoring program is supported by the School of Psychology, UNSW Sydney.</p>
+      </sec>
+      <sec>
+        <title>Conflict of Interest Declaration</title>
+        <p>The authors declare no conflicts of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+       <ref id="ref1">
+          <label>1</label>
+          <element-citation publication-type="book">
+          <publisher-loc>Paris</publisher-loc>
+          <publisher-name>OECD Publishing</publisher-name>
+          <volume>25</volume>
+          <year>2014</year>
+          <pub-id pub-id-type="doi">10.1787/5jxv8xsvp1g2-en</pub-id>
+          <person-group person-group-type="author">
+            <collab>
+              <named-content content-type="name">OECD</named-content>
+            </collab>
+          </person-group>
+          <source>Who are the doctorate holders and where do their qualifications lead them?</source>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+      <label>2</label>
+        <element-citation publication-type="journal">
+          <issue>6</issue>
+          <page-range>640-660</page-range>
+          <volume>53</volume>
+          <year>2012</year>
+          <pub-id pub-id-type="doi">10.1007/s11162-011-9250-3</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ampaw</surname>
+              <given-names>Frim D.</given-names>
+            </name>
+            <name>
+              <surname>Jaeger</surname>
+              <given-names>Audrey J.</given-names>
+            </name>
+          </person-group>
+          <source>Research in Higher Education</source>
+          <article-title>Completing the three stages of doctoral education: An event history analysis</article-title>
+        </element-citation>
+      </ref>      
+      <ref id="ref3">
+      <label>3</label>
+        <element-citation publication-type="journal">
+          <issue>5</issue>
+          <page-range>563-576</page-range>
+          <volume>37</volume>
+          <year>2012</year>
+          <pub-id pub-id-type="doi">10.1080/02602938.2011.555816</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Juniper</surname>
+              <given-names>Bridget</given-names>
+            </name>
+            <name>
+              <surname>Walsh</surname>
+              <given-names>Elaine</given-names>
+            </name>
+            <name>
+              <surname>Richardson</surname>
+              <given-names>Alan</given-names>
+            </name>
+            <name>
+              <surname>Morley</surname>
+              <given-names>Bernard</given-names>
+            </name>
+          </person-group>
+          <source>Assessment &amp; Evaluation in Higher Education</source>
+          <article-title>A new approach to evaluating the well-being of PhD research students</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+      <label>4</label>
+        <element-citation publication-type="journal">
+          <issue>2</issue>
+          <month>04</month>
+          <page-range>187-199</page-range>
+          <volume>34</volume>
+          <year>2012</year>
+          <pub-id pub-id-type="doi">10.1080/1360080x.2012.662743</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pearson</surname>
+              <given-names>Mark</given-names>
+            </name>
+          </person-group>
+          <source>Journal of Higher Education Policy and Management</source>
+          <article-title>Building bridges: Higher degree student retention and counselling support</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+      <label>5</label>
+        <element-citation publication-type="journal">
+          <issue>2</issue>
+          <page-range>119-127</page-range>
+          <volume>43</volume>
+          <year>2011</year>
+          <pub-id pub-id-type="doi">10.1037/a0022624</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peluso</surname>
+              <given-names>Daniel L.</given-names>
+            </name>
+            <name>
+              <surname>Carleton</surname>
+              <given-names>R. Nicholas</given-names>
+            </name>
+            <name>
+              <surname>Asmundson</surname>
+              <given-names>Gordon J. G.</given-names>
+            </name>
+          </person-group>
+          <source>Canadian Journal of Behavioural Science/Revue canadienne des sciences du comportement</source>
+          <article-title>10.1080/14623943.2015.1023276Depression symptoms in Canadian psychology graduate students: Do research productivity, funding, and the academic advisory relationship play a role?</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+      <label>6</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>390-412</page-range>
+          <volume>40</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1080/1360080x.2018.1478613</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Waight</surname>
+              <given-names>Emma</given-names>
+            </name>
+            <name>
+              <surname>Giordano</surname>
+              <given-names>Aline</given-names>
+            </name>
+          </person-group>
+          <source>Journal of Higher Education Policy and Management</source>
+          <article-title>Doctoral students’ access to non-academic support for mental health</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+      <label>7</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>435-448</page-range>
+          <volume>16</volume>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1080/14623943.2015.1023276</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soong</surname>
+              <given-names>Hannah</given-names>
+            </name>
+            <name>
+              <surname>Thi Tran</surname>
+              <given-names>Ly</given-names>
+            </name>
+            <name>
+              <surname>Hoa Hiep</surname>
+              <given-names>Pham</given-names>
+            </name>
+          </person-group>
+          <source>Reflective Practice</source>
+          <article-title>Being and becoming an intercultural doctoral student: reflective autobiographical narratives</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+      <label>8</label>
+        <element-citation publication-type="journal">
+          <page-range>361-388</page-range>
+          <volume>13</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.28945/4113</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sverdlik</surname>
+              <given-names>Anna</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>Nathan C.</given-names>
+            </name>
+            <name>
+              <surname>McAlpine</surname>
+              <given-names>Lynn</given-names>
+            </name>
+            <name>
+              <surname>Hubbard</surname>
+              <given-names>Kyle</given-names>
+            </name>
+          </person-group>
+          <source>International Journal of Doctoral Studies</source>
+          <article-title>The PhD experience: A review of the factors influencing doctoral students’ completion, achievement, and well-being</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+      <label>9</label>
+        <element-citation publication-type="journal">
+          <day>07</day>
+          <issue>1</issue>
+          <month>03</month>
+          <page-range>147-154</page-range>
+          <volume>10</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.5204/ssj.v10i1.648</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khoo</surname>
+              <given-names>Shaun Yon-Seng</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Jenna</given-names>
+            </name>
+            <name>
+              <surname>Walker</surname>
+              <given-names>Adrian</given-names>
+            </name>
+            <name>
+              <surname>Kirkman</surname>
+              <given-names>Jessica</given-names>
+            </name>
+            <name>
+              <surname>Spehar</surname>
+              <given-names>Branka</given-names>
+            </name>
+          </person-group>
+          <source>Student Success</source>
+          <article-title>Transitions and choices: Graduate student mentoring for psychology honours students</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+      <label>10</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>282-284</page-range>
+          <volume>36</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1038/nbt.4089</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Evans</surname>
+              <given-names>Teresa M</given-names>
+            </name>
+            <name>
+              <surname>Bira</surname>
+              <given-names>Lindsay</given-names>
+            </name>
+            <name>
+              <surname>Gastelum</surname>
+              <given-names>Jazmin Beltran</given-names>
+            </name>
+            <name>
+              <surname>Weiss</surname>
+              <given-names>L Todd</given-names>
+            </name>
+            <name>
+              <surname>Vanderford</surname>
+              <given-names>Nathan L</given-names>
+            </name>
+          </person-group>
+          <source>Nature Biotechnology</source>
+          <article-title>Evidence for a mental health crisis in graduate education</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+      <label>11</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>868-879</page-range>
+          <volume>46</volume>
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.1016/j.respol.2017.02.008</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Levecque</surname>
+              <given-names>Katia</given-names>
+            </name>
+            <name>
+              <surname>Anseel</surname>
+              <given-names>Frederik</given-names>
+            </name>
+            <name>
+              <surname>De Beuckelaer</surname>
+              <given-names>Alain</given-names>
+            </name>
+            <name>
+              <surname>Van der Heyden</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name>
+              <surname>Gisle</surname>
+              <given-names>Lydia</given-names>
+            </name>
+          </person-group>
+          <source>Research Policy</source>
+          <article-title>Work organization and mental health problems in PhD students</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+      <label>12</label>
+        <element-citation publication-type="journal">
+          <issue>2</issue>
+          <page-range>106-121</page-range>
+          <volume>6</volume>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1108/ijrd-03-2015-0007</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mantai</surname>
+              <given-names>Lilia</given-names>
+            </name>
+            <name>
+              <surname>Dowling</surname>
+              <given-names>Robyn</given-names>
+            </name>
+          </person-group>
+          <source>International Journal for Researcher Development</source>
+          <article-title>Supporting the PhD journey: insights from acknowledgements</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+      <label>13</label>
+        <element-citation publication-type="journal">
+          <page-range>155-179</page-range>
+          <volume>9</volume>
+          <year>2014</year>
+          <pub-id pub-id-type="doi">10.28945/2048</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>O'Meara</surname>
+              <given-names>KerryAnn</given-names>
+            </name>
+            <name>
+              <surname>Jaeger</surname>
+              <given-names>Audrey</given-names>
+            </name>
+            <name>
+              <surname>Eliason</surname>
+              <given-names>Jennifer</given-names>
+            </name>
+            <name>
+              <surname>Grantham</surname>
+              <given-names>Ashley</given-names>
+            </name>
+            <name>
+              <surname>Cowdery</surname>
+              <given-names>Kelly</given-names>
+            </name>
+            <name>
+              <surname>Mitchall</surname>
+              <given-names>Allison</given-names>
+            </name>
+            <name>
+              <surname>Jingjing Zhang</surname>
+              <given-names>Kate</given-names>
+            </name>
+          </person-group>
+          <source>International Journal of Doctoral Studies</source>
+          <article-title>By design: How departments influence graduate student agency in career advancement</article-title>
+        </element-citation>
+      </ref> 
+    </ref-list>
+  </back>
+</article>

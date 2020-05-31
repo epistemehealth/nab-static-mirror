@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="{{ if or (in ( lower .Page.Params.articleType ) "editorial" ) (in ( lower .Page.Params.articleType ) "perspective" )}}editorial{{ else if in ( lower .Page.Params.articleType ) "brief" }}brief-report{{ else if in ( lower .Page.Params.articleType ) "research" }}research-article{{ else if in ( lower .Page.Params.articleType ) "registered" }}registered-report{{ else if in ( lower .Page.Params.articleType ) "review" }}review-article{{ else if in ( lower .Page.Params.articleType ) "commentary" }}article-commentary{{ else if ( lower .Page.Params.articleType ) "correspondence" }}letter{{ else if in ( lower .Page.Params.articleType ) "data" }}data-brief{{ else if in ( lower .Page.Params.articleType ) "correction" }}correction{{ else if in ( lower .Page.Params.articleType ) "concern" }}expression-of-concern{{ else if in ( lower .Page.Params.articleType ) "retraction" }}retraction{{ else if .Page.Params.JATStype }}{{ .Page.Params.JATStype }}{{ end }}" dtd-version="1.2" xml:lang="{{ if $.Params.language }}{{ slicestr $.Params.language  0 2 }}{{ else }}{{ $.Site.Language }}{{ end }}" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">{{ .Site.Title }}</journal-id>{{ with .Site.Params.journalDOI }}
+      <journal-id journal-id-type="doi">{{ . }}</journal-id>{{ end }}
+      <journal-title-group>
+        <journal-title>{{ .Site.Title }}</journal-title>{{ with .Site.Params.abbreviatedTitle }}
+	<abbrev-journal-title abbrev-type="nlm-ta">{{ replace . "." "" }}</abbrev-journal-title>{{ end }}{{ with .Site.Params.publisherjournalabbreviation }}
+        <abbrev-journal-title abbrev-type="publisher">{{ . }}</abbrev-journal-title>{{ end }}
+      </journal-title-group>{{ with .Site.Params.eISSN }}
+      <issn publication-format="electronic">{{ . }}</issn>{{ end }}{{ with .Site.Params.eISSN }}
+      <issn publication-format="print">{{ . }}</issn>{{ end }}
+      <publisher>
+        <publisher-name>{{ .Site.Params.publisher.name }}</publisher-name>
+        <publisher-loc>{{ with .Site.Params.publisher.city }}
+          <city>{{ . }}</city>{{ end }}{{ with .Site.Params.publisher.state }}
+          <state>{{ . }}</state>{{ end }}{{ with .Site.Params.publisher.country }}
+          <country>{{ . }}</country>{{ end }}
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>{{ with .Page.Params.DOI }}
+      <article-id pub-id-type="doi">{{ . }}</article-id>{{ end }}
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>{{ range .Site.Params.subjects }}
+          <subject>{{ . }}</subject>{{ end }}
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>{{ .Title }}</article-title>
+      </title-group>
+      <contrib-group content-type="author">{{ $corrauthors := 1 }}{{ range .Page.Params.authors }}
+        <contrib contrib-type="author" equal-contrib="{{ if .equalcontrib }}{{ .equalcontrib }}{{ else }}no{{ end }}" corresp="{{ if .corresp }}yes{{ else }}no{{ end }}" deceased="{{ if .deceased }}{{ .deceased }}{{ else }}no{{ end }}">
+          <name>{{ with .surname }}
+            <surname>{{ . }}</surname>{{ end }}{{ with .given_name }}
+            <given-names>{{ . }}</given-names>{{ end }}
+          </name>{{ range .affiliations }}
+          <xref ref-type="aff" rid="affiliation{{ . }}" />{{ end }}{{ if in .corresp "@" }}
+          <xref ref-type="corresp" rid="cor{{ $corrauthors }}">*</xref>{{ $corrauthors = add $corrauthors 1 }}{{ end }}{{ range .funding }}
+          <xref ref-type="award" rid="funder{{ . }}" />{{ end }}
+        </contrib>{{ end }}
+      </contrib-group>{{ range $elem_index, $elem_var := .Page.Params.affiliations }}
+      <aff id="affiliation{{ add $elem_index 1 }}">
+        <institution-wrap>{{ with .ISNI }}
+          <institution-id institution-id-type="ISNI">{{ . }}</institution-id>{{ end }}{{ with .ROR }}
+          <institution-id institution-id-type="ROR">{{ . }}</institution-id>{{ end }}{{ with .name }}
+          <institution>{{ . }}</institution>{{ end }}
+        </institution-wrap>
+      </aff>{{ end }}
+      <author-notes>{{ $corrauthors := 1 }}{{ range .Page.Params.authors }}{{ with .corresp }}
+        <corresp id="cor{{ $corrauthors }}">* <email>{{ . }}</email></corresp>{{ $corrauthors = add $corrauthors 1 }}{{ end }}{{ end }}
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="{{ dateFormat "2006-01-02" .Date }}">
+        <day>{{ dateFormat "02" .Date }}</day>
+        <month>{{ dateFormat "01" .Date }}</month>
+        <year>{{ dateFormat "2006" .Date }}</year>
+      </pub-date>
+      <volume>{{ .Page.Params.volume }}</volume>{{ if and (.Page.Params.firstpage) (.Page.Params.lastpage) }}
+      <fpage>{{ .Page.Params.firstpage }}</fpage>
+      <lpage>{{ .Page.Params.lastpage }}</lpage>{{ else }}
+      <elocation-id>{{ .Page.Params.firstpage }}</elocation-id>{{ end }}
+      <history>{{ with .Page.Params.submitdate }}
+        <date date-type="received" iso-8601-date="{{ dateFormat "2006-01-02" . }}">
+          <day>{{ dateFormat "02" . }}</day>
+          <month>{{ dateFormat "01" . }}</month>
+          <year>{{ dateFormat "2006" . }}</year>
+        </date>{{ end }}{{ with .Page.Params.reviseddate }}
+        <date date-type="rev-recd" iso-8601-date="{{ dateFormat "2006-01-02" . }}">
+          <day>{{ dateFormat "02" . }}</day>
+          <month>{{ dateFormat "01" . }}</month>
+          <year>{{ dateFormat "2006" . }}</year>
+        </date>{{ end }}{{ with .Page.Params.acceptdate }}
+        <date date-type="accepted" iso-8601-date="{{ dateFormat "2006-01-02" . }}">
+          <day>{{ dateFormat "02" . }}</day>
+          <month>{{ dateFormat "01" . }}</month>
+          <year>{{ dateFormat "2006" . }}</year>
+        </date>{{ end }}
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © {{ dateFormat "2006" .Date }} {{ range $elem_index, $elem_val := $.Params.authors }}{{ .given_name }} {{ .surname }}{{ if lt $elem_index (sub (len $.Params.authors) 1) }}, {{ end }}{{ end }}</copyright-statement>
+        <copyright-year>{{ dateFormat "2006" .Date }}</copyright-year>
+        <copyright-holder>{{ range $elem_index, $elem_val := $.Params.authors }}{{ .given_name }} {{ .surname }}{{ if lt $elem_index (sub (len $.Params.authors) 1) }}, {{ end }}{{ end }}</copyright-holder>
+        <license license-type="open-access" xlink:href="{{ replace .Page.Params.license "https" "http" }}">
+	  <license-p>{{ if in .Page.Params.license "creativecommons.org/licenses/by/4.0" }}Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.{{ else if in .Page.Params.license "creativecommons.org/licenses/by-nc/4.0" }}Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution-NonCommercial 4.0 International License.{{ if in .Site.Params.publisher.name "Episteme Health" }} In addition to this license, reuse of a reasonable portion of the work for fair dealing purposes under Australian copyright law, such as medical research, education, scholarship, or not-for-profit or charitable purposes, is also permitted. For additional permissions, please contact the corresponding author.{{ end }}{{ end }}</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>{{ .Page.Params.abstract }}</p>
+      </abstract>
+      <kwd-group>{{ range .Page.Params.keywords }}
+        <kwd>{{ . }}</kwd>{{ end }}
+      </kwd-group>
+    </article-meta>
+  </front>
+</article>
