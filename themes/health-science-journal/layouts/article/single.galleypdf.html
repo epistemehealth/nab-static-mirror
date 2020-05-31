@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ if $.Params.language }}{{ slicestr $.Params.language  0 2 }}{{ else }}{{ $.Site.Language }}{{ end }}">
 <head>
 {{ partial "favicon.html" . }}
 {{ partial "relcanonical.html" . }}

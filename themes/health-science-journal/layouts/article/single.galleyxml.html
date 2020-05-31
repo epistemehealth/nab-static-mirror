@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<html xmlns:mml="http://www.w3.org/1998/Math/MathML" lang="{{ if $.Params.language }}{{ slicestr $.Params.language  0 2 }}{{ else }}{{ $.Site.Language }}{{ end }}">
   <head>{{ partial "favicon.html" . }}
 {{ partial "relcanonical.html" . }}
     <title>Lens Viewer: {{ .Title }} | {{ .Site.Title }}</title>
