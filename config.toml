@@ -38,7 +38,7 @@ theme = "health-science-journal"
   socialdescription = "Neuroanatomy and Behaviour provides free open access publishing for neuroscience."
   
   ## Set to true to load libraries from Cloudflare and Bootstrap CDNs where available. Otherwise leave blank.
-  useCDN = ""
+  useCDN = "true"
   
   ## Custom blocks for the footer
   customblocks = [{ name = "Non-Profit Publishing", content = "[Episteme Health Inc.](https://about.epistemehealth.com) (Registration No. A0105005T, VIC, Australia) is a non-profit no-fee open access publisher run by scientists. All articles can be published and read without paying any fees."},
