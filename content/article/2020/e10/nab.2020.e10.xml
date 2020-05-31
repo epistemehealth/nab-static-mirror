@@ -1247,10 +1247,6 @@
         <p>RC conceptualised the review scope, VM and RC researched the topic and wrote the review, VM, JCO and RC edited the review, VM and RC approved the review prior to submission.</p>
       </sec>
       <sec>
-        <title>Acknowledgements</title>
-        <p>We would like to thank Dr Juan Olaya for his helpful comments on the manuscript.</p>
-      </sec>
-      <sec>
         <title>Funding</title>
         <p>RC is supported by the Molecular Medicine Research Group (Seed Funding 2017 and 2018, Western Sydney University) as well as the Ainsworth Medical Research Innovation Fund. In addition, RC is supported by the Rebecca Cooper Medical Research Foundation.</p>
       </sec>
@@ -1309,6 +1305,10 @@ that have been published after 2013, and aims to address important questions rel
     </sec>
   </body>
   <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to thank Dr Juan Olaya for his helpful comments on the manuscript.</p>
+    </ack>
     <ref-list>
       <ref id="ref1">
         <label>1</label>

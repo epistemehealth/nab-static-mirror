@@ -112,16 +112,18 @@
     <sec>
       <title>Declarations</title>
       <sec>
-        <title>Acknowledgements</title>
-        <p>SYK is supported by a postdoctoral fellowship from the Fonds de Recherche du Québec - Santé (Funder ID: <ext-link xlink:href="https://doi.org/10.13039/501100000156">10.13039/501100000156</ext-link>).</p>
-      </sec>
-      <sec>
         <title>Conflict of Interest Declaration</title>
         <p>SYK is President of Episteme Health Inc. and a review editor at Frontiers for Behavioral Neuroscience. He is not remunerated for these roles.</p>
       </sec>
     </sec>
   </body>
   <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>SYK is supported by a postdoctoral fellowship from
+ the Fonds de Recherche du Québec - Santé (Funder ID:
+ <ext-link xlink:href="https://doi.org/10.13039/501100000156">10.13039/501100000156</ext-link>).</p>
+    </ack>
     <ref-list>
       <ref id="ref1">
         <label>1</label>

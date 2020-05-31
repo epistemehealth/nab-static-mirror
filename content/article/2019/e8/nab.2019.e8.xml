@@ -107,16 +107,16 @@
     <sec>
       <title>Declarations</title>
       <sec>
-        <title>Acknowledgements</title>
-        <p>The peer mentoring program is supported by the School of Psychology, UNSW Sydney.</p>
-      </sec>
-      <sec>
         <title>Conflict of Interest Declaration</title>
         <p>The authors declare no conflicts of interest.</p>
       </sec>
     </sec>
   </body>
   <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The peer mentoring program is supported by the School of Psychology, UNSW Sydney.</p>
+    </ack>
     <ref-list>
        <ref id="ref1">
           <label>1</label>

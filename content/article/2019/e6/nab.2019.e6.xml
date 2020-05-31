@@ -174,16 +174,16 @@
     <sec>
       <title>Declarations</title>
       <sec>
-        <title>Acknowledgements</title>
-        <p>DMDT’s postdoctoral position is funded by an Australian Research Council Discovery Project (Funder ID: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.13039/501100000923">10.13039/501100000923</ext-link>, Grant ID: DP19010041). AV’s postdoctoral position is funded by Australian Research Council Discovery Projects (Funder ID: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.13039/501100000923">10.13039/501100000923</ext-link>, Grant IDs: DP180102705 and DP190100719).</p>
-      </sec>
-      <sec>
         <title>Conflict of Interest Declaration</title>
         <p>DMDT is a member of the committee of management of Episteme Health Inc. The authors declare no other conflicts of interest.</p>
       </sec>
     </sec>
   </body>
   <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>DMDT’s postdoctoral position is funded by an Australian Research Council Discovery Project (Funder ID: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.13039/501100000923">10.13039/501100000923</ext-link>, Grant ID: DP19010041). AV’s postdoctoral position is funded by Australian Research Council Discovery Projects (Funder ID: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.13039/501100000923">10.13039/501100000923</ext-link>, Grant IDs: DP180102705 and DP190100719).</p>
+    </ack>
     <ref-list>
       <ref id="ref1"><label>1</label>
         <element-citation publication-type="journal">

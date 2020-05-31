@@ -91,13 +91,15 @@
     <sec>
       <title>Declarations</title>
       <sec>
-        <title>Acknowledgements</title>
-        <p>3MT coaching was provided by GradProSkills at Concorida University.</p>
-      </sec>
-      <sec>
         <title>Conflict of Interest Declaration</title>
         <p>The author declares no conflicts of interest.</p>
       </sec>
     </sec>
   </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>3MT coaching was provided by GradProSkills at Concorida University.</p>
+    </ack>
+  </back>
 </article>
