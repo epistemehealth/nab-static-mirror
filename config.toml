@@ -7,7 +7,7 @@ theme = "health-science-journal"
 [params]
   home = "Home"
   abbreviatedTitle = "Neuroanat. Behav."
-  description = "Episteme Health Inc. is a scientific association dedicated to providing free open access publishing for medical research."
+  description = "Neuroanatomy and Behaviour is a free open access journal for peer-reviewed behavioural neuroscience research. It is published by Episteme Health Inc., a non-profit scientific association dedicated to providing free open access publishing for medical research."
   favicon = "img/favicon.png"
   mirrorfor = "https://epistemehealth.com/index.php/nab"
   eISSN = "2652-1768"
