@@ -4,5 +4,4 @@
 
 [build.environment]
   HUGO_VERSION = "0.70.0"
-  HUGO_THEME = "health-sciences-journal"
   HUGO_BASEURL = "/"

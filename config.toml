@@ -183,7 +183,7 @@ theme = "health-science-journal"
     
 [outputs]
   home = ["HTML", "customlens", "localfonts"]
-  page = ["html", "galleyPDF", "galleyXML", "exportris", "exportenw", "exportbib", "exportcsljson",  "productiontex", "productionjats" ]
+  page = ["html", "galleyPDF", "galleyXML", "exportris", "exportenw", "exportbib", "exportcsljson" ]
   
 [taxonomies]
   keyword = "keywords"
