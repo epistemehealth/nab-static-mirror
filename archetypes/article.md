@@ -58,7 +58,7 @@ socialimage = ""
 socialimagealt = ""
 twitterhandle = ""
 
-unstructuredreferences = ["",""
+references = ["",""
 ]
 +++
 
