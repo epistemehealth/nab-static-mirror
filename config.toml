@@ -185,5 +185,8 @@ theme = "health-science-journal"
   home = ["HTML", "customlens", "localfonts"]
   page = ["html", "galleyPDF", "galleyXML", "exportris", "exportenw", "exportbib", "exportcsljson" ]
   
+[minify]
+  disableHTML = true
+  
 [taxonomies]
   keyword = "keywords"
