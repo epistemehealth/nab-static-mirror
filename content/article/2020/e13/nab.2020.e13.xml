@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="editorial" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Neuroanatomy and Behaviour</journal-id>
+      <journal-id journal-id-type="doi">10.35430/nab</journal-id>
+      <journal-title-group>
+        <journal-title>Neuroanatomy and Behaviour</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">NAB</abbrev-journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">2652-1768</issn>
+      <publisher>
+        <publisher-name>Episteme Health Inc.</publisher-name>
+        <publisher-loc>
+          <city>Melbourne</city>
+          <state>Victoria</state>
+          <country>Australia</country>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.35430/nab.2020.e13</article-id>
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>
+          <subject>Neuroscience</subject>
+          <subject>Psychology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From lab bench to workbench: Working in multidisciplinary applied research</article-title>
+      </title-group>
+      <contrib-group content-type="author">
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1807-4035</contrib-id>
+          <name>
+            <surname>Seet</surname>
+            <given-names>Manuel Stephen</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation1" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="affiliation1">
+        <institution-wrap>
+          <institution-id institution-id-type="ROR">01tgyzw49</institution-id>
+          <institution-id institution-id-type="ISNI">0000 0001 2180 6431</institution-id>
+          <institution>Singapore Institute for Neurotechnology (SINAPSE), National University of Singapore, Singapore</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* <email>manuelseet@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="2020-06-16">
+        <day>16</day>
+        <month>06</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>2</volume>
+      <elocation-id>e13</elocation-id>
+      <history>
+        <date date-type="accepted" iso-8601-date="2020-06-14">
+          <day>14</day>
+          <month>06</month>
+          <year>2020</year>
+        </date>
+        <date date-type="received" iso-8601-date="2020-05-11">
+          <day>11</day>
+          <month>05</month>
+          <year>2020</year>
+        </date>
+        <date date-type="rev-recd" iso-8601-date="2020-06-10">
+          <day>10</day>
+          <month>06</month>
+          <year>2020</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2020 Manuel Stephen Seet</copyright-statement>
+        <copyright-year>2020</copyright-year>
+        <copyright-holder>The Author(s)</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Multidisciplinary research has the potential to address pressing global challenges. When working across disciplinary boundaries, brain and behavioural scientists can contribute to technological developments that enhance human health, safety, well-being and performance. However, multidisciplinary research comes with its own unique challenges that can hinder team communication, cohesion and research progress. In this article, I share tips that can help readers to navigate the challenges of working in multidisciplinary applied research. It is important for researchers in diverse teams to gain cross-disciplinary literacy and self-confidence that enables them to contribute their full potential, and to engage teammates in a way that fosters collaboration based on effective communication and shared motivations. Ultimately, overcoming these challenges is a key step towards realising the benefits of multidisciplinary research to science and technology, and also contributes to the personal and professional development of individual researchers.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Multidisciplinary research</kwd>
+        <kwd>Applied research</kwd>
+        <kwd>Professional development</kwd>
+        <kwd>Collaboration</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Multidisciplinary research is a catalyst to tackling grand challenges in science and technology <xref ref-type="bibr" rid="ref1">[1]</xref>. Integrating expertise and perspectives of various specialisations can pave the way for ground-breaking insights and pragmatic solutions to many pressing global issues. Universities have been recognising this and are actively seeking to bridge the gaps between disciplines, with the establishment of research hubs and policies that promote multidisciplinary collaborations <xref ref-type="bibr" rid="ref2">[2]</xref>. Many funding programmes, such as Horizon 2020 (European Research Council) and the Interdisciplinary Research Programme (National Institutes of Health), are specifically dedicated to supporting research teams of diverse disciplinary make-up that target complex multi-faceted topics. </p>
+      <p>In line with this movement towards increasing multidisciplinarity, brain and behavioural scientists too should embrace the potential for cutting-edge discovery and technological developments when working across disciplinary boundaries. Through collaborative exchanges, they can contribute to innovation and technology that enhance human health, safety, well-being and performance. There are several burgeoning areas of interests, such as personalised healthcare, brain-machine interfacing, neuroergonomics, affective computing, and virtual reality/augmented reality in therapy and education. This list is far from exhaustive, because new frontiers are always being explored as science and technology progresses. </p>
+      <p>Despite the promising prospects, working in multidisciplinary applied research has its own unique set of challenges. These include difficulties in grasping advanced concepts of other disciplines, overcoming language barriers, harnessing diverse skillsets, balancing multiple perspectives and dealing with ‘intellectual loneliness’. To overcome these barriers, it is important for researchers in diverse teams to gain cross-disciplinary literacy and self-confidence that enables them to contribute their full potential, and to engage teammates in a way that promotes collaboration based on effective communication and shared motivations. As a researcher with a psychology/neuroscience background working in a multidisciplinary engineering team, here I share six tips that have helped me to navigate the barriers of working in multidisciplinary applied research.</p>
+      </sec>
+      <sec>
+        <title>1. Gain Cross-Disciplinary Literacy to Contribute Your Full Potential</title>
+      <p>Leaping from multidisciplinary basic research into multidisciplinary applied research can be a trialling transition. Initially, there may be culture shock because the research topics and environment can feel foreign. Some may feel disinclined to lose their own disciplinary identity and focus, probably because of impressions that interdisciplinary research is “less pure” or that applied work is “second-rate” compared to traditional basic specialisations <xref ref-type="bibr" rid="ref3">[3]</xref>. However, most of these initial barriers are attitudinal. Multidisciplinary teamwork does not mean abandoning your disciplinary training but leveraging it to push the frontiers of your discipline towards exciting, unexplored territories. </p>
+      <p>As a first step to overcoming these hurdles, one should acquire <italic>cross-disciplinary literacy</italic> by reading widely across associated disciplines to gain grounding in the area. For example, when working in brain-machine interfacing (BMI), literature readings should not be confined to psychology and neuroscience, but should also cover papers from engineering, computer science and industry-relevant research. The learning curve will be steep as you will be exposed to new concepts, frameworks and practices beyond the scope of your discipline. The aim is not to be an expert in the technicalities, but to understand current cross-disciplinary issues that can benefit from input from your home discipline. </p>
+      <p>Immersing yourself in other disciplines can be challenging at first. One barrier may be differences in terms for common concepts. As an example, what cognitive neuroscientists understand by ‘EEG power’ (where EEG is electroencephalography) is better known in electrical engineering as <italic>power spectrum density</italic> computed through <italic>spectral analysis</italic>. This is relatively straightforward to handle as it is about getting used to alternative terms. </p>
+      <p>Another barrier is advanced methods and concepts. For instance, some varieties of EEG analysis have been explored in biophysics and engineering but are not yet mainstream in neuroscience research, e.g. high-order functional connectivity, fractal analysis. Without foundational training in the field, it can be difficult to grasp the logic behind the techniques, let alone evaluate their conceptual fit to the research. It is recommended to search across sources (websites, books, papers) for digestible explanations, before cross-checking with teammates about the specifics. This trains one to be more independent in engaging with information outside of one’s comfort zone, and to avoid relying on teammates for wholesale explanations. </p>
+      <p>Gaining a multidisciplinary understanding of the research topic allows for a more tuned approach when surveying psychology/neuroscience literature for paradigms, biomarkers and measures which can be used in the project. Translating basic research is certainly not a “plug-and-play” affair, because it requires expertise in brain and behavioural sciences to analyse conceptual differences and methodological trade-offs when adapting basic theory and methods into the applied space. Furthermore, it is not uncommon for basic literature to lack the relevant foundational knowledge to support applied research. In such cases, <italic>use-driven basic research</italic> must be performed first, in which the goal is to build basic knowledge under rigorous conditions with an eye towards practical application <xref ref-type="bibr" rid="ref4">[4]</xref>, e.g. mapping stimulation-induced EEG dynamics in amputees that would be used for improving neuroprosthetics <xref ref-type="bibr" rid="ref5">[5]</xref>. Such studies—like any scientific study—require careful study design; sometimes novel behavioural procedures have to be devised because there are no relevant analogues in basic literature. This is a skill that relies on your experience in brain and behavioural research, as well as your cross-disciplinary understanding of the research problem.</p>
+      </sec>
+      <sec>
+        <title>2. Communicate in an Accessible Way</title>
+      <p>Jargon and discipline-specific constructs can hinder team communication <xref ref-type="bibr" rid="ref6">[6]</xref>. Confusions may arise when attempting to convey ideas across to teammates, especially when one’s line of reasoning is based on loaded concepts or assumptions that may be unfamiliar or have different interpretations in other disciplines. Below are three strategies for communicating in a more accessible way:</p>
+      <p>First, read more about terms in other disciplines (Tip 1) and recognise jargon in your home discipline, so that you can express ideas in alternative wordings that avoid misunderstanding. For example, terms such as <italic>counterbalanced blocks</italic> and <italic>neural networks</italic> would be better understood if substituted with <italic>randomised block order</italic> (to avoid confusion with mechanical counterbalance) and <italic>brain networks</italic> (to avoid confusion with artificial neural networks) respectively. </p>
+      <p>Second, in presentations, essential neuroscience concepts should be defined clearly, even if you think others probably know what it means, e.g. “<italic>neural adaptation</italic> is when over repeated presentations of the same stimulus, the sensory system gradually becomes less responsive to that stimulus”. </p>
+      <p>Third, you should also re-frame your proposals in a way that addresses the interests of other disciplines. As a case in point, electrical engineers are concerned about signal quality, while machine learning experts are focused on data efficiency (maximising classifier performance trained on a limited dataset). A neuroscientist would propose that neural adaptation should be considered in the behavioural design, otherwise the biosignals would have reduced signal-to-noise ratio over time if measured from a condensed block of trials. This would then affect the quality of the graph metrics computed from those signals, subsequently impacting classification accuracy. </p>
+      </sec>
+      <sec>
+        <title>3. Engage with Teammates and Their Expertise</title>
+      <p>The chief strength of multidisciplinary collaboration is the breadth and depth of expertise in the team. However, simply having diversity in the team does not necessarily mean everyone would know how to contribute their full potential to the project. In multidisciplinary applied research, coordination of team efforts is especially tricky to achieve for two reasons: (1) since the research scope covers multiple areas of expertise (e.g. sensor design, biosignal processing, behavioural testing, data integration), it can be challenging for a team leader to identify and articulate the specific issues that other researchers need to address; (2) teammates may not fully appreciate what expertise those from other disciplines can bring to the table, owing to the technical divide. For example, a psychologist might not fully grasp the specifics of a biomedical engineer’s biosignal processing techniques, and likewise an engineer might not fully grasp the specifics of a psychologist’s behavioural techniques. This makes it difficult to harmonise the interdependent components of the research design. </p>
+      <p>Therefore, multidisciplinary collaboration would greatly benefit from proactive engagement across disciplinary lines. First, reading more in other’s disciplines and cross-checking with them (Tip 1) goes a long way in bridging the technical divide. Second, communicate your intentions and suggestions in terms familiar to them (Tip 2) that would get your message across and motivate them to be more forthcoming and involved in collective research planning. Third, actively consult each other at every step of the way to ensure ongoing alignment across the variety of disciplinary purviews. Projects evolve and may face obstacles midway, demanding new approaches or methods. In searching for alternatives, teammates should define the problem scope and pragmatic considerations from multiple perspectives, before brainstorming. It is a rewarding experience when a teammate strikes upon a potential solution gleaned or inspired from their home discipline, which can then be adapted to the current problem with input from all other teammates. Synergistic and creative teamwork is key in overcoming obstacles and driving the project forward. </p>
+      </sec>
+      <sec>
+        <title>4. Evaluate Multiple Perspectives as a Team</title>
+      <p>This is probably the most critical aspect in achieving a coherent working plan. Multiple issues must be considered during research planning, e.g. what modalities of data to collect, how naturalistic the behavioural paradigm should be, how complex the neural or physiological metrics should be, how the data are to be statistically analysed or processed for classifier training. Owing to the diversity of disciplinary perspectives, teammates might have opposing views on how the project should ideally be construed and executed, which complicates the research planning process.</p>
+      <p>Therefore, it is important for everyone to lay out all criteria, against which research design issues are evaluated. One strategy to facilitate this is to map out all research design issues on paper or on a whiteboard. Then for each point, teammate will first pitch their suggestions, before the pros and cons from multiple disciplinary angles are evaluated together as a team. As a case example, when deciding on the choice of EEG-based features for a BMI application, team members might suggest candidates such as event-related potentials (ERPs) and connectivity graph metrics. Example pros and cons are: ERPs of interest have well-established cognitive interpretations, but are less practical outside laboratory conditions because they require very time-sensitive event references; connectivity metrics can capture richer functional data over a time window, but it is not known which specific features will be cognitively relevant. The team would then discuss the pros and cons in relation to project needs, and settle on the best possible solution while counteracting the cons in other design components, e.g. in choosing connectivity metrics, the experimental protocol must be designed to provide robust behavioural metrics to support feature selection. While this systematic evaluation of multidisciplinary inputs may be a laborious process, it is a team effort that ensures the optimisation of rigour and applicability of the research.</p>
+      </sec>
+      <sec>
+        <title>5. Overcome Intellectual Loneliness</title>
+      <p>Being in a highly diverse team can lead to moments of what I would call ‘intellectual loneliness’. You may be the only one in the team pursing a certain approach, and whatever you propose can often be accepted without rigourous critique. Being left without constructive feedback can be a trialling experience on both an intellectual and personal level, especially when you are just starting out in multidisciplinary research.</p>
+      <p>One way to deal with this “loneliness” is to reach out beyond the lab, to experts within your home discipline who are willing to give advice. In this way, you can also gain new collaborators. For example, a researcher specialising in visual attention can clarify a theoretical understanding of divided attention, which is useful for forming a working framework for an applied project. However, the interdisciplinary nature of your research may limit the relevance of input from monodisciplinary experts <xref ref-type="bibr" rid="ref7">[see 7]</xref>. In that same example, the researcher would likely have experience using highly controlled tasks and non-portable measures (e.g. stationary eye-tracking, functional magnetic resonance imaging). Their recommendations about research design and methodology—while ideal for a scientific experiment—may sometimes be too narrow-focused for addressing on-the-ground concerns or may not account for pragmatic constraints in developing systems for real-world use (e.g. sensory interfaces in air traffic control). </p>
+      <p>In such instances, you often need to rely on your own cross-disciplinary knowledge to evaluate the multidisciplinary needs of the project (Tip 1), and to develop practically relevant behavioural designs within this unique research space. This is the ‘tough love’ approach—in which you learn to make your own judgements and trust them. Through experience in testing and revising, it pushes you to be more independent and thorough in your reasoning, and more self-confident in your decisions. </p>
+            </sec>
+      <sec>
+        <title>6. Network Within &amp; Beyond Academia</title>
+      <p>Networking facilitates valuable exchanges of ideas and perspectives. Speaking to fellow psychologists/neuroscientists who have also made the leap into multidisciplinary applied research can allow you to get encouragement and useful advice on working in diverse teams. For example, the advice about re-framing proposals (Tip 2) was recommended by a researcher with years of multidisciplinary experience. Reaching out to researchers and practitioners in industry and other professional circles can deepen your appreciation of current, real-world issues that your multidisciplinary research is striving to address. For instance, you might learn about industry interest in eye-tracking based systems to facilitate human-vehicle interactivity in autonomous vehicles—a topic which overlaps with your team’s lab work. Such knowledge can be imported back to the lab and serve as a guiding influence on future research directions. These professional interactions can also open the door to potential academic or industry collaborations, funding and career opportunities.</p>
+      </sec>
+      <sec>
+        <title>Concluding Remarks</title>
+      <p>Overall, the benefits of multidisciplinary research outweigh the challenges. Overcoming the hurdles associated with multidisciplinary collaboration is a significant step towards truly integrative ideation and holistic problem-solving that best draw on diverse expertise to tackle complex multi-faceted issues. When working in concert with other fields such as engineering and computer science, brain and behavioural science can contribute to technological developments that make a positive real-world impact on human living. On a personal and professional level, multidisciplinary teamwork teaches one to step out of one’s comfort zone and be more open to varied perspectives beyond the monodisciplinary scope. The experience also trains one to be more creative, flexible and independent in their own research thinking and approach. It is hoped that in this movement towards multidisciplinarity, more should be done than just promoting disciplinary diversity in research teams; there should be dedicated efforts to foster meaningful engagements across disciplines that can accelerate knowledge discovery and the translation of scientific ideas into practical solutions.</p>
+    </sec>
+      <sec>
+        <title>Competing Interests</title>
+        <p>The author declares no conflicts of interest.</p>
+      </sec>
+      <sec>
+        <title>Editorial Checks</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Plagiarism: Plagiarism detection software found no evidence of plagiarism.</p>
+          </list-item>
+          <list-item>
+            <p>References: Zotero did not identify any references in the <ext-link xlink:href="https://retractionwatch.com">RetractionWatch</ext-link> database.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>Peer Review</title>
+        <p>For the benefit of readers, reviewers are asked to write a public summary of their review to highlight the key strengths and weaknesses of the paper. Signing of reviews is optional.</p>
+      </sec>
+      <sec>
+        <title>Reviewer 1 (Jenna Lisa Zhao, University of New South Wales, Australia. <ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0001-9691-164X">https://orcid.org/0000-0001-9691-164X</ext-link>)</title>
+        <p>The article "From Lab Bench to Workbench: Working in Multidisciplinary Applied Research" provides a clear examination of the challenges and benefits of working within a multidisciplinary applied research team. The author draws upon their experience transitioning from a psychology and neuroscience research background to working within a team of engineers and computer scientists to conduct applied research. Using a number of case examples relevant to these fields, the author provides insight into and strategies for how researchers could transition into working within multidisciplinary teams, including providing discussion about how common barriers can be overcome. While some of the examples may be difficult for readers outside of these fields to understand, the general lessons and tips provided by the author may be useful for those in any discipline who are considering a move to multidisciplinary research.</p>
+      </sec>
+      <sec>
+        <title>Reviewer 2 (Claire Macnamara, B. Psych (Hons), UNSW)</title>
+        <p>I have encountered some of the challenges of working in multi-disciplinary teams both in behavioural neuroscience research labs and in government roles. This article presents a comprehensive overview of the transition to multi-disciplinary research highlighting the importance of independently broadening one’s knowledge of other disciplines while also providing topic-specific examples. Communication is essential to team success and the tip to reframe proposals in light of other team members’ interests is particularly useful. While the article briefly mentions industry-research collaborations, these teams can have additional challenges such as competing incentives (e.g. financial vs the pursuit of knowledge) and different views on project timelines. Overall the article provides some useful tips and encourages scientists to get involved in multi-disciplinary research.</p>
+      </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <issue>7569</issue>
+          <page-range>308-311</page-range>
+          <volume>525</volume>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1038/525308a</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ledford</surname>
+              <given-names>Heidi</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <article-title>How to solve the world's biggest problems</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>891-919</page-range>
+          <volume>118</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1007/s11192-018-2992-3</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leahey</surname>
+              <given-names>Erin</given-names>
+            </name>
+            <name>
+              <surname>Barringer</surname>
+              <given-names>Sondra N.</given-names>
+            </name>
+            <name>
+              <surname>Ring-Ramirez</surname>
+              <given-names>Misty</given-names>
+            </name>
+          </person-group>
+          <source>Scientometrics</source>
+          <article-title>Universities’ structural commitment to interdisciplinary research</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="chapter">
+          <fpage>41</fpage>
+          <lpage>57</lpage>
+          <page-range>41-57</page-range>
+          <publisher-loc>Washington, DC</publisher-loc>
+          <publisher-name>The National Academies Press</publisher-name>
+          <year>2000</year>
+          <pub-id pub-id-type="doi">10.17226/9942</pub-id>
+          <person-group person-group-type="author">
+            <collab>
+              <named-content content-type="name">Institute of Medicine</named-content>
+            </collab>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Pellmar</surname>
+              <given-names>Terry C.</given-names>
+            </name>
+            <name>
+              <surname>Eisenberg</surname>
+              <given-names>Leon</given-names>
+            </name>
+          </person-group>
+          <source>Bridging Disciplines in the Brain, Behavioral, and Clinical Sciences</source>
+          <chapter-title>Barriers to Interdisciplinary Research and Training</chapter-title>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>769-774</page-range>
+          <volume>50</volume>
+          <year>2007</year>
+          <pub-id pub-id-type="doi">10.5465/amj.2007.26279169</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tushman</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name>
+              <surname>O'Reilly</surname>
+              <given-names>Charles</given-names>
+            </name>
+          </person-group>
+          <source>Academy of Management Journal</source>
+          <article-title>Research and Relevance: Implications of Pasteur'S Quadrant for Doctoral Programs and Faculty Development</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>035002</page-range>
+          <volume>17</volume>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1088/1741-2552/ab882d</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ding</surname>
+              <given-names>Keqin</given-names>
+            </name>
+            <name>
+              <surname>Dragomir</surname>
+              <given-names>Andrei</given-names>
+            </name>
+            <name>
+              <surname>Bose</surname>
+              <given-names>Rohit</given-names>
+            </name>
+            <name>
+              <surname>Osborn</surname>
+              <given-names>Luke E</given-names>
+            </name>
+            <name>
+              <surname>Seet</surname>
+              <given-names>Manuel S</given-names>
+            </name>
+            <name>
+              <surname>Bezerianos</surname>
+              <given-names>Anastasios</given-names>
+            </name>
+            <name>
+              <surname>Thakor</surname>
+              <given-names>Nitish V</given-names>
+            </name>
+          </person-group>
+          <source>Journal of Neural Engineering</source>
+          <article-title>Towards machine to brain interfaces: sensory stimulation enhances sensorimotor dynamic functional connectivity in upper limb amputees</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>371-382</page-range>
+          <volume>31</volume>
+          <year>2006</year>
+          <pub-id pub-id-type="doi">10.1111/j.1475-5661.2006.00218.x</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bracken</surname>
+              <given-names>L J</given-names>
+            </name>
+            <name>
+              <surname>Oughton</surname>
+              <given-names>E A</given-names>
+            </name>
+          </person-group>
+          <source>Transactions of the Institute of British Geographers</source>
+          <article-title>'What do you mean?' The importance of language in developing interdisciplinary research</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <issue>2</issue>
+          <page-range>697-720</page-range>
+          <volume>195</volume>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1007/s11229-016-1236-4</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>MacLeod</surname>
+              <given-names>Miles</given-names>
+            </name>
+          </person-group>
+          <source>Synthese</source>
+          <article-title>What makes interdisciplinarity difficult? Some consequences of domain specificity in interdisciplinary practice</article-title>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
