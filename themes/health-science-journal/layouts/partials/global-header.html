@@ -10,7 +10,7 @@
 		<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse justify-content-md-center" id="main-navbar">
-		<ul id="primaryNav" class="navbar-nav">{{ range .Site.Menus.header }}{{ if .HasChildren }}
+		<ul id="primaryNav" class="navbar-nav">{{ range .Site.Menus.main }}{{ if .HasChildren }}
 		<li class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ .Name }}</a>
 		<div class="dropdown-menu">{{ range .Children }}

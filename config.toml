@@ -38,7 +38,7 @@ theme = "health-science-journal"
   socialdescription = "Neuroanatomy and Behaviour provides free open access publishing for neuroscience."
   
   ## Set to true to load libraries from Cloudflare and Bootstrap CDNs where available. Otherwise leave blank.
-  useCDN = "true"
+  useCDN = true
   
   ## Custom blocks for the footer
   customblocks = [{ name = "Non-Profit Publishing", content = "[Episteme Health Inc.](https://about.epistemehealth.com) (Registration No. A0105005T, VIC, Australia) is a non-profit no-fee open access publisher run by scientists. All articles can be published and read without paying any fees."},
@@ -65,43 +65,43 @@ theme = "health-science-journal"
   
   [menu]
 
-    [[menu.header]]
+    [[menu.main]]
       weight = 2
       name = "Articles"
       url = "/current"
-    [[menu.header]]
+    [[menu.main]]
       weight = 3
       name = "Archives"
       url = "/article"
-    [[menu.header]]
+    [[menu.main]]
       weight = 4
       name = "Submit"
       url = "https://www.epistemehealth.com/index.php/nab/about/submissions"
-    [[menu.header]]
+    [[menu.main]]
       weight = 5
       name = "About"
       hasChildren = true
-    [[menu.header]]
+    [[menu.main]]
       parent = "About"
       name = "About the Journal"
       url = "/about/journal"
       weight = 6
-    [[menu.header]]
+    [[menu.main]]
       parent = "About"
       name = "Editorial Team"
       url = "/about/editorialTeam"
       weight = 7
-    [[menu.header]]
+    [[menu.main]]
       parent = "About"
       name = "Policies and Plan S"
       url = "https://about.epistemehealth.com/policy/"
       weight = 8
-    [[menu.header]]
+    [[menu.main]]
       parent = "About"
       name = "Volunteer"
       url = "/about/volunteer"
       weight = 9
-    [[menu.header]]
+    [[menu.main]]
       parent = "About"
       name = "Contact"
       url = "/contact"
@@ -149,6 +149,11 @@ theme = "health-science-journal"
     isPlainText = true
     mediaType = "text/css"
     path = ""
+  [outputFormats.lensfonts]
+    baseName = "css/lensfonts"
+    isPlainText = true
+    mediaType = "text/css"
+    path = ""
   [outputFormats.exportris]
     baseName = "export-citation"
     isPlainText = true
@@ -182,7 +187,7 @@ theme = "health-science-journal"
     
     
 [outputs]
-  home = ["HTML", "customlens", "localfonts"]
+  home = ["HTML", "customlens", "localfonts", "lensfonts"]
   page = ["html", "galleyPDF", "galleyXML", "exportris", "exportenw", "exportbib", "exportcsljson" ]
   
 [minify]

@@ -3,9 +3,9 @@
   <head>{{ partial "favicon.html" . }}
 {{ partial "relcanonical.html" . }}
     <title>Lens Viewer: {{ .Title }} | {{ .Site.Title }}</title>
-    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic' rel='stylesheet' type='text/css'>
+    <link href='{{ if eq .Site.Params.useCDN true }}https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic{{ else }}{{ .Site.BaseURL }}css/lensfonts.css{{ end }}' rel='stylesheet' type='text/css'>
     
-    <link rel="stylesheet" type="text/css" media="all" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="{{ if eq .Site.Params.useCDN true }}https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css{{ else }}{{ .Site.BaseURL }}fa/css/all.min.css{{ end }}" />
 
     <!-- A combined lens.css will be generated in the bundling process -->
     <!-- While in development, separate links for each CSS file are added, so we don't need a source map -->
@@ -21,7 +21,7 @@
         styles: {".MathJax_Display": {padding: "0em 0em 0em 3em" },".MathJax_SVG_Display": {padding: "0em 0em 0em 3em" }}
       });
     </script>
-    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="{{ if eq .Site.Params.useCDN true }}https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.5/es5/startup.js{{ else }}{{ .Site.BaseURL }}MathJax/startup.js{{ end }}"></script>
 
     <script src='{{ .Site.BaseURL }}js/customlens.js'></script>
     
