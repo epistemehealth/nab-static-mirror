@@ -18,6 +18,7 @@ theme = "health-science-journal"
   journalDOI = "10.35430/nab"
   publisherjournalabbreviation = "NAB"
   subjects = ["Biological Sciences", "Neurosciences"]
+  crossmark_enabled = true
   
   ## Homepage image. Different sizes can be used to provide responsiveness.
   homepageimageset = [{img = "img/homepage_480w.jpg", width = "480w", maxwidth = "800px"},

@@ -19,11 +19,11 @@ EPUB
 {{ .galleyname }}
 </a></div>{{ end }}{{ end }}{{ end }}
 </div>
-
+{{ if eq .Site.Params.crossmark_enabled true }}
 <div class="article-details-block">
 <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
 <a data-target="crossmark"><img src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg" width="150" /></a>
-</div>
+</div>{{ end }}
 
 <div class="article-details-block article-details-keywords">
 <h2 class="article-details-heading">
