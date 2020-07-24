@@ -2,10 +2,10 @@
 {{ else if .Site.Params.twittercard }}<meta name="twitter:card" content="{{ .Site.Params.twittercard }}" />
 {{ end }}{{ with .Site.Params.twitterhandle }}<meta name="twitter:site" content="{{ . }}" />
 {{ end }}{{ if .Params.twitterhandle }}{{ range .Params.twitterhandle }}<meta name="twitter:creator" content="{{ . }}" />
-{{ end }}{{ end }}{{ if .Params.socialimage }}<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.socialimage }}" />
-<meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.socialimage }}" />
-{{ else if .Site.Params.socialimage }}<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.socialimage }}" />
-<meta name="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.socialimage }}" />
+{{ end }}{{ end }}{{ if .Params.socialimage }}<meta name="twitter:image" content="{{ .Params.socialimage | absURL }}" />
+<meta name="og:image" content="{{ .Params.socialimage | absURL }}" />
+{{ else if .Site.Params.socialimage }}<meta name="twitter:image" content="{{ .Site.Params.socialimage | absURL }}" />
+<meta name="og:image" content="{{ .Site.Params.socialimage | absURL }}" />
 {{ end }}{{ if .Params.socialimagealt }}<meta name="twitter:image:alt" content="{{ .Params.socialimagealt }}" />
 <meta name="og:image:alt" content="{{ .Params.socialimagealt }}" />
 {{ else if .Site.Params.socialimagealt }}<meta name="twitter:image:alt" content="{{ .Site.Params.socialimagealt }}" />

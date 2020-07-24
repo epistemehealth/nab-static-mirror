@@ -8,8 +8,7 @@
 <body>
 {{ partial "global-header.html" . }}
 {{ partial "header.html" . }}
-<div class="container container-homepage-issue">
-{{ if .Site.Params.currentissuepath }}{{ with .Site.GetPage "article" }}{{ with .Site.GetPage .Site.Params.currentissuepath }}
+<div class="container container-homepage-issue">{{ if .Site.Params.currentissuepath }}{{ with .Site.GetPage "article" }}{{ with .Site.GetPage .Site.Params.currentissuepath }}
 {{ partial "homepage-issue-header.html" . }}
 {{ partial "homepage-issue-description.html" . }}
 {{ if .Title }}<div class="row justify-content-center">{{ else }}<div class="row justify-content-center issue-only-image">{{ end }}
@@ -21,9 +20,7 @@
 {{ if .Title }}<div class="row justify-content-center">{{ else }}<div class="row justify-content-center issue-only-image">{{ end }}
 <div class="col-12 col-lg-9">
 {{ partial "homepage-issue-toc.html" . }}
-{{ end }}{{ end }}
-{{ end }}
-{{ partial "view-all-issues-button.html" . }}
+{{ end }}{{ end }}{{ end }}{{ partial "view-all-issues-button.html" . }}
 </div>
 {{ partial "additional-content.html" . }}
 </div>

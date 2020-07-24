@@ -26,7 +26,7 @@ Download
 </div>
 </div>
 <div id="pdfCanvasContainer" class="pdf-frame">
-<iframe src="{{ .Site.BaseURL}}pdfViewer/viewer.html?file={{ .Permalink }}{{ .Page.Params.PDF }}" width="100%" height="100%" style="min-height: 500px;" allowfullscreen webkitallowfullscreen></iframe>
+<iframe src="{{ "pdfViewer/viewer.html" | absURL }}?file={{ .Permalink }}{{ .Page.Params.PDF }}" width="100%" height="100%" style="min-height: 500px;" allowfullscreen webkitallowfullscreen></iframe>
 </div>
 </body>
 </html>

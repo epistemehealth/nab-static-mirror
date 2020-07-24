@@ -8,8 +8,7 @@
 </head>
 <body>
 {{ partial "global-header.html" . }}
-{{ if eq .Page.Params.listtype "archives" }}
-{{ partial "archives-toc.html" . }}
+{{ if eq .Page.Params.listtype "archives" }}{{ partial "archives-toc.html" . }}
 {{ else }}
 <div class="container page-issue">
 {{ partial "issue-header.html" . }}

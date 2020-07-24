@@ -20,20 +20,15 @@
 <div class="article-summary-galleys">
 {{ if .Params.PDF }}<a class="btn btn-primary" href="{{ .Page.Permalink }}view-pdf.html">
 PDF
-</a>{{ end }}
-{{ if .Params.HTML }}<a class="btn btn-primary" href="{{ .Page.Permalink }}view-html.html">
+</a>&nbsp;{{ end }}{{ if .Params.HTML }}<a class="btn btn-primary" href="{{ .Page.Permalink }}view-html.html">
 HTML
-</a>{{ end }}
-{{ if .Params.XML }}<a class="btn btn-primary" href="{{ .Page.Permalink }}view-lens.html">
+</a>&nbsp;{{ end }}{{ if .Params.XML }}<a class="btn btn-primary" href="{{ .Page.Permalink }}view-lens.html">
 XML
-</a>{{ end }}
-{{ if .Params.EPUB }}<a class="btn btn-primary" href="{{ .Page.Permalink }}{{ .Params.EPUB }}">
+</a>&nbsp;{{ end }}{{ if .Params.EPUB }}<a class="btn btn-primary" href="{{ .Page.Permalink }}{{ .Params.EPUB }}">
 EPUB
-</a>{{ end }}
-{{ if .Params.customGalleys }}{{ range .Params.customGalleys }}{{ if .galleyURL }}<a class="btn btn-primary" href="{{ .galleyURL }}">
+</a>&nbsp;{{ end }}{{ if .Params.customGalleys }}{{ range .Params.customGalleys }}{{ if .galleyURL }}<a class="btn btn-primary" href="{{ .galleyURL }}">
 {{ .galleyname }}
-</a>{{ end }}{{ end }}{{ end }}
-</div>
+</a>&nbsp;{{ end }}{{ end }}{{ end }}</div>
 </div>{{ end }}
 </div>
 {{ end }}

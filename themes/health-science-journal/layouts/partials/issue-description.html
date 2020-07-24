@@ -10,6 +10,6 @@
 {{ with .Description }}<p>{{ . }}</p>{{ end }}
 </div>
 </div>
-</div>{{ with .Page.Params.issuecover }}<div class="col-lg-3"><a href="{{ $issuelink }}"><img class="img-fluid page-issue-cover" src="{{ $.Site.BaseURL }}{{ . }}"></a></div>
+</div>{{ with .Page.Params.issuecover }}<div class="col-lg-3"><a href="{{ $issuelink }}"><img class="img-fluid page-issue-cover" src="{{ . | absURL }}"></a></div>
 {{ end }}
 </div>{{ end }}
