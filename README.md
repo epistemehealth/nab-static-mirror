@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f8bf640-2cb3-403e-ba23-21ac46da636f/deploy-status)](https://app.netlify.com/sites/neuroanat-behav/deploys)
+
 # Neuroanatomy and Behaviour
 Neuroanatomy and Behaviour (ISSN: 2652-1768) is a journal for behavioural neuroscience, founded in 2019 to publish research, review and commentary papers. It is published by Episteme Health Inc., a non-profit incorporated association based in Melbourne, Australia. There are no fees for authors or readers.
 
