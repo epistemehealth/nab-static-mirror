@@ -49,4 +49,4 @@
 {{ end }}{{ if .Params.language }}<meta name="citation_language" content="{{ slicestr .Params.language  0 2 }}" />
 {{ else }}<meta name="citation_language" content="{{ .Language  }}" />
 {{ end }}{{ range $.Params.keywords }}<meta name="citation_keywords" xml:lang="{{ if $.Params.language }}{{ slicestr $.Params.language  0 2 }}{{ else }}{{ $.Site.Language }}{{ end }}" content="{{ . }}" />
-{{ end }}{{ with .Params.PDF }}<meta name="citation_pdf_url" content="{{ . }}" />{{ end }}
+{{ end }}{{ with .Params.PDF }}<meta name="citation_pdf_url" content="{{ $.Permalink }}{{ . }}" />{{ end }}
