@@ -1,7 +1,7 @@
 +++
 Title = "Editorial Team"
 Summary = "Names and details of editorial board members"
-Date = "2020-05-01T09:00:00+10:00"
+Date = "2020-11-17T09:00:00+10:00"
 
 canonicalurl = "https://epistemehealth.com/index.php/nab/about/editorialTeam"
 +++
@@ -94,6 +94,10 @@ Dr Wright studies mouse models of neurodegenerative disorders including Alzheime
 Xiang Li [[Institutional Profile](https://researchers.uq.edu.au/researcher/17119)]  
 Queensland Brain Institute, University of Queensland, Australia  
 Dr Li focuses on a new merging field known as Neuroepigenetics. His current work is to understand how does neuronal epigenome contribute in fear-related learning and memory formation.
+
+Alaknanda Mishra [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-9740-8031)[[ResearchGate](https://www.researchgate.net/profile/Alaknanda_Mishra)]  
+University of Calidornia, Davis, United States.
+Dr Mishra works as a postdoctoral fellow and her research involves the study of retinal degeneration disorders, their pathology and underlying mechanisms in animal models. She is working towards potential therapeutic strategies to rescue neuro-ocular structure and function and dissecting the ocular immune response to cell and gene therapies in eye diseases.
 
 **Reviewing Editors**
 
