@@ -33,8 +33,9 @@ Joanna Yau [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0003-2235-5956
 University of New South Wales, Australia. 
 Dr Yau uses chemo- and optogenetic techniques in combination with animal models of learning and motivation to study the neurobiology of fear conditioning. She is the Vice-President of Episteme Health Inc.
 
-Nicola Chen [[ResearchGate](https://www.researchgate.net/profile/Nicola_Chen)]  
-Black Dog Institute, University of New South Wales, Australia. Dr Chen has expertise in neuropharmacology using animal models of alcohol addiction. She is the Secretary of Episteme Health Inc.
+Nicola Chen [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0001-6648-6646)[[ResearchGate](https://www.researchgate.net/profile/Nicola_Chen)]  
+Centre for Youth Mental Health, University of Melbourne, Australia. Black Dog Institute, University of New South Wales.
+Dr Chen has expertise in neuropharmacology using animal models of alcohol and cocaine addiction. She is currently a Postdoctoral Research Fellow in Web Analytics/Data Science at Orygen, and is the Secretary of Episteme Health Inc
 
 Belinda Lay [[Institutional Profile](https://www.concordia.ca/sgs/postdoctoral-fellows/funding/horizon/postdoc-profiles.html)]  
 Concordia University, Canada.  
