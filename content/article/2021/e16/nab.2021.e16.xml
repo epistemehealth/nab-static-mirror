@@ -64,7 +64,7 @@
         <institution-wrap>
           <institution-id institution-id-type="ISNI">0000 0000 9709 7726</institution-id>
           <institution-id institution-id-type="ROR">02catss52</institution-id>
-          <institution>European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Cambridge CB10 1SD, United Kingdom</institution>
+          <institution>European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Cambridgeshire, United Kingdom</institution>
         </institution-wrap>
       </aff>
       <aff id="affiliation3">
@@ -148,7 +148,7 @@
       </sec>
     </sec>
     <sec>
-      <title>2 Metabotropic glutamate 5 receptor in acquisition and maintenance of aversive memories</title>
+      <title>2. Metabotropic glutamate 5 receptor in acquisition and maintenance of aversive memories</title>
       <sec>
         <title>2.1 Acquisition</title>
         <p>The role of mGlu<sub>5</sub> in learning and memory has been demonstrated firstly using the Morris water maze [<xref ref-type="bibr" rid="ref70">70</xref>]. While this task is not typically studied in the context of aversive learning, it requires the animal’s motivation to escape an aversive situation using spatial memory. Systemic injections of mGlu<sub>5</sub> PAMs CDPPB (10 mg/kg) or ADX47273 (10 mg/kg) once before each day of Morris water maze trials enhanced the acquisition of learning in mice, as indicated by fewer number of days to reach criterion [<xref ref-type="bibr" rid="ref81">81</xref>]. Although all mice were trained to criterion, drug-free probe trial showed that mice previously injected with CDPPB or ADX47273 spent more time in the target quadrant compared to the vehicle group [<xref ref-type="bibr" rid="ref81">81</xref>], which highlights that the effects of mGlu<sub>5</sub> PAMs on acquisition of learning is long-lasting and may indicate stronger memory overall (<xref ref-type="table" rid="table1">Table 1</xref>).</p>
@@ -443,7 +443,7 @@
       </sec>
     </sec>
     <sec>
-      <title>3 Metabotropic glutamate 5 receptor in aversive memory extinction and reconsolidation</title>
+      <title>3. Metabotropic glutamate 5 receptor in aversive memory extinction and reconsolidation</title>
       <p>Adaptive learning and behavioral flexibility are highly important in response to an ever-changing environment. Importantly, it has implications on treatment of pervasively expressed memory disorders – the ability to respond differently to cues with established associations is crucial to the success of treatment. This can be modelled through extinction and reconsolidation.</p>
       <sec>
         <title>3.1 Extinction</title>
