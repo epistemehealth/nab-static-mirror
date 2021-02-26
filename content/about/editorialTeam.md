@@ -1,7 +1,7 @@
 +++
 Title = "Editorial Team"
 Summary = "Names and details of editorial board members"
-Date = "2020-11-17T09:00:00+10:00"
+Date = "2021-02-26T14:00:00+10:00"
 
 canonicalurl = "https://epistemehealth.com/index.php/nab/about/editorialTeam"
 +++
@@ -142,6 +142,11 @@ Tara Raam [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0003-2963-8588)
 UCLA, United States.  
 Dr. Raam is a postdoctoral fellow in systems and behavioral neuroscience at UCLA. Her work uses rodent behavioural models, in vivo calcium imaging, and computational modeling to understand the neural representations of behaviour in social interactions.
 
-Chun Hui (Johnny) Park [![ORCID Logo](/img/orcid.png)](https://orcid.org0000-0002-7257-181X)[[ResearchGate](https://www.researchgate.net/profile/Chun_Hui_Park)]  
+Chun Hui (Johnny) Park [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-7257-181X)[[ResearchGate](https://www.researchgate.net/profile/Chun_Hui_Park)]  
 University of Otago, New Zealand.  
 Mr. Park uses rodent models to study developmental fear and its neurobiology. He is particularly interested in the developmental sex differences in conditioned fear and the underlying circuitry.
+
+**Proofreading**
+
+Jordi Chaffer [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-1388-7339)[[ResearchGate](https://www.researchgate.net/profile/Tomer_Chaffer)]
+Jordi is a prospective graduate student at the Division of Experimental Medicine at McGill University. His undergraduate thesis work focuses on characterizing a novel protein involved in regulating skeletal muscle growth and repair (myogenesis). 
