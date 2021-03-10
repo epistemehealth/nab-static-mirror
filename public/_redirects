@@ -1,3 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
 https://neuroanat-behav.netlify.app/* https://nab.epistemehealth.com/:splat 301!
 https://neuroanat-behav.netlify.com/* https://nab.epistemehealth.com/:splat 301!
+https://epistemehealth.com/index.php/* https://nab.epistemehealth.com/ 302
