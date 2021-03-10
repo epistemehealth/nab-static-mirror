@@ -74,10 +74,10 @@ theme = "health-science-journal"
       weight = 3
       name = "Archives"
       url = "/article"
-##    [[menu.main]]
-##      weight = 4
-##      name = "Submit"
-##      url = "https://www.epistemehealth.com/index.php/nab/about/submissions"
+    [[menu.main]]
+      weight = 4
+      name = "Submit"
+      url = "https://www.epistemehealth.com/index.php/nab/about/submissions"
     [[menu.main]]
       weight = 5
       name = "About"

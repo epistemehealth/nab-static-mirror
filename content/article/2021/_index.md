@@ -1,6 +1,6 @@
 +++
-title = "NOTICE: Site Maintenance"
-description = "Please note: Our site is currently undergoing maintenance and access to the submission system is temporarily unavailable. If you need to access to the system, please come back later."
+title = ""
+description = ""
 issuecover = ""
 canonicalurl = "https://epistemehealth.com/index.php/nab/issue/view/3"
 [cascade]
