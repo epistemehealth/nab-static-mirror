@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cover Letter Generator</title>
+<meta name="description" content="Guidance and form for generating cover letters for Neuroanatomy and Behaviour.">
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@epistemehealth" />
+<meta name="twitter:image" content="https://nab.epistemehealth.com/img/twittercard.jpg" />
+<meta name="og:image" content="https://nab.epistemehealth.com/img/twittercard.jpg" />
+<meta name="twitter:image:alt" content="Neuroanatomy and Behaviour Logo" />
+<meta name="og:image:alt" content="Neuroanatomy and Behaviour Logo" />
+<meta name="twitter:title" content="Neuroanatomy and Behaviour Cover Letter Generator" />
+<meta name="og:title" content="About the Journal" />
+<meta property="og:type" content="website" />
+<meta name="twitter:description" content="Guidance and form for generating cover letters for Neuroanatomy and Behaviour." />
+<meta name="og:description" content="NGuidance and form for generating cover letters for Neuroanatomy and Behaviour." />
+<meta property="og:url" content="https://nab.epistemehealth.com/about/journal/" />
+<meta property="og:site_name" content="Neuroanatomy and Behaviour" />
+<link rel="stylesheet" href="https://nab.epistemehealth.com/css/localfonts.css" type="text/css" /><link rel="stylesheet" href="https://nab.epistemehealth.com/css/bootstrap.min.css" />
+<link rel="stylesheet" href="https://nab.epistemehealth.com/css/default.css" />
+</head>
+<body>
+<header class="main-header">
+<div class="container">
+<h1 class="sr-only">Neuroanatomy and Behaviour</h1>
+<div class="navbar-logo">
+<a href="https://nab.epistemehealth.com/"><span class="navbar-logo-text">Neuroanatomy and Behaviour</span></a>
+</div>
+<nav class="navbar navbar-expand-lg navbar-light">
+<a class="navbar-brand" href="https://nab.epistemehealth.com/"><span class="navbar-logo-text">Neuroanatomy and Behaviour</span></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle Navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse justify-content-md-center" id="main-navbar">
+<ul id="primaryNav" class="navbar-nav">
+<li class="nav-item"><a href="https://nab.epistemehealth.com/current/" class="nav-link">Articles</a></li>
+<li class="nav-item"><a href="https://nab.epistemehealth.com/article/" class="nav-link">Archives</a></li>
+<li class="nav-item"><a href="https://www.epistemehealth.com/index.php/nab/about/submissions/" class="nav-link">Submit</a></li>
+<li class="nav-item dropdown">
+<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" href="https://nab.epistemehealth.com/about/journal">About the Journal</a>
+<a class="dropdown-item" href="https://nab.epistemehealth.com/about/editorialteam">Editorial Team</a>
+<a class="dropdown-item" href="https://about.epistemehealth.com/policy/">Policies and Plan S</a>
+<a class="dropdown-item" href="https://nab.epistemehealth.com/about/volunteer">Volunteer</a>
+<a class="dropdown-item" href="https://nab.epistemehealth.com/contact">Contact</a>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</header>
+<div class="container page-custom">
+<div class="row page-header justify-content-md-center">
+<div class="col-md-8">
+<h1>Cover Letter Generator</h1>
+</div>
+</div>
+<div class="row justify-content-md-center">
+<div class="col-md-8">
+<div class="page-content">
+<h2>Guidelines for Cover Letters</h2>
+<p><i>Neuroanatomy and Behaviour</i> does not require extensive cover letters and uploading a separate file as a cover letter is not required. A brief 1-2 description to introduce your paper is sufficient - we will read your abstract and look at your whole paper before deciding whether to send it out for review.</p>
+<p>The form below will help you generate a cover letter to paste into the "Comments to Editor" box during submission. This form does not upload any information to us, so please remember to copy your text before editing and submitting your paper.</p>
+<h2>Article Details</h2>
+<form name="coverLetters">
+Article Title: <input type="text" name="title" style="width: 60%"><br />
+Description: <input type="text" name="description" style="width: 60%"><br />
+Optional Comments: <input type="text" name="comment" style="width: 60%"><br />
+<br />
+Preprint DOI: <input type="text" name="preprint" style="width: 30%"><br />
+Dataset DOI: <input type="text" name="dataset" style="width: 30%"><br />
+Protocol DOI: <input type="text" name="protocol" style="width: 30%"><br />
+Presented at conference(s)?  <input type="checkbox" id="conferences"> Yes<br />
+Internal Data Audit Report: <input type="checkbox" id="dataaudit"> Yes<br />
+Check here if any authors are EHI Committee members: <input type="checkbox" id="ehicommittee"><br />
+Review Preference: <input type="radio" name="reviewType" value="single">Single-Blind
+<input type="radio" name="reviewType" value="double">Double-Blind<br />
+Choice of License: <input type="radio" name="license" value="ccby"> CC BY 
+<input type="radio" name="license" value="nc"> CC BY-NC 
+<input type="radio" name="license" value="zero"> CC0 
+<input type="radio" name="license" value="other"> Other<br />
+<br />
+Author Name(s): <input type="text" name="names" style="width: 60%"><br />
+<input type="button" value="Generate!" onclick="generateCoverLetter()">
+
+</form>
+<p id="greeting">Dear Editor,</p>
+<p id="intro"></p>
+<p id="comment"></p>
+<p id="disclosures"></p>
+<p id="preferences"></p>
+<p>Yours Sincerely,</p>
+<p id="signoff">The Author(s)</p>
+</div>
+</div>
+</div>
+<script>
+function generateCoverLetter() {
+  var title = document.forms["coverLetters"]["title"].value;
+  var description = document.forms["coverLetters"]["description"].value;
+  var introtext = "We are pleased to submit our article titled &quot;" + title + "&quot;. " + description
+  document.getElementById("intro").innerHTML = introtext;
+  var comment = document.forms["coverLetters"]["comment"].value;
+  document.getElementById("comment").innerHTML = comment;
+
+  if (document.querySelector('#conferences:checked') !== null) {
+    var conference = "yes"
+  } else {
+    var conference = "no"
+  }
+  var preprint = document.forms["coverLetters"]["preprint"].value;
+  var dataset = document.forms["coverLetters"]["dataset"].value;
+  var protocol = document.forms["coverLetters"]["protocol"].value;
+
+  if (document.querySelector('#dataaudit:checked') !== null) {
+    var audit = "yes"
+  } else {
+    var audit = "no"
+  }
+
+  if (document.querySelector('#ehicommittee:checked') !== null) {
+    var committee = "yes"
+  } else {
+    var committee = "no"
+  }
+
+  var priorpub = "This work is original and has not been previously published";
+  var datastatement = "";
+  var protstatement = "";
+  var auditstatement = "";
+
+  if (conference == "yes" &&  preprint !== "") {
+     var priorpub = priorpub + ", although it has previously been presented at conferences and posted as a preprint (DOI: " + preprint + "), as permitted by journal policy."
+  } else if (conference == "yes") {
+     var priorpub = priorpub + ", although it has previously been presented at conferences, as permitted by journal policy.";
+  } else if (preprint !== "") {
+     var priorpub = priorpub + ", although it has been posted as a preprint (DOI: " + preprint + "), as permitted by journal policy.";
+  } else {
+     var priorpub = priorpub + ".";
+  }
+
+  if (dataset !== "") {
+    var datastatement = " The raw data underlying this paper will be available after publication with DOI: " + dataset + ".";
+  }
+
+  if (protocol !== "") {
+    var protstatement = " An extended protocol is available with DOI: " + protocol + ".";
+  }
+
+  if (audit == "yes") {
+    var auditstatement = " To ensure the integrity of the data submitted, we have commissioned an internal data audit and have uploaded the report as supplementary material.";
+  }
+
+  document.getElementById("disclosures").innerHTML = priorpub + datastatement + protstatement + auditstatement;
+
+  if (committee == "yes") {
+     var reviewpref = "Please submit this paper to double-blind review, since there are authors of this paper who are also members of the Episteme Health Inc committee of management.";
+  } else if (document.forms["coverLetters"]["reviewType"].value == "double") {
+     var reviewpref = "Please submit this paper to double-blind review."
+  } else {
+     var reviewpref = "Please submit this paper to standard single-blind review."
+  }
+
+  if (document.forms["coverLetters"]["license"].value == "ccby") {
+     var licensepref = "If accepted for publication, we would like to publish under the &quot;standard&quot; Creative Commons Attribution 4.0 International license (CC BY) used for open access publications."
+  } else if (document.forms["coverLetters"]["license"].value == "nc") {
+     var licensepref = "If accepted for publication, we would like our paper published with a Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC), with supplementary permissions as outlined in the Episteme Health Copyright and Fair Dealing Policy. We understand that we will retain copyright and the responsibility handling permissions requests and enforcing the non-commercial use clause."
+  } else if (document.forms["coverLetters"]["license"].value == "zero") {
+     var licensepref = "If accepted for publication, we are required by our employer(s) or funder(s) to publish under a CC0 1.0 Universal Public Domain Dedication (CC0 1.0)."
+  } else if (document.forms["coverLetters"]["license"].value == "other") {
+     var licensepref = "If accepted for publication, we are required by our employer(s) or funder(s) to publish under a non-standard license, as detailed in our License to Publish."
+  }
+
+  document.getElementById("preferences").innerHTML = reviewpref + " " + licensepref;
+
+  var names = document.forms["coverLetters"]["names"].value;
+  if (names !== "") {
+     document.getElementById("signoff").innerHTML = names;
+  } else {
+     document.getElementById("signoff").innerHTML = "The Author(s)";
+  }
+}
+</script>
+
+</body>
+</html>
