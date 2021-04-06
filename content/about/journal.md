@@ -52,7 +52,8 @@ We are always working to improve the indexing and discoverability of the journal
 &#45; [Open Archives Initiative](https://www.openarchives.org/Register/BrowseSites?viewRecord=https://epistemehealth.com/index.php/nab/oai)  
 &#45; [OAI Registry at UIUC](https://quest.library.illinois.edu/OAIRegistry/Home/Details/9431)  
 &#45; [PKP Index](https://index.pkp.sfu.ca/index.php/browse/index/6175)  
-&#45; [Scilit (MDPI)](https://www.scilit.net/journal/4259137)  
+&#45; [Scilit (MDPI)](https://www.scilit.net/journal/4259137)
+&#45; [Scite.ai](https://scite.ai/journals/2652-1768)  
 &#45; [Ulrich’s Periodicals Directory](https://www.proquest.com/products-services/Ulrichsweb.html)  
 &#45; [WorldCat](https://www.worldcat.org/search?q=n2%3A2652-1768)
 
