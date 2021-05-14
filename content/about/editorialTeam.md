@@ -146,6 +146,10 @@ Chun Hui (Johnny) Park [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-00
 University of Otago, New Zealand.  
 Mr. Park uses rodent models to study developmental fear and its neurobiology. He is particularly interested in the developmental sex differences in conditioned fear and the underlying circuitry.
 
+Durairaj Ragu Varman [[ResearchGate](https://www.researchgate.net/profile/Durairaj_Varman)]
+Virginia Commonwealth University, United States.
+Dr. Ragu Varman's studies aim to understand the role and contribution of monoamine neurotransmitters to central nervous system function at molecular, cellular and behavioral level and their regulations in depression, stress, obsessive compulsive disorder, addiction, anxiety and attention deficit hyperactive disorder. Dr. Ragu Varman's research experience includes use of knock-in and knock-out mice, pharmacology, molecular, immunological, biochemical and diverse range of behavioral paradigms in rodent models.
+
 **Proofreading**
 
 Jordi Chaffer [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-1388-7339)[[ResearchGate](https://www.researchgate.net/profile/Tomer_Chaffer)]
