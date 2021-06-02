@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="data-brief" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Neuroanatomy and Behaviour</journal-id>
+      <journal-id journal-id-type="doi">10.35430/nab</journal-id>
+      <journal-title-group>
+        <journal-title>Neuroanatomy and Behaviour</journal-title>
+	<abbrev-journal-title abbrev-type="nlm-ta">Neuroanat Behav</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="publisher">NAB</abbrev-journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">2652-1768</issn>
+      <issn publication-format="print">2652-1768</issn>
+      <publisher>
+        <publisher-name>Episteme Health Inc.</publisher-name>
+        <publisher-loc>
+          <city>Melbourne</city>
+          <state>Victoria</state>
+          <country>Australia</country>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.35430/nab.2021.e17</article-id>
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>
+          <subject>Biological Sciences</subject>
+          <subject>Neurosciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Orexin neuron activity in mating mice - a pilot study</article-title>
+      </title-group>
+      <contrib-group content-type="author">
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9134-9165</contrib-id>
+          <name>
+            <surname>Burdakov</surname>
+            <given-names>Denis</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation1"/>
+          <xref ref-type="aff" rid="affiliation2"/>
+          <xref ref-type="aff" rid="affiliation3"/>
+          <xref ref-type="award" rid="funder1" />
+          <xref ref-type="award" rid="funder2" />
+          <xref ref-type="award" rid="funder3" />
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4810-4146</contrib-id>
+          <name>
+            <surname>Karnani</surname>
+            <given-names>Mahesh M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation4"/>
+          <xref ref-type="aff" rid="affiliation5"/>
+          <xref ref-type="award" rid="funder4" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="affiliation1">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000000121562780</institution-id>
+          <institution-id institution-id-type="ROR">05a28rw58</institution-id>
+          <institution>Laboratory of Neurobehavioural Dynamics, Institute for Neuroscience, Department of Health Sciences and Technology, ETH Zürich, Zürich, Switzerland</institution>
+        </institution-wrap>
+      </aff>
+      <aff id="affiliation2">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000000417951830</institution-id>
+          <institution-id institution-id-type="ROR">04tnbqb63</institution-id>
+          <institution>The Francis Crick Institute, London, UK</institution>
+        </institution-wrap>
+      </aff>
+      <aff id="affiliation3">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000000123226764</institution-id>
+          <institution-id institution-id-type="ROR">0220mzb33</institution-id>
+          <institution>Institute of Psychiatry, Psychology &amp; Neuroscience, King’s College London, UK</institution>
+        </institution-wrap>
+      </aff>
+      <aff id="affiliation4">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000000419370650</institution-id>
+          <institution-id institution-id-type="ROR">02crff812</institution-id>
+          <institution>Neuroscience Center Zürich (ZNZ), ETH Zürich and University of Zürich, Zürich, Switzerland</institution>
+        </institution-wrap>
+      </aff>
+      <aff id="affiliation5">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000000478857602</institution-id>
+          <institution-id institution-id-type="ROR">05f82e368</institution-id>
+          <institution>Saints-Pères Paris Institute for the Neurosciences, Université de Paris, France</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* <email>mahesh.karnani@parisdescartes.fr</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="2021-06-02">
+        <day>02</day>
+        <month>06</month>
+        <year>2021</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e17</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2020-11-19">
+          <day>19</day>
+          <month>11</month>
+          <year>2020</year>
+        </date>
+        <date date-type="rev-request" iso-8601-date="2020-12-14">
+          <day>14</day>
+          <month>12</month>
+          <year>2020</year>
+        </date>
+        <date date-type="rev-recd" iso-8601-date="2021-05-26">
+          <day>26</day>
+          <month>05</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2021-05-26">
+          <day>26</day>
+          <month>05</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2021 Denis Burdakov, Mahesh M. Karnani</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <copyright-holder>Denis Burdakov, Mahesh M. Karnani</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0">
+	  <license-p>Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-object
+        link-type="supplement" 
+        content-type="data" 
+        source-type="repository" 
+        object-id-type="doi" 
+        object-id="10.5281/zenodo.4813116"
+        xlink:href="https://doi.org/10.5281/zenodo.4813116">
+        <source>Zenodo</source>
+        <data-title>Orexin neuron activity in mating mice - pilot imaging data</data-title>
+      </related-object>
+      <related-object
+        link-type="supplement" 
+        content-type="video" 
+        source-type="repository" 
+        object-id-type="doi" 
+        object-id="10.5281/zenodo.4820456"
+        xlink:href="https://doi.org/10.5281/zenodo.4820456">
+        <source>Zenodo</source>
+        <data-title>Movie 1 from 10.35430/nab.2021.e17 Burdakov and Karnani, Orexin neuron activity in mating mice - a pilot study, Neuroanatomy and Behaviour, 2021, 3(1), e17</data-title>
+      </related-object>
+      <abstract>
+        <p>Mating behaviours affect hypothalamic orexin/hypocretin neurons and vice versa. However, activity of orexin neurons has not been recorded during mating before. We report an anecdotal dataset of freely-moving miniature microscope recordings of orexin neuron activity during mating behaviours, as well as an oral sexual encounter previously undocumented in mice. Across the orexin neuron population in the male, firing rates were maximally diverse during ejaculation, similarly diverse though weaker during intromission, and inverse to this during anterior thrusting. In the female mouse, orexin neurons tended to decrease firing during intromission after a transient increase. We provide this brief dataset for re-use, to enable further studies of these rare behaviours with challenging surgical preparations.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Lateral hypothalamus</kwd>
+        <kwd>Mating</kwd>
+        <kwd>Orexin</kwd>
+        <kwd>Hypocretin</kwd>
+        <kwd>Calcium imaging</kwd>
+        <kwd>Miniscope</kwd>
+        <kwd>Freely moving recording</kwd>
+        <kwd>Mouse fellatio</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="funder1">
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">10.13039/501100000289</institution-id>
+              <institution-id institution-id-type="ROR">054225q67</institution-id>
+              <institution>Cancer Research UK</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>FC001055</award-id>
+        </award-group>
+        <award-group id="funder2">
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">10.13039/501100000265</institution-id>
+              <institution-id institution-id-type="ROR">03x94j517</institution-id>
+              <institution>Medical Research Council</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>FC001055</award-id>
+        </award-group>
+        <award-group id="funder3">
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">10.13039/100010269</institution-id>
+              <institution-id institution-id-type="ROR">029chgv08</institution-id>
+              <institution>Wellcome Trust</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>FC001055</award-id>
+        </award-group>
+        <award-group id="funder4">
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">10.13039/501100007601</institution-id>
+              <institution>Horizon 2020</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>701986</award-id>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>The lateral hypothalamic area (LH) and its orexin/hypocretin (orexin) neurons are primarily known as vital controllers of arousal, feeding and metabolism [<xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref>]. However, early studies also showed that electrical stimulation of the LH rapidly and reversibly drives mating in the male rat [<xref ref-type="bibr" rid="ref3">3</xref>]. In line with this, the orexin neurons integrate external and internal sensory information and output to most of the brain as well as the autonomic nervous system, and affect sex hormone secretion [<xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref4">4</xref>]. C-fos assays, pharmacological experiments and cell-specific lesion data suggest that orexin neurons in male rats are activated during mating, and orexin peptides and normal activity of orexin neurons facilitate mating initiation, performance and mating-induced place preference in male rats [<xref ref-type="bibr" rid="ref5">5</xref>–<xref ref-type="bibr" rid="ref8">8</xref>]. However, orexin neuron activity has not been recorded directly during mating, and therefore its roles in the appetitive and consummatory sequences of copulation are unknown. The activity of orexin neurons during mating is of particular interest as it has been suggested that a common side-effect of selective serotonin reuptake inhibitors (SSRIs), inhibition of mating, is mediated by increased serotonergic inhibition of orexin neurons [<xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref9">9</xref>–<xref ref-type="bibr" rid="ref11">11</xref>].</p>
+      <p>Animal mating behaviours can be diverse, including in some species oral sexual encounters [<xref ref-type="bibr" rid="ref12">12</xref>–<xref ref-type="bibr" rid="ref15">15</xref>], which have not been documented in mice as far as we know. This lack of documentation would imply that the repertoire of rodent mating behaviours is limited to a canonical cycle of chasing, anogenital investigation, mounting and intromission [<xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref>]. One of the recordings here contains a type of oral sexual encounter, similar to fellatio, which we refer to as anterior thrusting (AT). Due to the low frequency of these behaviours (mating was observed in 6/22 recordings in two animals, and 0/13 recordings in three other animals) the findings are provided here as anecdotal evidence and data are provided for re-use. A subset of the presented recordings have been analyzed in a different way in our previous paper [<xref ref-type="bibr" rid="ref18">18</xref>].</p>
+    </sec>
+    <sec>
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Animals</title>
+        <p>Animal handling and experimentation was approved by the UK government (Home Office) and by Institutional Animal Welfare Ethical Review Panel. The recorded male was 86, the female was 79 and their conspecifics were 35 (female in <xref ref-type="fig" rid="fig1">Figure 1</xref>), 46 (different female used as conspecific for some data in <xref ref-type="fig" rid="fig2">Figure 2E</xref>) and 134 (sterile prm1 male in <xref ref-type="fig" rid="fig2">Figure 2A,B,D</xref>) days old at the beginning of the recordings. The recorded male had been in the recording arena with a female conspecific for 5 sessions (30-60min each, not supervised) prior to the first session where mating was recorded. It was therefore presumed sexually naïve at the first recording analysed here. Prior to the second session where mating was recorded (also the session with three AT epochs), the male was not entirely sexually naïve as it had been in 9 sessions with a female, out of which one had confirmed mating. The female conspecific in this recording was however sexually naïve. The recorded female had been in 12 sessions with a male before the recording shown here. In 3 of the prior sessions the female mated with the same conspecific as shown here. In between recordings, recorded mice were single housed in a controlled environment on a reversed 12h light-dark cycle with food and water ad libitum. Conspecifics were co-housed in groups of 2-5 same sex littermates.</p>
+      </sec>
+      <sec>
+        <title>Surgery</title>
+        <p>Mice were stereotactically injected with AAV1-hORX.GCaMP6s (100-150nl, 2.5×10<sup>12</sup> GC/ml, U Penn vector core). Orexin promoter virus expression specificity has been characterized previously [<xref ref-type="bibr" rid="ref18">18</xref>]. After anesthesia with isoflurane, the scalp was infiltrated with lidocaine and cut. Then a craniotomy was drilled at 0.9 mm lateral, 1.4 mm posterior from Bregma. A pulled borosilicate glass injection tip was used to inject virus at a depth of 5.4 mm at a rate of 50 nl/min. The scalp was sutured or glued closed after removal of the injection tip. Animals received 5 mg/kg carprofen injections for two days as post-operative pain medication.</p>
+        <p>Two weeks after the virus injection, a custom-made aluminium head plate was attached to the skull with dental cement (Metabond) and skull screws. A 0.8 mm diameter hole was drilled at the same position as in virus injection surgery and a 0.39 NA, 7.3 mm long, 0.6 mm diameter cylindrical graded refractive index (GRIN) lens (Grintech) was lowered slowly (150 μm/min) to a depth of 5.1 mm with a micromanipulator. The GRIN lens was then cemented onto the skull. Thereafter the implant was coated with black dental cement and painted with several layers of black nail polish to protect from light contamination.</p>
+        <p>Animals received one dose of 0.6mg/kg dexamethasone as anti-inflammatory medication along with 5mg/kg carprofen injections for post-operative pain management for two days. After a minimum of two weeks of recovery, mice were trained for freely moving miniature endoscope recordings under an incremental regimen of wearing the head-mounted miniature microscope (~2g weight) in the test arena (<xref ref-type="fig" rid="fig1">Figure 1C</xref>).</p>
+      </sec>
+      <sec>
+        <title>Freely moving Ca<sup>2+</sup> imaging</title>
+        <p>Ca2+ imaging was performed with a miniaturized head-mounted microscope (Inscopix) which was attached to the animal’s head, without anaesthesia shortly before recording. The animal was then placed into the arena with a plexiglass floor. The animal had already spent time in the same arena leaving scent markings. Recording was begun after approximately 10 minutes of initial exploration of the familiar arena. Each recording consisted of observation of the subject and conspecific with food and water available ad libitum. Sexual receptivity was not induced with hormones, females were not ovariectomized and estrous was not confirmed with vaginal cytology. The arena was lit with red LED lighting and was covered from view in a dark, quiet room with a silent fume extractor pipe above the arena to eliminate background odors. Ca2+ imaging frame rate was 10 frames/s. Behaviour was tracked with a CCD camera (Lumenera Infinity) from below the arena at 65 frames/s. An LED facing the behaviour camera and blinking in response to each Ca2+ imaging frame was used to synchronize Ca2+ imaging and behaviour videos. Behaviour analysis was performed in ImageJ by manually annotating behaviours. The full datasets are available for free re-use without need for attribution at [<xref ref-type="bibr" rid="ref19">19</xref>].</p>
+      </sec>
+      <sec>
+        <title>Ca<sup>2+</sup> imaging analysis</title>
+        <p>Ca<sup>2+</sup> imaging data were preprocessed for dropped frames and pixels, downsampled by a factor of three spatially, then motion corrected in Mosaic (Inscopix) and saved as 16bit TIFF stacks. Further processing was performed in Matlab with custom routines. Regions of interest (ROIs) were drawn manually around cells and average fluorescence was extracted across all pixels within each ROI as well as a neuropil ‘halo’ around each ROI consisting of the third to the sixth nearest pixels outside the outline that did not contain other ROIs. These signals were lowpass filtered with a moving average of three frames. Neural signals were calculated by subtracting the neuropil ‘halo’ signal from each ROI specific signal. This signal was then corrected for photobleaching by computing ΔF/F<sub>0</sub> using the mean over a 120 s moving window as F<sub>0</sub> and z-scored.</p>
+      </sec>
+      <sec>
+        <title>Patch-clamp recordings</title>
+        <p>Correspondence between firing rate and GCaMP6 fluorescence was recorded in whole cell mode as described in [<xref ref-type="bibr" rid="ref18">18</xref>]. Briefly, acute slices were cut from animals injected with AAV1-hORX.GCaMP6s as above. A whole-cell recording was established and the same miniature microscope and GRIN lens as in the in vivo recordings, was placed close to the recorded cell. Then 10s current steps of varying size were injected intracellularly to elicit varying firing frequencies. The 0.3 mm brain slices were bathed in continuously bubbled (95% O<sub>2</sub> and 5% CO<sub>2</sub>) ACSF, containing (in mM): 126 NaCl, 3 KCl, 2 MgSO<sub>4</sub>, 2 CaCl<sub>2</sub>, 1.1 NaH<sub>2</sub>PO<sub>4</sub>, 26 NaHCO<sub>3</sub>, 0.1 pyruvic acid, 0.5 L-glutamine, 0.4 ascorbic acid and 25 D-glucose. Intracellular solution contained (in mM): 130 K-gluconate, 5 NaCl, 2 MgSO<sub>2</sub>, 10 HEPES, 0.1 EGTA, 4 Mg-ATP, 0.4 Na-GTP, 2 pyruvic acid, 0.1 Alexa-594, 0.1% biocytin, and ~10 mM KOH (to set pH to 7.3).</p>
+      </sec>
+      <sec>
+        <title>Histology</title>
+        <p>Following standard perfusions as described in [<xref ref-type="bibr" rid="ref18">18</xref>], 0.1 mm sections were cut on a vibratome. Sections were blocked in PBS with 0.3% Triton X-100 and 1% bovine serum albumin (blocking solution) for 1 h, incubated with goat anti-orexin (1:1000; Cat# 8072, RRID: AB_653601, Santa Cruz) over-night, washed, incubated with Alexa 647 conjugated donkey anti-goat (1:1000; Cat# A-21447, RRID: AB_2535864, Invitrogen/Thermo Fisher Scientific) for 3.5 h, washed and mounted. Antibodies were applied in blocking solution. Confocal micrographs were acquired on a Nikon A1 and merged in imageJ.</p>
+      </sec>
+      <sec>
+        <title>Statistics</title>
+        <p>All data are shown as mean ± std unless stated otherwise.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Orexin neuron activity during intromission and AT in the male mouse, and during intromission in the female</title>
+        <p>We recorded orexin neuron firing rates using the GCaMP6s Ca<sup>2+</sup> sensor [<xref ref-type="bibr" rid="ref20">20</xref>] which was delivered in a viral vector under the orexin promoter yielding GCaMP6s expression with 97.4 ± 1.0 % specificity and 65.8 ± 3.7 % penetrance in orexin neurons [<xref ref-type="bibr" rid="ref18">18</xref>]. Simultaneous electrical and optical recordings in brain slices showed that GCaMP6s fluorescence faithfully reported spiking activity (<xref ref-type="fig" rid="fig1">Figure 1A</xref>,B). Using implanted graded refractive index (GRIN, <xref ref-type="fig" rid="fig1">Figure 1C</xref>) lenses and a miniature fluorescence microscope mounted on the skull, we recorded activity of orexin neuron populations in freely behaving mice as they navigated a familiar 24x24cm arena that contained food pellets, water and an opposite sex conspecific (<xref ref-type="fig" rid="fig1">Figure 1C-F</xref>). Some of these datasets were analyzed in less detail in Figure 1 of our previous article [<xref ref-type="bibr" rid="ref18">18</xref>], and here we report in more detail on the mating behaviours observed in a limited subset of those, and previously undocumented recordings.</p>
+        <fig id="fig1">
+          <label>Figure 1</label>
+          <caption>
+            <title>Orexin neuron firing patterns in a male mouse during mating behaviours</title>
+            <p>A, Example whole cell patch clamp recording while imaging an orexin-GCaMP6s neuron in a brain slice. B, Fluorescence to firing rate relationship indicating fluorescence recordings reliably report changes in orexin neuron firing rate. C, left, schematic of GCaMP6s delivery to orexin neurons and implantation of GRIN lens to obtain optical access to the neurons. Right, schematic of recording paradigm, with the subject mouse and an opposite sex conspecific in an enclosure with a glass bottom and a camera tracking behaviour from below. D, field of view of orexin neurons through the GRIN lens in the male mouse recorded in this figure, color coded same as F,G and H. E, example frames from behaviour video showing intromission, AT (anterior thrusting) and ejaculation epochs. The diagram shows annotation of male mouse rear paws and tail with a blue ‘V’ shape and female annotated from front paws to upper abdomen with a pink ‘V’ shape. F, Z-scored ΔF/F<sub>0</sub> of the cells recorded during the social interaction during the 10th recording day for this subject. G, mean fluorescence of each cell during the indicated epochs. ‘Pre’ epoch is from the first time point to when the animals first meet, ‘post’ epoch is an equal time period after ejaculation. H, variability of the fluorescence signal expressed as the std during the same epochs as in G. I, correlation coefficients of the population signals across behaviour categories, showing inverse correlation between AT and intromission, and a positive correlation between intromission and ejaculation. J, mean coefficients of determination for each mating behaviour with the others. The color code for C, F, G and H are based on average firing rate during intromission as that has the overall highest coefficient of determination to the other behaviours shown in J.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="fig1.png" />
+        </fig>
+        <p>The firing rate changes in male orexin neurons were large during mating behaviours, reaching, in different cells, peak and through values during ejaculation corresponding to the extremes of their 0 to 30 Hz firing range (<xref ref-type="fig" rid="fig1">Figure 1B,F,G</xref>). The population firing pattern of orexin neurons during AT was inverted compared to that during intromission (<xref ref-type="fig" rid="fig1">Figure 1G</xref>), and firing was less variable during AT (<xref ref-type="fig" rid="fig1">Figure 1H</xref>) than other mating behaviours. Correlation coefficients of the population firing rate vector across behaviours revealed that intromission and ejaculation were highly correlated and both were inversely correlated with AT (<xref ref-type="fig" rid="fig1">Figure 1I</xref>). Intromission had the strongest average of coefficients of determination (R<sup>2</sup>) with other mating behaviours (<xref ref-type="fig" rid="fig1">Figure 1J</xref>), and was therefore used to sort neurons in plots and color code.</p>
+        <p>AT was observed in the last one out of ten recordings in one male over an 86 day period. At this point the male was not sexually naïve, though the female was (see Methods). This behaviour consisted of the male approaching the female’s head from the front or side, rearing, using front paws to push down the female’s head followed by erection and multiple rapid thrusts of the penis into the female’s mouth (<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.4820456">Movie 1</ext-link>, <xref ref-type="fig" rid="fig1">Figure 1E</xref>). AT occurred in three bouts each lasting 2.4, 4.6 and 1.1 s and containing an estimated 21, 13 and 15 thrusts toward the mouth and 5, 4 and 9 estimated insertions of the penis into the female’s mouth. The bouts ended with the female rearing away or turning to the side, penile detumescence and either the male or female moving away while the other remained in place, apart from the third bout which ended in the male chasing the female and intromission. The multiple thrusts into the mouth and the coordinated end without signs of aggression, stress or escape suggest that the behaviour was not aversive. The bouts occurred during a 64.5 s interval between two bouts of intromission. The delay from stop of first intromission to start of first AT was 22.5 s. The intervals between AT bouts were 11.9 and 11.4 s and intromission started 10.9 s after the third AT bout. Intromission before AT lasted 41.6 s, whereas after the AT intromission lead to ejaculation in 31.5 s, which was evident as spasming followed by falling to the side and prolonged immobility (<xref ref-type="fig" rid="fig1">Figure 1E</xref>). In another recording 29 days prior, intromission also occurred but bouts were shorter (29.7 ± 26.8 s, n=4). In this recording there was one apparent attempted AT interrupted by the female rearing away. Total cumulative time of intromission before ejaculation was 73.1 s (across 2 bouts) with AT and 101.9 s (across 4 bouts) without AT. These data would suggest that mouse AT shortens mating duration by hastening ejaculation.</p>
+        <p>We also captured mating in a female mouse during orexin neuron imaging (<xref ref-type="fig" rid="fig2">Figure 2A-D</xref>). These recordings did not contain AT bouts. As a contrast to the male firing patterns, female orexin neurons were predominantly inhibited during intromission after an initial peak in their activity (<xref ref-type="fig" rid="fig2">Figure 2C-E</xref>). We additionally aligned the male neural activity to erections. On average, orexin neuron activity started to decrease upon onset of tumescence of the penis, and onset of detumescence coincided with the through of orexin neuron activity (<xref ref-type="fig" rid="fig2">Figure 2E</xref>). These data suggest that overall, copulation coincides with a decrease of orexin neuron firing in both sexes. However, both sexes had heterogeneity within the neural population, and in particular the male had several orexin neurons that increased activity during tumescence, intromission and ejaculation (<xref ref-type="fig" rid="fig2">Figure 2E</xref>). GRIN lens placement was confirmed to be in the lateral hypothalamus (<xref ref-type="fig" rid="fig2">Figure 2F</xref>).</p>
+        <fig id="fig2">
+          <label>Figure 2</label>
+          <caption>
+            <title>Orexin neuron activity during mating behaviours in a female mouse compared to the male</title>
+            <p>A, Z-scored ΔF/F<sub>0</sub> of the cells recorded during the social interaction. B, field of view in the male mouse recorded in this A and C. C, mean fluorescence of each cell during the indicated epochs in the female recorded in A and B (above plot) and in the male recorded in Figure 1. D, event triggered averages of cell fluorescence across repetitions of the indicated behavioural events in the female. Mean across cells shown below the cell rasters. E, same as D but from the male recorded in Fig1, including also anterior thrusting, ejaculation, tumescence and detumescence of the penis. F, GRIN lens placements (* indicates the cylindrical lesion left by the GRIN lens) in the lateral hypothalamus in the female (above) and male (middle) along with an atlas schematic of the coronal plane (bottom).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="fig2.png" />
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>This pilot study is an anecdotal report as it consists of two recordings in a male and a female mouse. The data however indicate that orexin neuron activity is strongly and heterogeneously modulated during mating behaviours, and suggest that mouse mating behaviours can exhibit more diversity than documented previously. Though AT seemed non-aversive to the female, it is possible that the size of the arena limited the options to retreat from this behaviour, as female mice pace mating behaviours when given the opportunity to retreat [<xref ref-type="bibr" rid="ref21">21</xref>]. We should note that the head mounted miniature microscope is ~3 cm high and thus may affect mating behaviours, such as AT when the female is recorded. Another potential caveat is that the GRIN lens implantation entails lesioning brain tissue in somatosensory neocortex, dorsal hippocampus and thalamus in one hemisphere, as these structures stand in the path of the lens.</p>
+      <p>These recordings suggest that sub-second firing rate changes in orexin neurons have a role in mating behaviours. What could this role be? We recently reported that orexin neurons are involved in locomotion and sensorimotor processing [<xref ref-type="bibr" rid="ref18">18</xref>]. The increased orexin neuron firing during chasing (<xref ref-type="fig" rid="fig2">Figure 2D</xref>,E) is likely a part of that. Orexin neurons may have a role in supporting the motor outflow underlying intromission as the female who typically remains stationary has overall more inhibited orexin neurons than the male, who is thrusting (<xref ref-type="fig" rid="fig2">Figure 2C-E</xref>). During penile tumescence (which coincided with thrusting) the male orexin neurons tended to decrease activity, suggesting that overall orexin neuron activity specifically increases locomotion [<xref ref-type="bibr" rid="ref18">18</xref>] rather than other action patterns. Additionally orexin neurons may have a role in orchestrating autonomic nervous system outflow and CNS reward processing during ejaculation, as, during ejaculation, they express even more strongly their intromission firing rates (<xref ref-type="fig" rid="fig1">Figure 1F</xref>,G). This is in line with previous work showing decreased conditioned place preference for mating behaviour in male mice upon orexin neuron ablation [<xref ref-type="bibr" rid="ref8">8</xref>]. AT lasted 2.7 ± 1.8 s while intromission lasted 35.6 ± 22.9 s (p=0.048 with Student’s t-test), suggesting an early switch to other behaviour patterns from AT. The inversion of the male intromission firing pattern during AT (<xref ref-type="fig" rid="fig1">Figure 1G</xref>,I,2E) could be part of a mechanism for switching of action plans. As orexin neurons promote wakefulness, their activity during mating may critically support arousal while the CNS is engaged in coordinating autonomic nervous system outflow. This is consistent with occasional reports of loss of consciousness during sex - orgasmolepsy - in narcoleptic patients, who typically lack orexin signaling [<xref ref-type="bibr" rid="ref22">22</xref>].</p>
+    </sec>
+    <sec>
+      <title>Declarations</title>
+      <sec>
+        <title>Funding</title>
+        <p>This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement DRIVOME (grant agreement 701986). The experiments in this study were supported by the Francis Crick Institute which receives its core funding from Cancer Research UK (FC001055), the UK Medical Research Council (FC001055), and the Wellcome Trust (FC001055).</p>
+      </sec>
+      <sec>
+        <title>Conflict of Interest Declaration</title>
+        <p>The authors declare no conflicts of interest.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Editorial Notes</title>
+      <sec>
+        <title>History</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Received: 2020-11-19</p>
+          </list-item>
+          <list-item>
+            <p>Revisions Requested: 2020-12-14</p>
+          </list-item>
+          <list-item>
+            <p>Revised: 2021-05-26</p>
+          </list-item>
+          <list-item>
+            <p>Accepted: 2021-05-26</p>
+          </list-item>
+          <list-item>
+            <p>Published: 2021-06-02</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>Editorial Checks</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Plagiarism: Plagiarism detection software found no evidence of plagiarism.</p>
+          </list-item>
+          <list-item>
+            <p>References: Zotero did not identify any references in the <ext-link xlink:href="https://retractionwatch.com">RetractionWatch</ext-link> database.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>Peer Review</title>
+        <p>This paper followed a standard single-blind review process.</p>
+        <p>For the benefit of readers, reviewers are asked to write a public summary of their review to highlight the key strengths and weaknesses of the paper. Signing of reviews is optional.</p>
+      </sec>
+      <sec>
+        <title>Reviewer 1 (Anonymous)</title>
+        <p>In this pilot study the authors provide preliminary two-photon calcium recordings from orexin neurons in the lateral hypothalamus in freely behaving mice (one male and one female mouse) during copulation and non-copulatory behaviours.</p>
+        <p>There are several commendable aspects to this pilot study:</p>
+        <p>1) In-vivo recordings from orexin neurons in mice during copulation has not yet been reported.</p>
+        <p>2) The inclusion of both male and female animals, and a comparison of neural activity during the phases of copulation.</p>
+        <p>The authors demonstrate a wide variation in orexin neuron activity during different phases of copulatory behaviour but importantly, show preliminary evidence of increased inhibition during the receipt of an intromission in a female mouse, and increased activation compared to the female in the male when intromitting.</p>
+        <p>3) The authors report the recordings for each neuron in the visual plane of the GRIN lens.</p>
+        <p>4) These pilot data are interesting, and hopefully motivate the authors to pursue this line of inquiry with an adequately powered sample.</p>
+        <p>The authors report a previously unreported behaviour resembling fellatio in mice. However, the testing conditions and sexual experience status of the mice makes it difficult to determine whether this behaviour is truly part of a male mouse's pattern of sexual responding.</p>
+      </sec>
+      <sec>
+        <title>Reviewer 2 (Anonymous)</title>
+        <p>The authors for the first time describe the observation of oral sex in mice. However, this behavior could only be observed on one occasion in one animal. While the general experimental methodology is sound, this finding is purely anecdotal.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank Dr Edward Bracey for useful comments.</p>
+    </ack>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <volume>9</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.3389/fneur.2018.00413</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tyree</surname>
+              <given-names>Susan M.</given-names>
+            </name>
+            <name>
+              <surname>Borniger</surname>
+              <given-names>Jeremy C.</given-names>
+            </name>
+            <name>
+              <surname>de Lecea</surname>
+              <given-names>Luis</given-names>
+            </name>
+          </person-group>
+          <source>Frontiers in Neurology</source>
+          <article-title>Hypocretin as a hub for arousal and motivation</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <issue>22</issue>
+          <page-range>6443-6462</page-range>
+          <volume>594</volume>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1113/jp271946</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonnavion</surname>
+              <given-names>Patricia</given-names>
+            </name>
+            <name>
+              <surname>Mickelsen</surname>
+              <given-names>Laura E.</given-names>
+            </name>
+            <name>
+              <surname>Fujita</surname>
+              <given-names>Akie</given-names>
+            </name>
+            <name>
+              <surname>de Lecea</surname>
+              <given-names>Luis</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>Alexander C.</given-names>
+            </name>
+          </person-group>
+          <source>The Journal of Physiology</source>
+          <article-title>Hubs and spokes of the lateral hypothalamus: cell types, circuits and behaviour</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <issue>3532</issue>
+          <page-range>758-760</page-range>
+          <volume>137</volume>
+          <year>1962</year>
+          <pub-id pub-id-type="doi">10.1126/science.137.3532.758-a</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vaughan</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>A. E.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <article-title>Male sexual behavior induced by intracranial electrical stimulation</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <page-range>115-116</page-range>
+          <volume>99</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1016/j.peptides.2017.10.014</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jöhren</surname>
+              <given-names>Olaf</given-names>
+            </name>
+          </person-group>
+          <source>Peptides</source>
+          <article-title>Orexins/hypocretins and sex</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <issue>11</issue>
+          <page-range>2837-2845</page-range>
+          <volume>27</volume>
+          <year>2007</year>
+          <pub-id pub-id-type="doi">10.1523/jneurosci.4121-06.2007</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muschamp</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name>
+              <surname>Dominguez</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>R.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Hull</surname>
+              <given-names>E. M.</given-names>
+            </name>
+          </person-group>
+          <source>Journal of Neuroscience</source>
+          <article-title>A role for hypocretin (orexin) in male sexual behavior</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>921-923</page-range>
+          <volume>116</volume>
+          <year>2003</year>
+          <pub-id pub-id-type="doi">10.1016/s0306-4522(02)00877-1</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gulia</surname>
+              <given-names>K.K</given-names>
+            </name>
+            <name>
+              <surname>Mallick</surname>
+              <given-names>H.N</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>V.M</given-names>
+            </name>
+          </person-group>
+          <source>Neuroscience</source>
+          <article-title>Orexin A (hypocretin-1) application at the medial preoptic area potentiates male sexual behavior in rats</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>397-404</page-range>
+          <volume>58</volume>
+          <year>2010</year>
+          <pub-id pub-id-type="doi">10.1016/j.yhbeh.2010.06.004</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di Sebastiano</surname>
+              <given-names>Andrea R.</given-names>
+            </name>
+            <name>
+              <surname>Yong-Yow</surname>
+              <given-names>Sabrina</given-names>
+            </name>
+            <name>
+              <surname>Wagner</surname>
+              <given-names>Lauren</given-names>
+            </name>
+            <name>
+              <surname>Lehman</surname>
+              <given-names>Michael N.</given-names>
+            </name>
+            <name>
+              <surname>Coolen</surname>
+              <given-names>Lique M.</given-names>
+            </name>
+          </person-group>
+          <source>Hormones and Behavior</source>
+          <article-title>Orexin mediates initiation of sexual behavior in sexually naive male rats, but is not critical for sexual performance</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <issue>1</issue>
+          <page-range>1-8</page-range>
+          <volume>59</volume>
+          <year>2011</year>
+          <pub-id pub-id-type="doi">10.1016/j.yhbeh.2010.09.006</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di Sebastiano</surname>
+              <given-names>Andrea R.</given-names>
+            </name>
+            <name>
+              <surname>Wilson-Pérez</surname>
+              <given-names>Hilary E.</given-names>
+            </name>
+            <name>
+              <surname>Lehman</surname>
+              <given-names>Michael N.</given-names>
+            </name>
+            <name>
+              <surname>Coolen</surname>
+              <given-names>Lique M.</given-names>
+            </name>
+          </person-group>
+          <source>Hormones and Behavior</source>
+          <article-title>Lesions of orexin neurons block conditioned place preference for sexual behavior in male rats</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="book">
+          <edition>4th</edition>
+          <publisher-loc>Amsterdam</publisher-loc>
+          <publisher-name>Academic Press</publisher-name>
+          <year>2015</year>
+          <pub-id pub-id-type="isbn">9780123971753</pub-id>
+          <pub-id pub-id-type="doi">10.1016/C2011-1-07288-0</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Plant</surname>
+              <given-names>Tony M.</given-names>
+            </name>
+            <name>
+              <surname>Zeleznik</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+          </person-group>
+          <source>Knobil and Neill's Physiology of Reproduction</source>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <issue>23</issue>
+          <page-range>9361-9366</page-range>
+          <volume>17</volume>
+          <year>1997</year>
+          <pub-id pub-id-type="doi">10.1523/jneurosci.17-23-09361.1997</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lorrain</surname>
+              <given-names>Daniel S.</given-names>
+            </name>
+            <name>
+              <surname>Matuszewich</surname>
+              <given-names>Leslie</given-names>
+            </name>
+            <name>
+              <surname>Friedman</surname>
+              <given-names>Ross D.</given-names>
+            </name>
+            <name>
+              <surname>Hull</surname>
+              <given-names>Elaine M.</given-names>
+            </name>
+          </person-group>
+          <source>The Journal of Neuroscience</source>
+          <article-title>Extracellular serotonin in the lateral hypothalamic area is increased during the postejaculatory interval and impairs copulation in male rats</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <issue>6</issue>
+          <page-range>1169-1181</page-range>
+          <volume>36</volume>
+          <year>2002</year>
+          <pub-id pub-id-type="doi">10.1016/s0896-6273(02)01132-7</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Ying</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>Xiao-Bing</given-names>
+            </name>
+            <name>
+              <surname>Sakurai</surname>
+              <given-names>Takeshi</given-names>
+            </name>
+            <name>
+              <surname>van den Pol</surname>
+              <given-names>Anthony N.</given-names>
+            </name>
+          </person-group>
+          <source>Neuron</source>
+          <article-title>Hypocretin/orexin excites hypocretin neurons via a local glutamate neuron—A potential mechanism for orchestrating the hypothalamic arousal system</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <issue>10</issue>
+          <page-range>e7595</page-range>
+          <volume>4</volume>
+          <year>2009</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0007595</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tan</surname>
+              <given-names>Min</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>Gareth</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Guangjian</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>Jianping</given-names>
+            </name>
+            <name>
+              <surname>Hong</surname>
+              <given-names>Tiyu</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Shanyi</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Shuyi</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Libiao</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Hosken</surname>
+              <given-names>David</given-names>
+            </name>
+          </person-group>
+          <source>PLoS ONE</source>
+          <article-title>Fellatio by fruit bats prolongs copulation time</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <issue>11</issue>
+          <page-range>e0166024</page-range>
+          <volume>11</volume>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0166024</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sugita</surname>
+              <given-names>Norimasa</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Pellis</surname>
+              <given-names>Sergio</given-names>
+            </name>
+          </person-group>
+          <source>PLOS ONE</source>
+          <article-title>Homosexual fellatio: Erect penis licking between male Bonin Flying Foxes Pteropus pselaphon</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>e59743</page-range>
+          <volume>8</volume>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0059743</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maruthupandian</surname>
+              <given-names>Jayabalan</given-names>
+            </name>
+            <name>
+              <surname>Marimuthu</surname>
+              <given-names>Ganapathy</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Brigham</surname>
+              <given-names>R. Mark</given-names>
+            </name>
+          </person-group>
+          <source>PLoS ONE</source>
+          <article-title>Cunnilingus apparently increases duration of copulation in the Indian Flying Fox, Pteropus giganteus</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <issue>1</issue>
+          <volume>6</volume>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1038/srep25128</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gregorič</surname>
+              <given-names>Matjaž</given-names>
+            </name>
+            <name>
+              <surname>Šuen</surname>
+              <given-names>Klavdija</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Ren-Chung</given-names>
+            </name>
+            <name>
+              <surname>Kralj-Fišer</surname>
+              <given-names>Simona</given-names>
+            </name>
+            <name>
+              <surname>Kuntner</surname>
+              <given-names>Matjaž</given-names>
+            </name>
+          </person-group>
+          <source>Scientific Reports</source>
+          <article-title>Spider behaviors include oral sexual encounters</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <issue>4</issue>
+          <page-range>341-350</page-range>
+          <volume>19</volume>
+          <year>1962</year>
+          <pub-id pub-id-type="doi">10.1163/156853962x00087</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>McGill</surname>
+              <given-names>Thomas E.</given-names>
+            </name>
+          </person-group>
+          <source>Behaviour</source>
+          <article-title>Sexual behavior in three inbred strains of mice</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <page-range>155-168</page-range>
+          <volume>60</volume>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1016/j.conb.2019.12.001</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lenschow</surname>
+              <given-names>Constanze</given-names>
+            </name>
+            <name>
+              <surname>Lima</surname>
+              <given-names>Susana Q</given-names>
+            </name>
+          </person-group>
+          <source>Current Opinion in Neurobiology</source>
+          <article-title>In the mood for sex: neural circuits for reproduction</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <page-range>101771</page-range>
+          <volume>187</volume>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1016/j.pneurobio.2020.101771</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karnani</surname>
+              <given-names>Mahesh M.</given-names>
+            </name>
+            <name>
+              <surname>Schöne</surname>
+              <given-names>Cornelia</given-names>
+            </name>
+            <name>
+              <surname>Bracey</surname>
+              <given-names>Edward F.</given-names>
+            </name>
+            <name>
+              <surname>González</surname>
+              <given-names>J. Antonio</given-names>
+            </name>
+            <name>
+              <surname>Viskaitis</surname>
+              <given-names>Paulius</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Han-Tao</given-names>
+            </name>
+            <name>
+              <surname>Adamantidis</surname>
+              <given-names>Antoine</given-names>
+            </name>
+            <name>
+              <surname>Burdakov</surname>
+              <given-names>Denis</given-names>
+            </name>
+          </person-group>
+          <source>Progress in Neurobiology</source>
+          <article-title>Role of spontaneous and sensory orexin network dynamics in rapid locomotion initiation</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19</label>
+        <element-citation publication-type="data">
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.5281/zenodo.4813116</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karnani</surname>
+              <given-names>Mahesh M.</given-names>
+            </name>
+          </person-group>
+          <source>Zenodo</source>
+          <data-title>Orexin neuron activity in mating mice - pilot imaging data</data-title>
+        </element-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <issue>7458</issue>
+          <page-range>295-300</page-range>
+          <volume>499</volume>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.1038/nature12354</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>Tsai-Wen</given-names>
+            </name>
+            <name>
+              <surname>Wardill</surname>
+              <given-names>Trevor J.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Yi</given-names>
+            </name>
+            <name>
+              <surname>Pulver</surname>
+              <given-names>Stefan R.</given-names>
+            </name>
+            <name>
+              <surname>Renninger</surname>
+              <given-names>Sabine L.</given-names>
+            </name>
+            <name>
+              <surname>Baohan</surname>
+              <given-names>Amy</given-names>
+            </name>
+            <name>
+              <surname>Schreiter</surname>
+              <given-names>Eric R.</given-names>
+            </name>
+            <name>
+              <surname>Kerr</surname>
+              <given-names>Rex A.</given-names>
+            </name>
+            <name>
+              <surname>Orger</surname>
+              <given-names>Michael B.</given-names>
+            </name>
+            <name>
+              <surname>Jayaraman</surname>
+              <given-names>Vivek</given-names>
+            </name>
+            <name>
+              <surname>Looger</surname>
+              <given-names>Loren L.</given-names>
+            </name>
+            <name>
+              <surname>Svoboda</surname>
+              <given-names>Karel</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Douglas S.</given-names>
+            </name>
+          </person-group>
+          <source>Nature</source>
+          <article-title>Ultrasensitive fluorescent proteins for imaging neuronal activity</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>425-429</page-range>
+          <volume>95</volume>
+          <year>2008</year>
+          <pub-id pub-id-type="doi">10.1016/j.physbeh.2008.07.004</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johansen</surname>
+              <given-names>Jamie A.</given-names>
+            </name>
+            <name>
+              <surname>Clemens</surname>
+              <given-names>Lynwood G.</given-names>
+            </name>
+            <name>
+              <surname>Nunez</surname>
+              <given-names>Antonio A.</given-names>
+            </name>
+          </person-group>
+          <source>Physiology &amp; Behavior</source>
+          <article-title>Characterization of copulatory behavior in female mice: Evidence for paced mating</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <issue>8</issue>
+          <page-range>2271-2277</page-range>
+          <volume>6</volume>
+          <year>2009</year>
+          <pub-id pub-id-type="doi">10.1111/j.1743-6109.2009.01328.x</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Poryazova</surname>
+              <given-names>Rositsa</given-names>
+            </name>
+            <name>
+              <surname>Khatami</surname>
+              <given-names>Ramin</given-names>
+            </name>
+            <name>
+              <surname>Werth</surname>
+              <given-names>Esther</given-names>
+            </name>
+            <name>
+              <surname>Bassetti</surname>
+              <given-names>Claudio L.</given-names>
+            </name>
+          </person-group>
+          <source>The Journal of Sexual Medicine</source>
+          <article-title>Weak with sex: Sexual intercourse as a trigger for cataplexy</article-title>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
