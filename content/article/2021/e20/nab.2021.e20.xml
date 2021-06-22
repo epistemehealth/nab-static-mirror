@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+<article article-type="brief-report" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Neuroanatomy and Behaviour</journal-id>
+      <journal-id journal-id-type="doi">10.35430/nab</journal-id>
+      <journal-title-group>
+        <journal-title>Neuroanatomy and Behaviour</journal-title>
+	<abbrev-journal-title abbrev-type="nlm-ta">Neuroanat Behav</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="publisher">NAB</abbrev-journal-title>
+      </journal-title-group>
+      <issn publication-format="electronic">2652-1768</issn>
+      <publisher>
+        <publisher-name>Episteme Health Inc.</publisher-name>
+        <publisher-loc>
+          <city>Melbourne</city>
+          <state>Victoria</state>
+          <country>Australia</country>
+        </publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.35430/nab.2021.e20</article-id>
+      <article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="version-of-record">Version of Record</article-version>
+      <article-categories>
+        <subj-group>
+          <subject>Biological Sciences</subject>
+          <subject>Neurosciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The perception of reproducibility in a small cohort of scientists in Europe</article-title>
+      </title-group>
+      <contrib-group content-type="author">
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9487-9201</contrib-id>
+          <name>
+            <surname>Didio</surname>
+            <given-names>Giuliano</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation1"/>
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="no" corresp="yes" deceased="no">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1090-4631</contrib-id>
+          <name>
+            <surname>Casarotto</surname>
+            <given-names>Plinio</given-names>
+          </name>
+          <xref ref-type="aff" rid="affiliation1"/>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="affiliation1">
+        <institution-wrap>
+          <institution-id institution-id-type="ISNI">0000000404102071</institution-id>
+          <institution-id institution-id-type="ROR">040af2s02</institution-id>
+          <institution>Neuroscience Center - HiLife, University of Helsinki, Finland</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* <email>plinio.casarotto@helsinki.fi</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" iso-8601-date="2021-06-23">
+        <day>23</day>
+        <month>06</month>
+        <year>2021</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e20</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2021-03-04">
+          <day>04</day>
+          <month>03</month>
+          <year>2021</year>
+        </date>
+        <date date-type="rev-request" iso-8601-date="2021-04-09">
+          <day>09</day>
+          <month>04</month>
+          <year>2021</year>
+        </date>
+        <date date-type="rev-recd" iso-8601-date="2021-05-13">
+          <day>13</day>
+          <month>05</month>
+          <year>2021</year>
+        </date>
+        <date date-type="rev-request" iso-8601-date="2021-06-09">
+          <day>09</day>
+          <month>06</month>
+          <year>2021</year>
+        </date>
+        <date date-type="rev-recd" iso-8601-date="2021-06-19">
+          <day>19</day>
+          <month>06</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2021-06-19">
+          <day>19</day>
+          <month>06</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2021 Giuliano Didio, Plinio Casarotto</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <copyright-holder>Giuliano Didio, Plinio Casarotto</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0">
+	  <license-p>Except where otherwise noted, the content of this article is licensed under Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-object link-type="supplement" content-type="data" source-type="repository" object-id-type="doi" object-id="10.17605/OSF.IO/T9P42" xlink:href="https://doi.org/10.17605/OSF.IO/T9P42">
+        <source>OSF</source>
+        <data-title>The perception of reproducibility</data-title>
+      </related-object>
+      <abstract>
+        <p>Reproducibility is an essential feature of all scientific outcomes. Scientific evidence can only reach its true status as reliable if replicated, but the results of well-conducted replication studies face an uphill battle to be performed, and little attention and dedication have been put into publishing the results of replication attempts. Therefore, we asked a small cohort of researchers about their attempts to replicate results from other groups, as well as from their own laboratories, and their general perception of the issues concerning reproducibility in their field. We also asked how they perceive the venues, <italic>i.e.</italic> journals, to communicate and discuss the results of these attempts. To this aim we pre-registered and shared a questionnaire among scientists at diverse levels. The results indicate that, in general, replication attempts of their own protocols are quite successful (with over 80% reporting not or rarely having problems with their own protocols). Although the majority of respondents tried to replicate a study or experiment from other labs (75.4%), the median successful rate was scored at 3 (in a 1-5 scale), while the median for the general estimation of replication success in their field was found to be 5 (in a 1-10 scale). The majority of respondents (70.2%) also perceive journals as unwelcoming of replication studies.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Reproducibility</kwd>
+        <kwd>Replicability</kwd>
+        <kwd>Perception</kwd>
+        <kwd>Journal policy</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Reproducibility, as a general concept of agreement among experimental outcomes, is a core component of science. General theories about how nature operates, informed on the outcomes of scientific discoveries, can only be appropriately evaluated if such discoveries are confirmed through replication. In a more narrow definition, reproducibility refers to precisely obtaining the same result, under the same conditions, and it is usually applied in computer sciences [<xref ref-type="bibr" rid="ref1">1</xref>], while replicability refers to obtaining similar (or the same) results by repeating the research procedures [<xref ref-type="bibr" rid="ref2">2</xref>]. However, reproducibility or replicability goes beyond the common idea of repeating experiments. As argued by Nosek and Errington, the purpose of replication is to advance a theory by confronting existing understanding with new evidence [<xref ref-type="bibr" rid="ref3">3</xref>]. In this sense, communicating the outcomes of replication attempts is essential to allow comparisons and discussions about the generalizability of a theory, hypothesis or model. Our current model of scholarly communication relies heavily on the peer-review of articles published in a journal-based system. However, the same system of incentives promotes a restless seek for novelty, where scientists are pushed to pursue and publish new and impactful results. This scenario creates an unfriendly environment for attempts to replicate previous results, since scientists, institutions and journals depend on and feed the current system. The results are observed in reproducibility issues in several fields, such as psychology [<xref ref-type="bibr" rid="ref4">4</xref>], cancer biology [<xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref>], functional magnetic resonance imaging [<xref ref-type="bibr" rid="ref7">7</xref>] and biomarkers in psychiatry [<xref ref-type="bibr" rid="ref8">8</xref>] to cite some of the most evident.</p>
+      <p>Contributing to this scenario of little incentive to promote reproducibility, journals are not clear in their policies regarding replication studies. For instance, in Neuroscience only 6.6% of the journals (31/465) explicitly state if they accept or not submissions of replication studies [<xref ref-type="bibr" rid="ref9">9</xref>]. In Psychology this number is even lower: 3% of the journals (33/1151) explicitly accept submissions of replication studies [<xref ref-type="bibr" rid="ref10">10</xref>]. The outcome of this lack of incentives and information is the publication bias in favor of novel findings, creating another barrier for access to the results of replication studies.</p>
+    </sec>
+    <sec>
+      <title>Methods</title>
+      <p>We asked scientists what their perception of the issues of reproducibility in their field is. We pre-registered a questionnaire in the Open Science Framework platform (see Data Availability section). The questions were shared in social media platforms, such as the Twitter account of the Journal for Reproducibility in Neuroscience (@jrepneurosci), and directly through institutional email lists. The respondents were anonymous and the results were stored in the <ext-link xlink:href="https://osf.io/pr8v4/">same platform</ext-link>. Since this was an anonymous survey and no data related to the participants was collected or stored, no approval by the ethics committee was required. The survey was distributed globally but, due to the number of responses per geographical region, we opted to compile only those from Europe in the present report as it comprises the biggest number of responses.</p>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Demographics</title>
+        <p>We obtained a total of 57 respondents from Europe, including Russia. The experience levels of the respondents were as follows: Principal Investigator, PI= 22.8%; Postdoctoral Researcher, PDR= 19.3%; PhD Student= 45.6%; Masters’ Student= 5.3%; Other (technician, lab manager)= 7.0%.</p>
+      </sec>
+      <sec>
+        <title>Main questions</title>
+        <sec>
+          <title>Have you ever had problems replicating protocols from your own lab/group?</title>
+          <p>As seen in <xref ref-type="fig" rid="fig1">Figure 1A</xref>, the majority of respondents did not report major issues replicating protocols from their laboratories, with 57.9% rarely having problems, 22.8% not having problems, while 19.3% reported having frequent problems replicating their own protocols.</p>
+        </sec>
+        <sec>
+          <title>Have you ever attempted to replicate a study or single experiment published by another group in your field?</title>
+          <p>The majority of respondents reported attempting to replicate studies or experiments from different research groups: 68.4% attempted more than once, 7% only once, while 24.6% never attempted to replicate a study from the literature, <xref ref-type="fig" rid="fig1">Figure 1C</xref>.</p>
+          <fig id="fig1">
+            <label>Figure 1</label>
+            <caption>
+              <title>Responses to the pre-registered questionnaire, total 57 respondents.</title>
+              <p><bold>(A)</bold> <italic>Have you ever had problems replicating protocols from your own lab/group?</italic> Blue (Yes, rarely): 57.9%, Yellow (Yes, frequently): 19.3%, Red (No): 22.8%, <bold>(B)</bold> Number of responses in each score for <italic>How was your replication attempt of results from other groups?</italic> Scale: 0= no attempt, not shown; scale from 1= unsuccessful, to 5= successful (vertical line and hatched area: Median/IQR= 3/2; Mean/SD= 2.84/0.97, n=43). <bold>(C)</bold> <italic>Have you ever ATTEMPTED to replicate a study or single experiment published by another group in your field?</italic> Blue (Yes, once): 7.0%, Yellow (Yes, more than once): 68.4%, Red (No): 24.6% . <bold>(D)</bold> Number of responses in each score for <italic>What is your estimation of the replication success in your field?</italic> Scale: 1=very bad, to 10= very good (vertical line and hatched area: Median/IQR= 5/2.5; Mean/SD= 5.00/1.75, n=57).</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="figure1.png" />
+          </fig>
+        </sec>
+        <sec>
+          <title>How was your replication attempt of results from other groups?</title>
+          <p>The respondents were asked to score the success in their replication attempts of studies from the literature using a scale from 1 to 5 (scale from 1= unsuccessful, to 5= successful), the results indicated a median of 3 (Q1= 2, Q3= 4), with none of the answers scoring 5 (Mean/SD= 2.84/0.97 of the 43 respondents who attempted replications), as seen in <xref ref-type="fig" rid="fig1">Figure 1B</xref>. No difference was found between the major groups [PIs, PDR and PhD students; one-way ANOVA F(2,37)= 0.2596, p=0.7728], however different interpretations of “success” between groups, due to different levels of experience and understanding of the field, need to be taken into consideration.</p>
+        </sec>
+        <sec>
+          <title>What is your estimation of the replication success in your field?</title>
+          <p>The respondents were asked to estimate the success of replication attempts in their field from 1 (very bad) to 10 (very good), and the results indicated a median of 5 (Q1= 3.5; Q3= 6; Mean/SD= 5.00/1.75, n=57), <xref ref-type="fig" rid="fig1">Figure 1D</xref>, with none of the answers scoring 9 or 10. Again, no difference was observed between the major groups [F(2,49)=1.8986, p=0.1611], and as in the previous question, any possible difference in the interpretation of “replication success” between groups could not be detected in this questionnaire, therefore this lack of inter-group difference needs to be considered with caution.</p>
+        </sec>
+        <sec>
+          <title>Have you ever tried to PUBLISH the replication of a study or experiment?</title>
+          <p>As seen in <xref ref-type="fig" rid="fig2">Figure 2A</xref>, the majority of respondents never attempted to publish the results of their replication studies (77.2%), or were unsuccessful when doing so (7.0%), while 15.8% succeeded in the process.</p>
+          <fig id="fig2">
+            <label>Figure 2</label>
+            <caption>
+              <title>Responses to the pre-registered questionnaire, total 57 respondents.</title>
+              <p>The pie charts represent the percentage of answers to the following questions: <bold>(A)</bold> <italic>Have you ever tried to PUBLISH the replication of a study or experiment?</italic> Blue (Yes, successfully): 15.8%, Yellow (Yes, but unsuccessfully): 7.0%, Red (No): 77.2%. <bold>(B)</bold> <italic>Do you think your field suffers from reproducibility issues?</italic> Blue (Yes, definitely!): 56.1%, Red (Yes, but it is not a ‘crisis’): 36.8%, Yellow (Not yet): 7.0% <bold>(C)</bold> <italic>What is your perception about journals' policy for results of replication attempts? </italic>Blue (Journals are not friendly to publish results of replication): 70.2%, Red (I don’t know): 24.6%, Yellow (Journals welcome results of replication, even contradictory): 3.5%, Green (Journals welcome results of replication, except when contradictory): 1.8%.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="figure2.png" />
+          </fig>
+        </sec>
+        <sec>
+          <title>Do you think your field suffers from reproducibility issues?</title>
+          <p>The majority of the respondents see a ‘crisis’ in their field of work (56.1%), with 36.8% manifesting concerns although not perceiving a ‘crisis’; 7% of the participants do not see reproducibility issues in their field of study, as seen in <xref ref-type="fig" rid="fig2">Figure 2B</xref>.</p>
+        </sec>
+        <sec>
+          <title>What is your perception about journals' policy for results of replication attempts?</title>
+          <p>The results indicate that respondents do not see journals as welcoming venues to publish the results of replication attempts, with 70.2% answering that journals are not friendly to publish such results. Only a small number of respondents (3.5%) answered that journals accept to publish the results of replication attempts, even when contradictory, and 1.8% see journals as welcoming only confirmatory results of replication studies. Surprisingly, almost a quarter of the respondents (24.6%) did not know about journals’ policies (<xref ref-type="fig" rid="fig2">Figure 2C</xref>).</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Data Availability</title>
+        <p>The questions used in the survey, and the obtained dataset is available in OSF (https://osf.io/) under the DOI: 10.17605/OSF.IO/T9P42. All material is available under a CC BY license.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>In the present study we evaluated the response of a small cohort of scientists in Europe to questions related to reproducibility of experiments. The survey was shared via institutional mail lists and social media, leading to a potential exclusion of scientists not present on social media, and, therefore, a sample bias. Statistics in the literature suggest that the majority of scientists present on social media are within the age of 21 to 49 [<xref ref-type="bibr" rid="ref11">11</xref>]. Thus, it is likely that the answers of this survey have an under-representation of more “senior” scientists, which fits our demographic data with the PhD students representing alone 45.6% of respondents.</p>
+      <p>The questionnaire was clearly advertised to be about “reproducibility”, thus it is safe to assume that only people familiar with the topic answered the survey. However, since this questionnaire was not meant to assess the percentage of scientists replicating experiments but their perception about the topic, this potential bias should not represent a major limitation. We observed that although the majority of respondents did not report major issues replicating their own protocols, the replication of studies from the literature is less straightforward. The reason for this discrepancy between <italic>intra-</italic> and <italic>inter</italic>-group reproducibility might be explained by the differences in sources and level of methodological detail. When trying to replicate results from literature, one often has only the final article, or in very rare cases, a study protocol [<xref ref-type="bibr" rid="ref12">12</xref>]. However, when trying to replicate results from the same lab, one usually has access to protocols, lab notebooks with notes and observations, often the exact same set up and same batch of reagents, and importantly, sometimes the expertise and knowledge of the researcher who obtained those results in the first place. It is important to consider that we did not address the frequency of replications in lab protocols or studies from literature, which may limit our conclusions of the successfulness of the attempts.</p>
+      <p>Hypothesizing a best-case scenario where every published result is genuinely produced by honest and well-conducted experiments, the inability to fully replicate these results from different laboratories has two possible implications. First, the originally published results are weak and need a highly specific and narrow context to occur, depending on variables that the authors themselves might not be aware of. This first implication generates questions on the actual relevance of these published results. If an observation requires unique conditions to be observable, it retains little relevance in proposing a generalizable theory behind a certain scientific phenomenon.</p>
+      <p>The second implication is that the low rate of replicability derives from poor description of materials and methods used. One important limitation to a satisfying protocol report is the word limit often imposed by scientific journals. Although this limit helps prevent long and wordy articles, there is no real reason not to exempt the methods section from this limit, allowing a detailed description of the methodologies used, especially in an online environment. It’s important to highlight that these two implications are not mutually exclusive, they can both be true. However, if on one hand there’s little we can do regarding the first scenario, there is a lot that can and must be done regarding the transparency and completeness of material and methods descriptions.</p>
+      <p>Nosek and Errington highlight that an exact (the authors call it ‘direct’) replication of a study is often very useful in case of results with weak predictability (which they define as ‘immature’) [<xref ref-type="bibr" rid="ref3">3</xref>]. When a theory is immature, it can be quite difficult to predict in which conditions the observed results would re-occur and when they would not, because of a lack of a deep theoretical understanding of the phenomenon. In these cases, being able to make replications as close as the original experiment as possible can be crucial in understanding how generalizable specific results are, by identifying the minimum variables necessary to observe said results. Hence, the critical importance of detailed and meticulous reporting of protocols in promoting, even allowing replication studies.</p>
+      <p>Publication and registration of detailed protocols via protocol repositories such as Protocols.io [<xref ref-type="bibr" rid="ref13">13</xref>] or Nature Protocols (ISSN:1750-2799) can certainly be expected to make direct replications much easier, and they might significantly improve the reproducibility rate of results providing a detailed description of procedures and variables to take into account and working as deterrent against questionable research practices by the authors.</p>
+      <p>However, if a set of results requires unique conditions to occur, the most detailed protocol won’t be enough and every tentative replication will fail. And that is fine. Failed replications are as valid as successful ones in investigating the solidity of a scientific claim [<xref ref-type="bibr" rid="ref3">3</xref>]. Of course, the very definition of a ‘successful replication’ is not easy to address. For instance, a rigorous, well-conducted experiment may not reach the same outcome of the original assay. In this sense, it is ambiguous if the result configures a successful or failed replication. Different scientists might interpret the definition of “successful replication” in different ways (successful replication of protocol regardless of outcome, or successful replication of results, etc.) therefore caution is needed when interpreting the results of our survey.</p>
+      <p>An additional fundamental strategy to improve reproducibility is to increase and standardize data sharing. Although many scientists declared to be more than willing to do so if provided with appropriate platforms [<xref ref-type="bibr" rid="ref14">14</xref>–<xref ref-type="bibr" rid="ref16">16</xref>], when this goodwill was put to test, the results showed a very poor outcome, with the majority of investigators denying a request to share their data [<xref ref-type="bibr" rid="ref15">15</xref>]. Implementing mandatory data sharing as part of the submission process to scientific journals would not only allow better and easier replications, but would boost research as a whole, contributing to a “symbiotic research” [<xref ref-type="bibr" rid="ref17">17</xref>] where researchers can build on each other’s data.</p>
+      <p>The answers compiled in <xref ref-type="fig" rid="fig1">Figure 1C</xref> suggest that the problem with reproducibility is not necessarily the lack of replication attempts, or at least not the only one. Although it is hard to estimate what is an ‘ideal number’ of attempts, our results suggest that a large part of the problem lies in the lack of visibility for the results of replication attempts. The majority of respondents (75.4%) attempted to replicate a study from the literature at least once, but most of them never even tried to publish the outcomes. And the answer might be at least partially suggested by the data in <xref ref-type="fig" rid="fig2">Figure 2C</xref>, according to which, more than 70% of respondents think that journals do not welcome submission of replication attempts. And they might be right. Or at least, they might not be ‘too wrong’. As of 2017, according to Yeung’s study, on a sample of 465 neuroscience journals, only 6% explicitly stated that they welcomed replication studies, and 0.6% explicitly stated they reject them.</p>
+      <p>The remaining 93.3% just did not state their position on the matter, with a small percentage (8.6%) implicitly discouraging the submission of replication studies [<xref ref-type="bibr" rid="ref9">9</xref>]. Although stating that “Journals do not welcome replication papers” might be an unjust generalization, it is also true that given the lack of a clear position from most of the journals, focusing on investigating, and publishing solely novel results is clearly the safest choice for authors. This lack of information contributes to a publication bias in favor of novel results. Having the journals clearly stating their positions about publishing replication studies not only would make the outcome less obscure for that majority of researchers, but would promote a process of normalization of publishing such results in the mainstream science journals.</p>
+      <p>Recently, several approaches have been developed to overcome the novelty-focused publishing system. The more direct way is posting preprints [<xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref>] and pre registering the attempts through registered reports [<xref ref-type="bibr" rid="ref20">20</xref>-<xref ref-type="bibr" rid="ref21">21</xref>]. Registered reports are detailed descriptions of the experiments and analyses to be conducted before data collection, which will be peer-reviewed and ‘accepted in principle’ by the journal. However, to this date less than 300 journals in all fields of science accept registered reports [<xref ref-type="bibr" rid="ref22">22</xref>]. Both preprints and pre registrations can tackle the publication bias in favor of negative or contradictory results. However, the lack of peer review might be seen as a limitation, as peer reviews might be an additional level of rigor-check, especially in cases of direct replications. Micropublications (ISSN:2578-9430) can represent a valid compromise, allowing independent non-novelty focused publications without renouncing a peer review phase but in a simplified and speedy process. Special issues from existing journals allow, from time to time, publication of replication studies in journals that wouldn’t normally welcome them. This, however, might promote a vision of replication studies as something “exceptional”, out of the ordinary, a type of attitude that may actually be contributing to the so-called “reproducibility crisis”. Lastly, the appearance of new journals entirely dedicated to publishing replication studies [<xref ref-type="bibr" rid="ref23">23</xref>] may hopefully give visibility to all the replications made but never considered to be shared. The most likely scenario is that improving the communication of reproducibility results is not a ‘one-size fits all’ solution and different but complementary approaches must be tested, paving the way to more reliable science.</p>
+    </sec>
+    <sec>
+      <title>Declarations</title>
+      <sec>
+        <title>Funding</title>
+        <p>None.</p>
+      </sec>
+      <sec>
+        <title>Conflict of Interest</title>
+        <p>The authors are members of the Editorial Board of the Journal for Reproducibility in Neuroscience (ISSN: 2670-3815).</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Editorial Notes</title>
+      <sec>
+        <title>History</title>
+        <list list-type="bullet" id="list-fae14a8e7248f3069d26f213583b6a64">
+          <list-item>
+            <p>Received: 2021-03-04</p>
+          </list-item>
+          <list-item>
+            <p>Revisions Requested: 2021-04-09</p>
+          </list-item>
+          <list-item>
+            <p>Revised: 2021-05-13</p>
+          </list-item>
+          <list-item>
+            <p>Revisions Requested: 2021-06-09</p>
+          </list-item>
+          <list-item>
+            <p>Revised: 2021-06-19</p>
+          </list-item>
+          <list-item>
+            <p>Accepted: 2021-06-19</p>
+          </list-item>
+          <list-item>
+            <p>Published: 2021-06-23</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>Editorial Checks</title>
+        <list list-type="bullet" id="list-4cdce25369d9387b9e8c2ea0c0e1d26d">
+          <list-item>
+            <p>Plagiarism: Plagiarism detection software found no evidence
+ of plagiarism.</p>
+          </list-item>
+          <list-item>
+            <p>References: Zotero did not identify any references in the <ext-link xlink:href="https://retractionwatch.com">RetractionWatch</ext-link> database.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec>
+        <title>Peer Review</title>
+        <p>This paper followed a standard single-blind review process.</p>
+        <p>For the benefit of readers, reviewers are asked to write a public summary of their review to highlight the key strengths and weaknesses of the paper. Signing of reviews is optional.</p>
+      </sec>
+      <sec>
+        <title>Reviewer 1 (William Xiang Quan Ngiam, University of Chicago, United States. <ext-link xlink:href="https://orcid.org/0000-0003-3567-3881">https://orcid.org/0000-0003-3567-3881</ext-link>)</title>
+        <p>This paper provides a useful commentary on an important issue in the ‘reproducibility crisis’ – scientists’ perspectives on replication attempts and the reception of those attempts at scientific journals. Noting that the respondents are a small sample of scientists from Europe, the majority of respondents report being able to successfully replicate their own protocols but not others’, and that most scientific journals are unwelcoming towards replications. This highlights issues of the ‘file drawer’ problem and publication bias that contributes to the replication crisis, as well as the role of scientific journals in ensuring reproducibility of the findings.</p>
+      </sec>
+      <sec>
+        <title>Reviewer 2 (Hannah Fraser, University of Melbourne, Australia. <ext-link xlink:href="https://orcid.org/0000-0003-2443-4463">https://orcid.org/0000-0003-2443-4463</ext-link>)</title>
+        <p>This article provides a really interesting insight into the prevalence of replication studies, suggesting that many more are conducted than are published because the authors often don’t submit the results to journals. This is particularly interesting because it is different from previous work which assumes that the reason there are few replication studies is that a) people aren’t conducting them and b) journals wont publish them. The study is limited in scope but, by providing access to the raw materials used in this study, the authors make it possible for others to expand on their work.</p>
+      </sec>
+      <sec>
+        <title>Reviewer 3 (Czarina Evangelista, Concordia University, Montreal, Canada. <ext-link xlink:href="https://orcid.org/0000-0002-7745-5252">https://orcid.org/0000-0002-7745-5252</ext-link>)</title>
+        <p>Within the scientific community, many are aware of issues with data reproducibility within and outside of laboratories. However, the current publication system biases scientists to report novel experimental findings and makes it challenging to publish replication studies. The present study explored the perception of reproducibility among scientists, primarily in Europe, by sharing a questionnaire through social media platforms. Most scientists reported rarely having issues replicating data within their laboratory. Many attempt to replicate data from other laboratories and have moderate success. The majority of those surveyed in this study have not attempted to publish replications of a study and are not aware of the journals’ policies about publishing replications. Overall, the majority of those surveyed agree that there are issues with data reproducibility in science.</p>
+        <p>The main weakness of this article is the small sample size, which resulted in a lack of diversity among respondents. That is, respondents were mainly from European institutions. Thus, the generalizability of this article’s findings to other countries would be interesting to investigate in the future. There are other matters that the present paper could improve upon such as administering a more detailed questionnaire to determine, for example, reproducibility issues in different scientific fields. Nevertheless, these limitations do not diminish the value of this present study but rather demonstrate the interesting avenues that can be addressed in future studies.</p>
+        <p>This article does a great job describing the importance of reproducibility in science. For example, it is important for understanding the generalizability of theories. I particularly enjoyed the fact that the authors discussed why reproducibility issues may arise and that they provided suggestions for how such issues could be overcome. For instance, the details of experimental procedures are often limited in journal articles, which can pose a challenge for researchers from other groups to replicate methods and results. The simple act of registering detailed protocols could aid in enhancing data reproducibility. Many scientists are familiar with the issues of reproducibility and publishing replication studies in our respective fields. At times it seems these issues have been normalized. This article describes that these problems need be addressed and can be fixed.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors are thankful to Senem Merve Fred, Rafael Moliner and Dr. Caroline Biojone for their comments in the preparation of the survey.</p>
+    </ack>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="preprint">
+          <elocation-id>arXiv:1802.03311</elocation-id>
+          <year>2018</year>
+          <pub-id pub-id-type="other" assigning-authority="worldcat">1106287615</pub-id>
+          <uri>https://arxiv.org/abs/1802.03311</uri>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barba</surname>
+              <given-names>Lorena A.</given-names>
+            </name>
+          </person-group>
+          <source>arXiv</source>
+          <article-title>Terminologies for Reproducible Research</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <issue>2</issue>
+          <page-range>90-100</page-range>
+          <volume>13</volume>
+          <year>2009</year>
+          <pub-id pub-id-type="doi">10.1037/a0015108</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>Stefan</given-names>
+            </name>
+          </person-group>
+          <source>Review of General Psychology</source>
+          <article-title>Shall we Really do it Again? The Powerful Concept of Replication is Neglected in the Social Sciences</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>e3000691</page-range>
+          <volume>18</volume>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pbio.3000691</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nosek</surname>
+              <given-names>Brian A.</given-names>
+            </name>
+            <name>
+              <surname>Errington</surname>
+              <given-names>Timothy M.</given-names>
+            </name>
+          </person-group>
+          <source>PLOS Biology</source>
+          <article-title>What is replication?</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <issue>6251</issue>
+          <page-range>aac4716</page-range>
+          <volume>349</volume>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1126/science.aac4716</pub-id>
+          <person-group person-group-type="author">
+            <collab>
+              <named-content content-type="name">Open Science Collaboration</named-content>
+            </collab>
+          </person-group>
+          <source>Science</source>
+          <article-title>Estimating the reproducibility of psychological science</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1126/science.aau9619</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>Jocelyn</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <article-title>Plan to replicate 50 high-impact cancer papers shrinks to just 18</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <volume>3</volume>
+          <year>2014</year>
+          <pub-id pub-id-type="doi">10.7554/elife.04333</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Errington</surname>
+              <given-names>Timothy M</given-names>
+            </name>
+            <name>
+              <surname>Iorns</surname>
+              <given-names>Elizabeth</given-names>
+            </name>
+            <name>
+              <surname>Gunn</surname>
+              <given-names>William</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>Fraser Elisabeth</given-names>
+            </name>
+            <name>
+              <surname>Lomax</surname>
+              <given-names>Joelle</given-names>
+            </name>
+            <name>
+              <surname>Nosek</surname>
+              <given-names>Brian A</given-names>
+            </name>
+          </person-group>
+          <source>eLife</source>
+          <article-title>An open investigation of the reproducibility of cancer biology research</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <issue>2</issue>
+          <page-range>115-126</page-range>
+          <volume>18</volume>
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.1038/nrn.2016.167</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Poldrack</surname>
+              <given-names>Russell A.</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>Chris I.</given-names>
+            </name>
+            <name>
+              <surname>Durnez</surname>
+              <given-names>Joke</given-names>
+            </name>
+            <name>
+              <surname>Gorgolewski</surname>
+              <given-names>Krzysztof J.</given-names>
+            </name>
+            <name>
+              <surname>Matthews</surname>
+              <given-names>Paul M.</given-names>
+            </name>
+            <name>
+              <surname>Munafò</surname>
+              <given-names>Marcus R.</given-names>
+            </name>
+            <name>
+              <surname>Nichols</surname>
+              <given-names>Thomas E.</given-names>
+            </name>
+            <name>
+              <surname>Poline</surname>
+              <given-names>Jean-Baptiste</given-names>
+            </name>
+            <name>
+              <surname>Vul</surname>
+              <given-names>Edward</given-names>
+            </name>
+            <name>
+              <surname>Yarkoni</surname>
+              <given-names>Tal</given-names>
+            </name>
+          </person-group>
+          <source>Nature Reviews Neuroscience</source>
+          <article-title>Scanning the horizon: towards transparent and reproducible neuroimaging research</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <issue>5</issue>
+          <page-range>376-387</page-range>
+          <volume>176</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1176/appi.ajp.2018.18070881</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Border</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>Emma C.</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>Luke M.</given-names>
+            </name>
+            <name>
+              <surname>Smolen</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name>
+              <surname>Berley</surname>
+              <given-names>Noah</given-names>
+            </name>
+            <name>
+              <surname>Sullivan</surname>
+              <given-names>Patrick F.</given-names>
+            </name>
+            <name>
+              <surname>Keller</surname>
+              <given-names>Matthew C.</given-names>
+            </name>
+          </person-group>
+          <source>American Journal of Psychiatry</source>
+          <article-title>No Support for Historical Candidate Gene or Candidate Gene-by-Interaction Hypotheses for Major Depression Across Multiple Large Samples</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <volume>11</volume>
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.3389/fnhum.2017.00468</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeung</surname>
+              <given-names>Andy W. K.</given-names>
+            </name>
+          </person-group>
+          <source>Frontiers in Human Neuroscience</source>
+          <article-title>Do Neuroscience Journals Accept Replications? A Survey of Literature</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <volume>8</volume>
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.3389/fpsyg.2017.00523</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>G. N.</given-names>
+            </name>
+            <name>
+              <surname>Clarke</surname>
+              <given-names>Richard M.</given-names>
+            </name>
+          </person-group>
+          <source>Frontiers in Psychology</source>
+          <article-title>Are Psychology Journals Anti-replication? A Snapshot of Editorial Practices</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <issue>10</issue>
+          <page-range>e0162680</page-range>
+          <volume>11</volume>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0162680</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collins</surname>
+              <given-names>Kimberley</given-names>
+            </name>
+            <name>
+              <surname>Shiffman</surname>
+              <given-names>David</given-names>
+            </name>
+            <name>
+              <surname>Rock</surname>
+              <given-names>Jenny</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Goffredo</surname>
+              <given-names>Stefano</given-names>
+            </name>
+          </person-group>
+          <source>PLOS ONE</source>
+          <article-title>How Are Scientists Using Social Media in the Workplace?</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <issue>11</issue>
+          <page-range>e2006930</page-range>
+          <volume>16</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pbio.2006930</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wallach</surname>
+              <given-names>Joshua D.</given-names>
+            </name>
+            <name>
+              <surname>Boyack</surname>
+              <given-names>Kevin W.</given-names>
+            </name>
+            <name>
+              <surname>Ioannidis</surname>
+              <given-names>John P. A.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Dirnagl</surname>
+              <given-names>Ulrich</given-names>
+            </name>
+          </person-group>
+          <source>PLOS Biology</source>
+          <article-title>Reproducible research practices, transparency, and open access data in the biomedical literature, 2015–2017</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <issue>8</issue>
+          <page-range>e1002538</page-range>
+          <volume>14</volume>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pbio.1002538</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Teytelman</surname>
+              <given-names>Leonid</given-names>
+            </name>
+            <name>
+              <surname>Stoliartchouk</surname>
+              <given-names>Alexei</given-names>
+            </name>
+            <name>
+              <surname>Kindler</surname>
+              <given-names>Lori</given-names>
+            </name>
+            <name>
+              <surname>Hurwitz</surname>
+              <given-names>Bonnie L.</given-names>
+            </name>
+          </person-group>
+          <source>PLOS Biology</source>
+          <article-title>Protocols.io: Virtual Communities for Protocol Development and Discussion</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="book">
+          <publisher-loc>Washington, DC</publisher-loc>
+          <publisher-name>National Aacademies Press</publisher-name>
+          <year>2015</year>
+          <pub-id pub-id-type="isbn">9780309316323</pub-id>
+          <pub-id pub-id-type="doi">10.17226/18998</pub-id>
+          <pub-id pub-id-type="pmid"> 25590113</pub-id>
+          <person-group person-group-type="author">
+            <collab>
+              <named-content content-type="name">Institute of Medicine</named-content>
+            </collab>
+            <collab>
+              <named-content content-type="name">Board on Health Sciences Policy</named-content>
+            </collab>
+            <collab>
+              <named-content content-type="name">Committee on Strategies for Responsible Sharing of Clinical Trial Data</named-content>
+            </collab>
+          </person-group>
+          <source>Sharing Clinical Trial Data: Maximizing Benefits, Minimizing Risk</source>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <issue>9</issue>
+          <page-range>e7078</page-range>
+          <volume>4</volume>
+          <year>2009</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0007078</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Savage</surname>
+              <given-names>Caroline J.</given-names>
+            </name>
+            <name>
+              <surname>Vickers</surname>
+              <given-names>Andrew J.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Mavergames</surname>
+              <given-names>Chris</given-names>
+            </name>
+          </person-group>
+          <source>PLoS ONE</source>
+          <article-title>Empirical Study of Data Sharing by Authors Publishing in PLoS Journals</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>e0229003</page-range>
+          <volume>15</volume>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0229003</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tenopir</surname>
+              <given-names>Carol</given-names>
+            </name>
+            <name>
+              <surname>Rice</surname>
+              <given-names>Natalie M.</given-names>
+            </name>
+            <name>
+              <surname>Allard</surname>
+              <given-names>Suzie</given-names>
+            </name>
+            <name>
+              <surname>Baird</surname>
+              <given-names>Lynn</given-names>
+            </name>
+            <name>
+              <surname>Borycz</surname>
+              <given-names>Josh</given-names>
+            </name>
+            <name>
+              <surname>Christian</surname>
+              <given-names>Lisa</given-names>
+            </name>
+            <name>
+              <surname>Grant</surname>
+              <given-names>Bruce</given-names>
+            </name>
+            <name>
+              <surname>Olendorf</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name>
+              <surname>Sandusky</surname>
+              <given-names>Robert J.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Lozano</surname>
+              <given-names>Sergi</given-names>
+            </name>
+          </person-group>
+          <source>PLOS ONE</source>
+          <article-title>Data sharing, management, use, and reuse: Practices and perceptions of scientists worldwide</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <issue>3</issue>
+          <page-range>276-277</page-range>
+          <volume>374</volume>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1056/nejme1516564</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Longo</surname>
+              <given-names>Dan L.</given-names>
+            </name>
+            <name>
+              <surname>Drazen</surname>
+              <given-names>Jeffrey M.</given-names>
+            </name>
+          </person-group>
+          <source>New England Journal of Medicine</source>
+          <article-title>Data Sharing</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <volume>2</volume>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.31885/jrn.2.2021.1465</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Puebla</surname>
+              <given-names>Iratxe</given-names>
+            </name>
+          </person-group>
+          <source>Journal for Reproducibility in Neuroscience</source>
+          <article-title>Preprints: a tool and a vehicle towards greater reproducibility in the life sciences</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <issue>6288</issue>
+          <page-range>899-901</page-range>
+          <volume>352</volume>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1126/science.aaf9133</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berg</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Bhalla</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>P. E.</given-names>
+            </name>
+            <name>
+              <surname>Chalfie</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Drubin</surname>
+              <given-names>D. G.</given-names>
+            </name>
+            <name>
+              <surname>Fraser</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name>
+              <surname>Greider</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Hendricks</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kiley</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kirschner</surname>
+              <given-names>M. W.</given-names>
+            </name>
+            <name>
+              <surname>Krumholz</surname>
+              <given-names>H. M.</given-names>
+            </name>
+            <name>
+              <surname>Lehmann</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Leptin</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pulverer</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Rosenzweig</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Spiro</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Stebbins</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Strasser</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Swaminathan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Vale</surname>
+              <given-names>R. D.</given-names>
+            </name>
+            <name>
+              <surname>VijayRaghavan</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Wolberger</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <article-title>Preprints for the life sciences</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <issue>11</issue>
+          <page-range>2600-2606</page-range>
+          <volume>115</volume>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1073/pnas.1708274114</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nosek</surname>
+              <given-names>Brian A.</given-names>
+            </name>
+            <name>
+              <surname>Ebersole</surname>
+              <given-names>Charles R.</given-names>
+            </name>
+            <name>
+              <surname>DeHaven</surname>
+              <given-names>Alexander C.</given-names>
+            </name>
+            <name>
+              <surname>Mellor</surname>
+              <given-names>David T.</given-names>
+            </name>
+          </person-group>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <article-title>The preregistration revolution</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <issue>9</issue>
+          <page-range>568-572</page-range>
+          <volume>42</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1016/j.tins.2019.07.003</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiyonaga</surname>
+              <given-names>Anastasia</given-names>
+            </name>
+            <name>
+              <surname>Scimeca</surname>
+              <given-names>Jason M.</given-names>
+            </name>
+          </person-group>
+          <source>Trends in Neurosciences</source>
+          <article-title>Practical Considerations for Navigating Registered Reports</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22</label>
+        <element-citation publication-type="webpage">
+          <uri>https://www.cos.io/initiatives/registered-reports</uri>
+          <uri specific-use="archived">https://web.archive.org/web/20210521015044/https://www.cos.io/initiatives/registered-reports</uri>
+          <date-in-citation iso-8601-date="2021-05-09">9 May 2021</date-in-citation>
+          <person-group person-group-type="author">
+            <collab>
+              <named-content content-type="name">Center for Open Science</named-content>
+            </collab>
+          </person-group>
+          <source>Center for Open Science</source>
+          <article-title>Registered Reports</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <volume>1</volume>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.31885/jrn.1.2020.303</pub-id>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Casarotto</surname>
+              <given-names>Plinio</given-names>
+            </name>
+            <name>
+              <surname>Brembs</surname>
+              <given-names>Björn</given-names>
+            </name>
+          </person-group>
+          <source>Journal for Reproducibility in Neuroscience</source>
+          <article-title>A platform for reproducibility</article-title>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
