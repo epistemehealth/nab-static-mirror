@@ -1,7 +1,7 @@
 +++
 Title = "Editorial Team"
 Summary = "Names and details of editorial board members"
-Date = "2021-05-14T23:00:00+10:00"
+Date = "2021-06-24T11:00:00+10:00"
 
 canonicalurl = "https://epistemehealth.com/index.php/nab/about/editorialTeam"
 +++
@@ -99,6 +99,10 @@ Dr Li focuses on a new merging field known as Neuroepigenetics. His current work
 Alaknanda Mishra [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-9740-8031)[[ResearchGate](https://www.researchgate.net/profile/Alaknanda_Mishra)]  
 University of Calidornia, Davis, United States.
 Dr Mishra works as a postdoctoral fellow and her research involves the study of retinal degeneration disorders, their pathology and underlying mechanisms in animal models. She is working towards potential therapeutic strategies to rescue neuro-ocular structure and function and dissecting the ocular immune response to cell and gene therapies in eye diseases.
+
+Czarina Evangelista [![ORCID Logo](/img/orcid.png)](https://orcid.org/0000-0002-7745-5252)  
+Colby College, United States.  
+Dr. Evangelista is a Visiting Assistant Professor of Behavioral Neuroscience. She is interested in understanding the phenomenon whereby a taste of a reward increases motivation to obtain more of it, which is referred to as the priming effect of rewards. She teaches undergraduate behavioral neuroscience courses and she mentors diverse students on research projects and career planning.
 
 **Reviewing Editors**
 
