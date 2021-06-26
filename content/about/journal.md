@@ -1,7 +1,7 @@
 +++
 Title = "About the Journal"
 Summary = "Basic information about the journal"
-Date = "2020-02-06T09:00:00+10:00"
+Date = "2021-06-27T07:00:00+10:00"
 
 canonicalurl = "https://epistemehealth.com/index.php/nab/about"
 +++
@@ -57,4 +57,4 @@ We are always working to improve the indexing and discoverability of the journal
 &#45; [Ulrich’s Periodicals Directory](https://www.proquest.com/products-services/Ulrichsweb.html)  
 &#45; [WorldCat](https://www.worldcat.org/search?q=n2%3A2652-1768)
 
-Digital preservation is an essential function of publishers. In the short-term, we use off-site digital server backups combined with a publicly available archive of the journal on [Github](https://github.com/epistemehealth/neuroanatomy-and-behaviour) and this [static mirror](https://nab.epistemehealth.com). We achieve long-term digital preservation by encouraging all authors to archive their final published PDFs in their institutional and disciplinary repositories, engaging with [Australian legal deposit](https://www.nla.gov.au/legal-deposit) requirements, and through digital archiving agencies. We currently participate in the [PKP Preservation Network](https://pkp.sfu.ca/pkp-pn/), which is a member of the [Keepers Registry](https://keepers.issn.org/keepers), and plan to join a [TRAC-certified digital preservation archive](https://www.crl.edu/archiving-preservation/digital-archives). Issues archived with the National Library of Australia and State Library Victoria can be accessed through [Trove](https://nla.gov.au/nla.obj-2057639965). Digital preservation information for each article can be viewed in Crossmark metadata.
+Digital preservation is an essential function of publishers. In the short-term, we use off-site digital server backups combined with a publicly available archive of the journal on [Github](https://github.com/epistemehealth/neuroanatomy-and-behaviour) and this [static mirror](https://nab.epistemehealth.com). We achieve long-term digital preservation by encouraging all authors to archive their final published PDFs in their institutional and disciplinary repositories (e.g. [PsychArchives](https://www.psycharchives.org/simple-search?query=2652-1768)), engaging with [Australian legal deposit](https://www.nla.gov.au/legal-deposit) requirements, and through digital archiving agencies. We currently participate in the [PKP Preservation Network](https://pkp.sfu.ca/pkp-pn/), which is a member of the [Keepers Registry](https://keepers.issn.org/keepers), and plan to join a [TRAC-certified digital preservation archive](https://www.crl.edu/archiving-preservation/digital-archives). Issues archived with the National Library of Australia and State Library Victoria can be accessed through [Trove](https://nla.gov.au/nla.obj-2057639965). Digital preservation information for each article can be viewed in Crossmark metadata.
